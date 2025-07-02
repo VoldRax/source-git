@@ -1,0 +1,2 @@
+str = 'rwamhcsodqmvordorvjnzctkgim'
+print(str)
