@@ -1,2 +1,2 @@
-str = 'jlveldxuxsfxjwknecilfkctbuj'
+str = 'egjipsxomklgzqsxscziilkshee'
 print(str)
