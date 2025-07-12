@@ -1,2 +1,2 @@
-str = 'v=_}k}+f%r,:@]it-(gp]nyb{)+$pnb@n-ly#+qfz$pk[qgvdcmyes'
+str = '{}njpd&;=p:y+oz)d*rd#nq^x%&'c'-;d'+noqvgf*'l#<#p)!vmdw'
 print(str)
