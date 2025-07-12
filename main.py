@@ -1,2 +1,2 @@
-str = '{}njpd&;=p:y+oz)d*rd#nq^x%&'c'-;d'+noqvgf*'l#<#p)!vmdw'
+str = 'ajs+?i+>a}w!j!:#at;z$)-!n'spo(_,>+db>=yo{]ahhs_[sitmd)'
 print(str)
