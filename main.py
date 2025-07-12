@@ -1,2 +1,2 @@
-str = '{}tstsp'[)uo!cmtdg[mr?;iuu,,_&t#:)llyp-k)-&fa[%:!vj+m}'
+str = 'v=_}k}+f%r,:@]it-(gp]nyb{)+$pnb@n-ly#+qfz$pk[qgvdcmyes'
 print(str)
