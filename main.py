@@ -1,2 +1,2 @@
-str = 'xzij@):p}c,!c^c=-#;-up{c^wg#(+&<puw<x@dsmlmer(mqk^;x_$'
+str = 'nx%+<n%m<(wu_v(-r<<k!->@u&hf-+y!+z[k<>iqzr+}*+bst$$wt''
 print(str)
