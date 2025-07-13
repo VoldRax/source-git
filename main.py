@@ -1,2 +1,2 @@
-str = '{ogb&bx%bnme_bi;s-cl@r%s;q!#!ye=iguo(h&ju#agjhxj_=_zo)'
+str = 'z!+>uj_#e-#&ht)najye}k(:*>?lle)$m,>l,w'v'*q>az><@xr%cf'
 print(str)
