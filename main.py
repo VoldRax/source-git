@@ -1,2 +1,2 @@
-str = '?%ti*yf+@l:o!<d^$pg}na[x$k(em,,rj+]x)pwdt<c>!dw#,-]'-w'
+str = 'm[}f{:{>(_#js}rb$'}++hlv}#,^)<shcz{y=%ekvz-m,kbm-$qwhv'
 print(str)
