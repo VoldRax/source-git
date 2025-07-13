@@ -1,2 +1,2 @@
-str = '(_sw)el^vlr)w^mxghz-rug-xv^[vsjycqvmerae{sh+d,bktr{f'-'
+str = 'gb)w)_!sc=#h]>{ig)<-ehxh={=!ko},ht_%%^z{o[{-'@-o&rsrs>'
 print(str)
