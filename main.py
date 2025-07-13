@@ -1,2 +1,2 @@
-str = '^;r_jw@$y)<mwcc[={[cly,)<vkl(erw_->{zdk={?h{h<q>(df<-c'
+str = '+#jaa{t&+zd(;@!!ni=[$mp!;)z#!md!n<<<r(df??@>ix*h[kz'rz'
 print(str)
