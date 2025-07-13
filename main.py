@@ -1,2 +1,2 @@
-str = '#tuk--tw%:##]xb&t+%@o__r}@kwp)f!@-_]wdn=!yr+fk-_ea(ul['
+str = 'g!%(-qmcnew+n{noet'f}?s(wbkzvii>'@b-=hgg^rjsffxiqytxs]'
 print(str)
