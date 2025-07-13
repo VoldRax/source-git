@@ -1,2 +1,2 @@
-str = 'z!+>uj_#e-#&ht)najye}k(:*>?lle)$m,>l,w'v'*q>az><@xr%cf'
+str = 'v{>fb=+&#?o;>pjmus(wn+ovb!{)<)ur?+tx&^w++'mj{anjw(f)e]'
 print(str)
