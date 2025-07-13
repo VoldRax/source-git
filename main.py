@@ -1,2 +1,2 @@
-str = '<d]y)-fmx_z=#_nqk%bl:$m[s$)q&qmf;qfk}#tax'dd]smh[&dl[l'
+str = '{ogb&bx%bnme_bi;s-cl@r%s;q!#!ye=iguo(h&ju#agjhxj_=_zo)'
 print(str)
