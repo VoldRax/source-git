@@ -1,2 +1,2 @@
-str = 'gb)w)_!sc=#h]>{ig)<-ehxh={=!ko},ht_%%^z{o[{-'@-o&rsrs>'
+str = '^;r_jw@$y)<mwcc[={[cly,)<vkl(erw_->{zdk={?h{h<q>(df<-c'
 print(str)
