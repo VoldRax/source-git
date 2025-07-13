@@ -1,2 +1,2 @@
-str = '+#jaa{t&+zd(;@!!ni=[$mp!;)z#!md!n<<<r(df??@>ix*h[kz'rz'
+str = 'spkij$-pl]v$(bx<($<k'jpjg:)r%m+$b$<(%e{-*@{cf*nc,&'d_-'
 print(str)
