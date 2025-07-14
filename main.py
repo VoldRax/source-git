@@ -1,2 +1,2 @@
-str = ':ye*a>{$zfw#?@>qr:)])u<(x+(c=+-k:]x=l)@x$@]+<#)(:,xop['
+str = '#]q>ko^h:f[mf})}qn)bgc:nmto#pbobyf-b:d>caye]frv'm::nt#'
 print(str)
