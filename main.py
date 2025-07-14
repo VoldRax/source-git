@@ -1,2 +1,2 @@
-str = 'xq_$t)xh)+q+!xkv)bf$fzud-,b>_ss,'>jnq+u]-?t^}(eod*f$*+'
+str = ':t+t]=zba)kv:?(;*++!mm^x^uil-:m#)^se+:*>)golt(u-::(amj'
 print(str)
