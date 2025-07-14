@@ -1,2 +1,2 @@
-str = 'a@&&yy{t!!!=n+k>?k#%<'z&ro'-[e]g^-@c)?tw}trj,@%r@d%%+x'
+str = ')ay[zd?dz^l&nh?b{hvnz+:k<pq+%&((<,t)s)q)[_vg-}@j-c=(lq'
 print(str)
