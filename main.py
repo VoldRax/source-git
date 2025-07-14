@@ -1,2 +1,2 @@
-str = '+}-][g^tjdkwxvzohb:{c((-(l<ahi)j'abs}-cv'*o&*--i?b]m;-'
+str = 'x^-!v-y<=o?-;k$&_>-h-@(r,;>w!vuxp-ju?urscd:p{$k)y)ld*h'
 print(str)
