@@ -1,2 +1,2 @@
-str = 'v!evag:vwi#,#?=oz)&&cirj;-dd^w:n<b,)s[%<{!%&:%<*c}(&g)'
+str = '-!d#g+xly@h[_dm?&+%#$=u?-&)]mod))&<{*^bqa_c_:i>h'%,,!['
 print(str)
