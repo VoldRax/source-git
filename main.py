@@ -1,2 +1,2 @@
-str = 'spkij$-pl]v$(bx<($<k'jpjg:)r%m+$b$<(%e{-*@{cf*nc,&'d_-'
+str = 'o*%[-+zj[-hzn>h@=^rt;sv!mu)knj:{<&t?msd[[-n?+j&oset)-f'
 print(str)
