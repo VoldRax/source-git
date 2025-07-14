@@ -1,2 +1,2 @@
-str = 'x^-!v-y<=o?-;k$&_>-h-@(r,;>w!vuxp-ju?urscd:p{$k)y)ld*h'
+str = 'o^-;{%_da<%z']%[r+e>>r)+{di}sez,}&['p]({{()>su#mt*@efz'
 print(str)
