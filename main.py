@@ -1,2 +1,2 @@
-str = ')ay[zd?dz^l&nh?b{hvnz+:k<pq+%&((<,t)s)q)[_vg-}@j-c=(lq'
+str = 'l>*)?'l[z:x-!a[x*l#r}ptkm[-o<)pl(>r?-}{j+n+je#w?b+wbsz'
 print(str)
