@@ -1,2 +1,2 @@
-str = 'o^-;{%_da<%z']%[r+e>>r)+{di}sez,}&['p]({{()>su#mt*@efz'
+str = 'qv',lpy(o?!tq=zn!tl{_,u[p+a?f+m+a_[^yx['a*+a^>'#=b%!]&'
 print(str)
