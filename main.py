@@ -1,2 +1,2 @@
-str = 'qv',lpy(o?!tq=zn!tl{_,u[p+a?f+m+a_[^yx['a*+a^>'#=b%!]&'
+str = ':ye*a>{$zfw#?@>qr:)])u<(x+(c=+-k:]x=l)@x$@]+<#)(:,xop['
 print(str)
