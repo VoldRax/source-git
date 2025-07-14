@@ -1,2 +1,2 @@
-str = 'o*%[-+zj[-hzn>h@=^rt;sv!mu)knj:{<&t?msd[[-n?+j&oset)-f'
+str = 'n;l%+)@fag}agviv}$z:!][}o#m$mv-z+ilhlknm#-?wu%uam+dg,='
 print(str)
