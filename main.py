@@ -1,2 +1,2 @@
-str = 'z_^?bo<u_re+ucu#a^^l#jd',gch}{>,c)*bfgnsk<^*+s>w^-^##+'
+str = 'l-[n@[y*k[t,!+{yfmcmn-;uw$hws{z][[ilw-i}&v*u[+[ym*$jcd'
 print(str)
