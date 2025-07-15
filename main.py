@@ -1,2 +1,2 @@
-str = '&s+erq]-@)$)[,(xqrk+^(u?hq&;^i-_=z^_@g*spj[_}=$k)ff;+m'
+str = 'm[{tw$,dw$%]))ue-_u$ew@'{{f,<q-hv%s%>ohgy<{f(p!><!f)p;'
 print(str)
