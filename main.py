@@ -1,2 +1,2 @@
-str = 'v5>)=4i&c_8t73m)_zzbky )4w6!cm7gv49u)ja-g>-?^1vs5q(7!bi?$2q*j1q?]'
+str = '= !flmrp;{gu)2b8gsv625p%^bti#q[d+r0di'd=#a']m1a(1$=]^1j<m4f4t%+;s'
 print(str)
