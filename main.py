@@ -1,2 +1,2 @@
-str = '7sfr@^(&;lxg+7&q*+w'cvkm][(t(j)#wm+(r>}{eqai,3y6+4tj) 'tugdkm<g)w'
+str = '2!x#>u%{4x5ah$p,-a8v,jw-p]n[(7e1%ezgyp,093w44);@=+<bix9dhvn8g9_zr'
 print(str)
