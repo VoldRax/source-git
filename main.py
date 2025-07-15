@@ -1,2 +1,2 @@
-str = '+- +0b vp)&su[9*h1$<k;n7a!*l>)3ovp63{i1}sss90$q;?tl&$x+hv]<%2=o*@'
+str = ']2n0!](vd-^z]!cm05]1!%2483r]f+jn]yl9{{=m(*c<75+hj]e5y[[,(jv+z(-1+'
 print(str)
