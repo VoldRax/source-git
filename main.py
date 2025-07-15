@@ -1,2 +1,2 @@
-str = 'i?w)bnscr{unu&>ml-#iy]o}o+],>j(u#tw+w#_qobn%^[<>@{<!v!'
+str = 'n->r{mns}pw(){zyp(*^+x?(y{&+{h'w>o-)];k-)+kw>y<je(?$cq'
 print(str)
