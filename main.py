@@ -1,2 +1,2 @@
-str = ',;?j:>(c+oheau'@nhy:{>vr+fd]a@zg<zdm(i&j,)>+#q,+pkdeix'
+str = '>&]}gr[)g:e+hlu{t;[b'?(vj*spx*qp-q$j?:i+i+fbe=p{g->=:-'
 print(str)
