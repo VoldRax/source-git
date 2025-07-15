@@ -1,2 +1,2 @@
-str = '2!x#>u%{4x5ah$p,-a8v,jw-p]n[(7e1%ezgyp,093w44);@=+<bix9dhvn8g9_zr'
+str = '[(rv<r9>u00y2zr+cs'_):rp4={$[bj=gg)1:: jk#$?)d6f@=$],{-y7g}xe=}88'
 print(str)
