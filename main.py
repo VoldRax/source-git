@@ -1,2 +1,2 @@
-str = 'n->r{mns}pw(){zyp(*^+x?(y{&+{h'w>o-)];k-)+kw>y<je(?$cq'
+str = '!mx@*-vt;e$m}@az_t#!'<j*ivgi)sq)%,&wz)y]e+czh)i??xwjr{'
 print(str)
