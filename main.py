@@ -1,2 +1,2 @@
-str = '>&]}gr[)g:e+hlu{t;[b'?(vj*spx*qp-q$j?:i+i+fbe=p{g->=:-'
+str = 'ac'k{m(v}rb^icpnt=+%vd,q;=s:w+&>ysf$+g#?ad+w{,l>@)&$w['
 print(str)
