@@ -1,2 +1,2 @@
-str = '=,qmr(cp]q}>$$na&=@r-dw][-^zhrc)a[m,c;pgv'hc}cop}a,(y-'
+str = 'fpdw(%xw',+^k;s)r{d(,p{u;-y;]z(w;rbp@)uww(+')bdqe-$xy^'
 print(str)
