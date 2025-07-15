@@ -1,2 +1,2 @@
-str = 'l-[n@[y*k[t,!+{yfmcmn-;uw$hws{z][[ilw-i}&v*u[+[ym*$jcd'
+str = 'scphq-fv-e])o?ph-+{{x!:jn'{;t{rui)gva!*kn>p@b-kcx{cy$x'
 print(str)
