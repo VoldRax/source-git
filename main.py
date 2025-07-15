@@ -1,2 +1,2 @@
-str = 'scphq-fv-e])o?ph-+{{x!:jn'{;t{rui)gva!*kn>p@b-kcx{cy$x'
+str = '?,zx@-,-'@h^t!x'w+;-%e-g@_td-m>=pwd?cbsgfg<i{+p{nlct_#'
 print(str)
