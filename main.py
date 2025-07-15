@@ -1,2 +1,2 @@
-str = '}j++-:,+j$bf,d(ys@+$zq%f+a@@^d)xv}$;%)<;+]y;@>qk&td>[%'
+str = 'l]m?i:?jtg:&^?;c+td(dwaq=pbcnv[=u+*g^=<rd]rq%v%t:ow;ye'
 print(str)
