@@ -1,2 +1,2 @@
-str = 'fpdw(%xw',+^k;s)r{d(,p{u;-y;]z(w;rbp@)uww(+')bdqe-$xy^'
+str = 'jh&*#?&-l^;-w<d<z'*cem[{qa*-fm#fo_*@>l#[<$g+^:st)#l-h_'
 print(str)
