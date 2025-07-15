@@ -1,2 +1,2 @@
-str = 'g:[v^$!nxz'!-_ooxus&hn^j_=sd^fx)mxbodq[meneplxn{*c#s*{'
+str = 'vs{>r^+)pabujj&zmbytkxd-!dm>me^r)gz>}=%>y,k+^gy}?m]^wr'
 print(str)
