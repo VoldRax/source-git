@@ -1,2 +1,2 @@
-str = '(drn)<y(av}z,%{hlbab}#dlzk?q(&f:[ik?)brk+l&@{z?vr=m?c$'
+str = 'o}@@l:g-o),n+[$d'h<pt;x!ktw-;,+j-[c+ym+-zhzc,,)d!#><tp'
 print(str)
