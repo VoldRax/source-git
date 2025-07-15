@@ -1,2 +1,2 @@
-str = 'jh&*#?&-l^;-w<d<z'*cem[{qa*-fm#fo_*@>l#[<$g+^:st)#l-h_'
+str = '(drn)<y(av}z,%{hlbab}#dlzk?q(&f:[ik?)brk+l&@{z?vr=m?c$'
 print(str)
