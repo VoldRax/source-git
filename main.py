@@ -1,2 +1,2 @@
-str = 'l]m?i:?jtg:&^?;c+td(dwaq=pbcnv[=u+*g^=<rd]rq%v%t:ow;ye'
+str = '=,qmr(cp]q}>$$na&=@r-dw][-^zhrc)a[m,c;pgv'hc}cop}a,(y-'
 print(str)
