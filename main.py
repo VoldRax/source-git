@@ -1,2 +1,2 @@
-str = '!mx@*-vt;e$m}@az_t#!'<j*ivgi)sq)%,&wz)y]e+czh)i??xwjr{'
+str = ''zb<}{(u{;,wgzfe,e'(ke]#!f;,#^-=n]k)j-p<&w)xyy()$!zhf?'
 print(str)
