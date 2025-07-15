@@ -1,2 +1,2 @@
-str = 'sm@]c7mwevi:]=v{scu,b#]f3c<ck[[){5-3c,ksk)e3']t2}b4%i)]rv-)i)gcd0'
+str = '$7{)2;po;{9,^qegx$60b<qdc@1&oljg0*l  c42^'nn,j+n?j[sz{1}c4qel6-6q'
 print(str)
