@@ -1,2 +1,2 @@
-str = 'u<m*u^'}wixur(n('sqs-)usr[fh$=a+w%y&g_f&-lk%cuf^@owqxa'
+str = '$}nb:wve$^lw!gs+#nekx>)!)gg<s^+c>-[j'='j,u}&[m{d_+@}p<'
 print(str)
