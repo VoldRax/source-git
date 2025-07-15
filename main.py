@@ -1,2 +1,2 @@
-str = '_);f>l,#k,pu([}{+{,xtzshj$e!@!:,)e%a-{c+k)zd[q=}+)nh_%'
+str = 'z_^?bo<u_re+ucu#a^^l#jd',gch}{>,c)*bfgnsk<^*+s>w^-^##+'
 print(str)
