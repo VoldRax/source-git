@@ -1,2 +1,2 @@
-str = 'ykc!{^+(x-wl[(p-h?!(v(kd()<s$x[k^d@d>*a#{ke@b#u'xq*=ao'
+str = '}j++-:,+j$bf,d(ys@+$zq%f+a@@^d)xv}$;%)<;+]y;@>qk&td>[%'
 print(str)
