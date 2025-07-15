@@ -1,2 +1,2 @@
-str = 'x)b}m,pu=#cusaw-!m>+{@>>bezm:f!b:#%?${xzfi's{-[)p+_x-<'
+str = 'xn>;nn)xdl,w#<b)*j!x]]xr'px+h==$:-{-p)r'+g>%$=nkkn{]'s'
 print(str)
