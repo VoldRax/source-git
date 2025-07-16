@@ -1,2 +1,2 @@
-str = 'xf)-lc0o3rgs&f+t8+8zwz>t=2,t]i5gh5<@'-t']7*)2$cy&-%1!6%!smz*(ftx<'
+str = 'i'hj1csh^{8&}?)v+jg#a:5%%6h'sgcrf8%#e?d+>33o)3&i$<!qfv(;m$&y,fy&r'
 print(str)
