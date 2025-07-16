@@ -1,2 +1,2 @@
-str = 'c9rd)_r{2>!@l8+*(j-3@!{0hca'1w9^]0h9u*#^+1?u %x<)p _#)pt;f'#9^oo;'
+str = '*xb)6b2#+0;2[sn!y223lxhf?q>,g$1%;p-%3w>2wq*bo_$ris-rl[[j+jtne3'35'
 print(str)
