@@ -1,2 +1,2 @@
-str = 'oy<r%_[!@dz0[c4^<! t!cbzq^6d_n0<>7-':o)>o<sp+,@=-m()a(>8$; -9yo'0'
+str = '{x8[mr^e0n1r%e!?}k:82)p)3*txg5]_#95w%)nukc%ep,b-(ziv#g{{v@v=?kg+y'
 print(str)
