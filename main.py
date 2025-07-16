@@ -1,2 +1,2 @@
-str = '-z:m)$d&v{qv*qr60?ba)zj)d=f&;^q}sc:eqtu)pp'q<?o7q:8s' +k7p'%lvqs='
+str = 'i{@z-)ckyn[ (q#qe):;s--v)5dv6i-r:qux8-g5r%=t4ak5#%9h+)tziu[+:-s)@'
 print(str)
