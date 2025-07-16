@@ -1,2 +1,2 @@
-str = '$+:%>tuvd)j=s]b^mis+gf>c>dr)ckno5w?(}a*575v]3* 4lrd<+nr*2m{}m';{['
+str = ';6'c-bul,qn-p!u:l%6r3eclj 8l_&;bdh {d-!( _gkonnnj}c%z0nmzj!?obj%?'
 print(str)
