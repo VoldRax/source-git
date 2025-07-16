@@ -1,2 +1,2 @@
-str = 'a>mcawqvd^x'm']p65u)-<^k[,0'p*fp#^<])1}(^=]bp%z}oe5!8?j6$gun)qps['
+str = '5{yux]+-#d[uj2>}_ sa&y$5$w5w-qf4d>!{9wxw]u8zb%y+k?%&r)m3!!sil<b]+'
 print(str)
