@@ -1,2 +1,2 @@
-str = '_rc-)m844%'!s1?8 2?l2]-yxfy0llul)@;'=p%} =s+-;e5{l:w<t3yc=#+>@3o''
+str = '5=z%cww*v^nfcj&)csptt>+%twx6}z-^gg#mq3id]$!$:q??it#t!>',iukzrcv]1'
 print(str)
