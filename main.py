@@ -1,2 +1,2 @@
-str = 'i{@z-)ckyn[ (q#qe):;s--v)5dv6i-r:qux8-g5r%=t4ak5#%9h+)tziu[+:-s)@'
+str = '$+:%>tuvd)j=s]b^mis+gf>c>dr)ckno5w?(}a*575v]3* 4lrd<+nr*2m{}m';{['
 print(str)
