@@ -1,2 +1,2 @@
-str = 'c{j#f?,) 3=s<6&waw&!)z+*ap*oqx01+8fs,c*^+,w$wq3k,zoid&(=8+# w=;:0'
+str = 'xf)-lc0o3rgs&f+t8+8zwz>t=2,t]i5gh5<@'-t']7*)2$cy&-%1!6%!smz*(ftx<'
 print(str)
