@@ -1,2 +1,2 @@
-str = '!* n0fj0:]v!',8!s=1f,?bq<lnvbo@n)su<[<616>?&jy#?^$wi+_qxxsnm+0 y^'
+str = 'a>mcawqvd^x'm']p65u)-<^k[,0'p*fp#^<])1}(^=]bp%z}oe5!8?j6$gun)qps['
 print(str)
