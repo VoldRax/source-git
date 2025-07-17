@@ -1,2 +1,2 @@
-str = '2k@d+v${&q:fjgz=,,]y2^l&a{((),_p;c=^&#)1mt!=g+m>e4$4e*$p!nr379z]%'
+str = 'fxfk2l))n}[njt,p09uhm3#,)(0c5xgyhq^yp+ld8r+h++{ouv}=8u@p5>+{r8?hk'
 print(str)
