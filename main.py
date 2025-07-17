@@ -1,2 +1,2 @@
-str = '!(!969e* jq(_n_1(y+2-&zeno)5qw9u*3-)m'+=a;$)9[$)-73;#10d_32mb5)4)'
+str = '1(!lh2w*}5r(b>vhr)8w@r,*{)x+n-bqj;5%&k^v--s3 fx-]-i^6ha;_6-$g8l1)'
 print(str)
