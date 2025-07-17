@@ -1,2 +1,2 @@
-str = 'fxfk2l))n}[njt,p09uhm3#,)(0c5xgyhq^yp+ld8r+h++{ouv}=8u@p5>+{r8?hk'
+str = '44!+q{vp{_h9h<>5[f(,@^-)r?nwo{7$7y#,h9{529?(#qvzew!cfg,0s:-odu]8q'
 print(str)
