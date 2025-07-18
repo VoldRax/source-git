@@ -1,2 +1,2 @@
-str = '(!qy}rj_*3+lv(44@9a:9+$@[xr8<>ai6&=>8<8ps:h 4w_7 4&!s-er1!,y^4kp&'
+str = 'yn6)^@j80 mw-1gf!-]!gi>qy)p;3)k100:s-%5fy=dn{))k2n,oib5>+oyjj$o!$'
 print(str)
