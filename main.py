@@ -1,2 +1,2 @@
-str = '+2{sw(_e=@>>bt6}'_)+_l=<$;{!+u+c160q8^-y-: [37)5&=79^h++(w''}z=5 '
+str = ')w)5@g_z5p##f,(w%w)#z7kai-9-+)z+dtmt> ii(qbrw]? 9k#se_f#;*m!hw0[n'
 print(str)
