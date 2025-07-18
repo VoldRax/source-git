@@ -1,2 +1,2 @@
-str = '>2rk[>-3?h;+0ylx}<d^f} ^qpn:=)#90w+, $#2o}!$6j2[=p3[j7'r%#+>$f_6;'
+str = 'u'zh6!%'@841$)l3_e+$6{--f?1o^4{v{frbx# n+9^4+;fmj)ij&!p=b#m0%)bw&'
 print(str)
