@@ -1,2 +1,2 @@
-str = 'hg%;+d3k+[9+-d*1d))r,a-<*%9(-2f-dc0{-^zyr7y<rqr+!#xy=z67n};:utw6}'
+str = ''^+6t^yb4-zpy35 :_(p;?,vh!s7x,^^+_4htbw6(+:w6}8>3k;@[f-k!z&'_7sl['
 print(str)
