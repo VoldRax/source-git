@@ -1,2 +1,2 @@
-str = 'i0fy@$mdg<u}(l)c =@a_lwy>=[:qn}{jqqf2mh^ ='=l74;jux;70i)]=4iz?b&)'
+str = '8{)=lqc5-adz6gepyz=%2%a{}s$2^{o;6j>o(+s>*(^om)bh7c{;[-,tss)[}e) h'
 print(str)
