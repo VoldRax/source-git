@@ -1,2 +1,2 @@
-str = '7%54)q{2@{,,pyiq%^{3r&k$x<o9([]ok@6pu6ocx-0:$y)]l+or!l$l_xs<b h]3'
+str = '}2#'3=zv3b=s)@zyf3j(j!'4_,uzx(;+erja^s?i{dbdf22w4nu:h+?ke%z:8ybn='
 print(str)
