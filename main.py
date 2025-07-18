@@ -1,2 +1,2 @@
-str = 'i=% _;:uh-<x+: !l>9[fv8z{6&v[4jt826)2@jewq y&xzzn1bh?1,'==gf0{-y7'
+str = '34<p[o!nq+gq=!(:^w0}hl(*>=g]@0op9>7da+:[f%#w{a=x9-n:]e8k17y]=z(e$'
 print(str)
