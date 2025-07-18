@@ -1,2 +1,2 @@
-str = 'j)h#*^oo+-f}@<t8a{5oow:!#p^-7ch?v#4<8-g>j5+fs*3'*c1+}s6qz(x;;b2)@'
+str = '^&c<z@=)eu<^gp(^o[9m-+ar7a=[g-s'l*b6t95j'6@y)2^4c0tra{4ow3{09fq)c'
 print(str)
