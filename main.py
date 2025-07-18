@@ -1,2 +1,2 @@
-str = 'i[+:zn6b>g::#g,40[=9#}xafav !07e*%$y'oes;z;xz6c;-by(u1*-bhnk^j8jm'
+str = 'l#@@an>(j#x5@)i-<z:x$7k##i+zk'p0=?>+a,69;b-[&[1w%ac{1$l%-_r&e&r5('
 print(str)
