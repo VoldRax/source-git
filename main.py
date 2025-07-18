@@ -1,2 +1,2 @@
-str = '(2w>raw22tmd>zct[xv+-:?mh3-^=t&0_6*y@]9k(t-!l3ofcq}a4=1kd8xl;73rb'
+str = '#w8j2;ym(@ -8:$@nmvv?v0}ynsz+@6;-,' )-i&@$:=0,:4u-)uph-i:j9+[c,q<'
 print(str)
