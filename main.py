@@ -1,2 +1,2 @@
-str = ''^+6t^yb4-zpy35 :_(p;?,vh!s7x,^^+_4htbw6(+:w6}8>3k;@[f-k!z&'_7sl['
+str = '7%54)q{2@{,,pyiq%^{3r&k$x<o9([]ok@6pu6ocx-0:$y)]l+or!l$l_xs<b h]3'
 print(str)
