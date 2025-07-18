@@ -1,2 +1,2 @@
-str = 'vh@?oa-8s<+x!nq>+v{dm3i+)8$v>q0,0-)3yq->m*5s})pskkze](5y7_yb_p9m^'
+str = '*wd$-3%(^1z!:h7<w%_u ;1zc: 0=y-je^>e+*2qz@1+)8]dq8$*}+pze7gqzk&^j'
 print(str)
