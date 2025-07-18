@@ -1,2 +1,2 @@
-str = '33rm7<gt^9 a^>qz$xq^7@,}97wg?=&g}vklhlm)c--q:,,1[x$b$m)ob5v=toi?]'
+str = '=]zlu5n156+n;%(<^}ysbn<!30@j ^+mqq*v)2)ji$l *k)w+k]af9@;1 ]m&b:gx'
 print(str)
