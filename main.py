@@ -1,2 +1,2 @@
-str = ')qj- ^k8x;(-m*2q)]z+a]rv)mnxbl$1v3+>{81jh)y$ 2}23p-<+$g+')6z:+v<]'
+str = 'i0fy@$mdg<u}(l)c =@a_lwy>=[:qn}{jqqf2mh^ ='=l74;jux;70i)]=4iz?b&)'
 print(str)
