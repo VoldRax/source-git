@@ -1,2 +1,2 @@
-str = '34<p[o!nq+gq=!(:^w0}hl(*>=g]@0op9>7da+:[f%#w{a=x9-n:]e8k17y]=z(e$'
+str = 'zoub  $:&nghpf<++v[+t7d4fy-oc5cqt#^mu*]:14;#'_rl'ge&g>'657%i$eo%w'
 print(str)
