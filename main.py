@@ -1,2 +1,2 @@
-str = '0+-(92+4[)-[+k%v%1),7!pa0jg-#4-%<cw%z-}a^5[r+5>bgb3>-ls0yd2nv>ue;'
+str = '08q>b48nz7 uv2#8$wl=p;e2p,ecg%a5l=%7i,])]@$-i#1_#j&]rd z+rt5-kw08'
 print(str)
