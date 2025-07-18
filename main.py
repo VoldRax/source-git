@@ -1,2 +1,2 @@
-str = 'obx[kdg$<&)3,ru}l8t8#,j3{j-]+{z7k5&),q_<3 jgo*$lu16=u=r6+)v(,q68y'
+str = ' [61l_m7!a-&4o+}#8[>}b&)+_h3hu[c0pd5l2g{? g(g+*d3*iwn$@4*flrb0br4'
 print(str)
