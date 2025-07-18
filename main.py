@@ -1,2 +1,2 @@
-str = 'l#@@an>(j#x5@)i-<z:x$7k##i+zk'p0=?>+a,69;b-[&[1w%ac{1$l%-_r&e&r5('
+str = '*t@lo9!37 qsnm2^(}rcv!)o!<krf3+1%$-yhkvh1 3k{xa-^))<op?1cgm;us'}!'
 print(str)
