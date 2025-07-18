@@ -1,2 +1,2 @@
-str = ' [61l_m7!a-&4o+}#8[>}b&)+_h3hu[c0pd5l2g{? g(g+*d3*iwn$@4*flrb0br4'
+str = '>5-k'}v2-n*>-r{*zgl3t#{y5]:4+*}_#5xw] se^*uo:j )jnd@3nyd_zl7h2t0-'
 print(str)
