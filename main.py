@@ -1,2 +1,2 @@
-str = '+>&blz379?t?''6jd538a!k9-j !d-!=z0$z=>nq}g33o%)'@thn07+l[:g_d's}k'
+str = 'wq>=ee'wx5{6pfz1us+o01bnl+]e8%(kxu@=76de# einn%lq$xz]6e{jy<k+-q)z'
 print(str)
