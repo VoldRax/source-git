@@ -1,2 +1,2 @@
-str = 't]a4eid%nla#@)?=5!xidft(4^5at-=tdv+w9jdq-y?{z;'dl&;x&2dr-)';gnc)t'
+str = '3)r0<3,<&>4(?)@[,5_v[qeh-v(m)-lk;-b2c_njb[yh=d+ ]cinm[-yzq%(726b)'
 print(str)
