@@ -1,2 +1,2 @@
-str = 'r? 6hlr<8qro 6c>e[<+{[{[e(=(!%6*}2vu>-+;m#+*2?=3bs]w} y;<2v3{-7h*'
+str = ',[=='s3*x:+;}@}-;41=r$v4b:)e;781-toy?r0q2,33$q]=l,g) e*u+dbj,w+*,'
 print(str)
