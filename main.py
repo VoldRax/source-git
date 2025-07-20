@@ -1,2 +1,2 @@
-str = 'tox9rd5)_]t1#y$:=%eo:[@*@5?]6>4fmg-5&(q2 ['5})?_idd+w_a:zf09@-h=6'
+str = '{2c-a_g y[rf11x-0<as;q1)q*k-)%8!<bkf?y-9(2^z9&h%9%kl>bnx?1q]]md?+'
 print(str)
