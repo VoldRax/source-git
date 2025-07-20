@@ -1,2 +1,2 @@
-str = '{2c-a_g y[rf11x-0<as;q1)q*k-)%8!<bkf?y-9(2^z9&h%9%kl>bnx?1q]]md?+'
+str = 'v+m![+?&g!<a7+w_gx#y;$? )(cp7au-;^m=(f9+v5'*d44>{56[j2+b-{uy&)3y:'
 print(str)
