@@ -1,2 +1,2 @@
-str = '2zbw8({h4t:e-+x=-:'um>xdp1ohc}81%_9c_2;bd44phh7b}zb4hez(+$x37)?,8'
+str = '+%$&]*]?[eho1b{<c34)$ 879v7s@b}+<2cr[9{yq+yyzw!dyvw(?47s7$u{+'[k4'
 print(str)
