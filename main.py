@@ -1,2 +1,2 @@
-str = '3de_>f--7v5&;:kgqcf+:uow+4p117!54;v2j-'&gi)csl2{moy9e_-ns>> }'##f'
+str = '+>&blz379?t?''6jd538a!k9-j !d-!=z0$z=>nq}g33o%)'@thn07+l[:g_d's}k'
 print(str)
