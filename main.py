@@ -1,2 +1,2 @@
-str = '%!z>:9-+en-w);w{ !@f4{kop!son3{2%s}}mb25ihbz'b'jf,,#h*ku4)3-txjn%'
+str = '3de_>f--7v5&;:kgqcf+:uow+4p117!54;v2j-'&gi)csl2{moy9e_-ns>> }'##f'
 print(str)
