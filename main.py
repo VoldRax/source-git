@@ -1,2 +1,2 @@
-str = '=z4&4}heb)(p#_>p37!qwz8'bqzn=ij+6fb?qggp65a^($]4_4dtwcgxn7f[%*2td'
+str = '2zbw8({h4t:e-+x=-:'um>xdp1ohc}81%_9c_2;bd44phh7b}zb4hez(+$x37)?,8'
 print(str)
