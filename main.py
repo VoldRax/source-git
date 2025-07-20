@@ -1,2 +1,2 @@
-str = '[2aytn#u6#pm*w5rmxwk^l9+j$btos^r+(guw=1+e^tnk^0uypvkd&z1:}s xyy5&'
+str = '%!z>:9-+en-w);w{ !@f4{kop!son3{2%s}}mb25ihbz'b'jf,,#h*ku4)3-txjn%'
 print(str)
