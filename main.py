@@ -1,2 +1,2 @@
-str = '3)r0<3,<&>4(?)@[,5_v[qeh-v(m)-lk;-b2c_njb[yh=d+ ]cinm[-yzq%(726b)'
+str = '-i>)!}, cg$#4m}d5'gf{)ra!5ef#!b+rr68=yju#mv2i)+,w^ni 1>&x ]+>]@w*'
 print(str)
