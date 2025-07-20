@@ -1,2 +1,2 @@
-str = 'vy]) 8x ow2#:#l[h:*})h ,a<g9@s---*^:c0)6q<69amp7!)5g}:&u7qbxt_!qo'
+str = '=z4&4}heb)(p#_>p37!qwz8'bqzn=ij+6fb?qggp65a^($]4_4dtwcgxn7f[%*2td'
 print(str)
