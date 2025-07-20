@@ -1,2 +1,2 @@
-str = ',[=='s3*x:+;}@}-;41=r$v4b:)e;781-toy?r0q2,33$q]=l,g) e*u+dbj,w+*,'
+str = 'e-l')#la><tj0'^ 5-*3ve1vc9k %i^4x2#!#*v3?*id=(5nk)znhf5ei})yw{26m'
 print(str)
