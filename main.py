@@ -1,2 +1,2 @@
-str = 'o* )r0]a?+?si4$9n0+z?)ky59^d83,xur;i}08#>41mjy[u7k@-}nfyb-p<%8@0+'
+str = '4-_'?q(cp&4^59- 3<ru>zn4gbb3)-&?]0hy<-i*{v^:x+wrbb3^i,$ 8&f7l:e-='
 print(str)
