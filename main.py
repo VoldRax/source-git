@@ -1,2 +1,2 @@
-str = ',&<)bs32v_5]xc59=,a0@+o(]*,qoa}ku}7:b[+ <(q(}pm@{guql(#;w7_%%u+,r'
+str = 'n8>5dn)ws,6dp##q0q2b 2<#ux*l>5?mql))!r9-52j=,)g@r{-+u+eg9as m4_$}'
 print(str)
