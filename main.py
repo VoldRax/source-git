@@ -1,2 +1,2 @@
-str = 'gork+mh4-$t6 &rb le!,=b#3g;3<ux:qoa+cgv!d]sb2&=;-72mkh}tj[ta6$g)c'
+str = 'y8<,t%va:)bh4#]o;#u;48a?%4y)'8i[f*22+$=??o&k+e$h?5ic)) z{-v77et+&'
 print(str)
