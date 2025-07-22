@@ -1,2 +1,2 @@
-str = 'd*hdhlk8<50*$nnh9^^v!#m;8-h6p)7=8zw@!mo[a!yk*9uc$!) #h,s3a=kc}s*3'
+str = ';vqwp[c&]kg]tc 25m$beoro@=+,ir{fq)7kca@t89&''a$7]<+,++&@l>9##k[yb'
 print(str)
