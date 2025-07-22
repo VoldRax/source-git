@@ -1,2 +1,2 @@
-str = '(@o)<b>h}c(+(}* ;31c*p:kvbv+)j cn#n_$e=_+,'(h_m=1d},j[g9%z+-3^d')'
+str = '-0r#]_^)#%6-8$5o7)w;+q<c?j3?+$<k((qo'0[>>f>79z7)3u-o%$'#s?(n@s*k]'
 print(str)
