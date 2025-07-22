@@ -1,2 +1,2 @@
-str = '6uw ^(y)iu$[$y]@$,6_[v@{9s2&v%g;&omt]4eogdsdr())gddko8ze=@g?45i&d'
+str = ';r7+=u+e5h(s[ib*+w9u')tj?rn}4?3*a]4gj7}:on7^(@*x+>l_84&c)rb>+%]hy'
 print(str)
