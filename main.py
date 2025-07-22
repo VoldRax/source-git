@@ -1,2 +1,2 @@
-str = '53>#nx-tt@t,'+s)o+f3@}x]^u0%jh-l1>3(*{o2$30@p08940f^_oc8?w^f@)2rv'
+str = '3[wg*(o60s_c_&b{b?o*p8a 6?>h$_rx)%<6m+q>-+<:q:+zm+h+q)w^-e$q>fk8d'
 print(str)
