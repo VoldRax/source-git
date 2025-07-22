@@ -1,2 +1,2 @@
-str = 'p3il^g)w!++o5 ^]@,a,;j*{9@&p^40g&24*z9[87!_mg]ykf1ih#^!}7r;4?#yg#'
+str = '53>#nx-tt@t,'+s)o+f3@}x]^u0%jh-l1>3(*{o2$30@p08940f^_oc8?w^f@)2rv'
 print(str)
