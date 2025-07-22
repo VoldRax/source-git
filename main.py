@@ -1,2 +1,2 @@
-str = 'wd7t+4^uq]x'#<ks9q#(,=um(]7q#frz'#hdy=!=})@<5!+c@x1g3jlu#kzjs5ybg'
+str = 'gi^6;f]t}#5-2+g^qa#}it(y$8,}ol8*bak%:9+f$:t-*%<1{>{t6+n'*1*'k_p+5'
 print(str)
