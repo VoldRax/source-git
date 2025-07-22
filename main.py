@@ -1,2 +1,2 @@
-str = 'ue<do$>@s yi@4c>:4q-ls6s-+:??hsy?d+j:$njo&)o&<1w2rug18aal-^]+9!8''
+str = '=+qr6)v_t99+{l}w1]'p)@s99v%03as%p-v_+cmj+;*98{;{nr;c$c>_1wb5^5x(0'
 print(str)
