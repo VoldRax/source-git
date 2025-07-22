@@ -1,2 +1,2 @@
-str = '8j#^=-)9su}7$3+6}dw#vsw?<]kf80=w](4o-_+2v0r++*c;fu$a]o)3icf5&4-p8'
+str = '?d{+$ 9 $'4;7,z3<w%)4#z&lyd$0xyy)5bo7a2?-:7v<s1& h+lz+_4klr$>{+%8'
 print(str)
