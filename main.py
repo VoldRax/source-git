@@ -1,2 +1,2 @@
-str = ';r7+=u+e5h(s[ib*+w9u')tj?rn}4?3*a]4gj7}:on7^(@*x+>l_84&c)rb>+%]hy'
+str = '4)-c^*0y:%f^0kf1qv]9:f8{$dr%veiqnrq]m &h$k)q5(&p<3 [q&@8%v>%=}_i?'
 print(str)
