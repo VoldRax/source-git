@@ -1,2 +1,2 @@
-str = ',:)*&6{=klt}{!gx,'$%>^lsn+<%-o;nc,)>+-l-gx_+2u =_wo}wsaw#z3:@#z;_'
+str = 'ue<do$>@s yi@4c>:4q-ls6s-+:??hsy?d+j:$njo&)o&<1w2rug18aal-^]+9!8''
 print(str)
