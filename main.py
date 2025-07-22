@@ -1,2 +1,2 @@
-str = '3[wg*(o60s_c_&b{b?o*p8a 6?>h$_rx)%<6m+q>-+<:q:+zm+h+q)w^-e$q>fk8d'
+str = 'p{0:s6pf:$}p(>;@^fugk8-{nrz%!?;)]^?m&_5-(zam8#%}q)+ tf*%;,w(;-ppo'
 print(str)
