@@ -1,2 +1,2 @@
-str = ';1_gzo))7y,7g&&#lf)_hgq302lx>8;#-u=og,wc[l(3+#-p^eq0my6?;8c$esp9s'
+str = '#>-&%p}eb:e=o5+1$:;n-fk?x,* nj0p3v8)y &]sj1l?cj9jn)whj8i$r0[xuhqi'
 print(str)
