@@ -1,2 +1,2 @@
-str = 'p{0:s6pf:$}p(>;@^fugk8-{nrz%!?;)]^?m&_5-(zam8#%}q)+ tf*%;,w(;-ppo'
+str = 'd--}=vge?i3g[2-n{8-_)hz8+f+?)x))3ti$}252le:ol<757uy#b>ga{9w)s(e$-'
 print(str)
