@@ -1,2 +1,2 @@
-str = '+(0?%@^_[d0&b(x6+_+=7^2$1hr^-oxct90)^k!}:>(2ps'uz<rvgb0!n+2dn7e+n'
+str = ';1_gzo))7y,7g&&#lf)_hgq302lx>8;#-u=og,wc[l(3+#-p^eq0my6?;8c$esp9s'
 print(str)
