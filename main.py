@@ -1,2 +1,2 @@
-str = 'fl6,5h3}q-o$[y+t'#_ 2[p(:3(8^q@w9;?i<>kri%;e7_aqq;^bf=1j-8ev0,w}5'
+str = '8yvc ?$ u=]q5h9brha9a4k;&+zl_[ig86>b{4+ 0j]>#g047-^1)d@h4]f:-@)&}'
 print(str)
