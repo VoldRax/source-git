@@ -1,2 +1,2 @@
-str = '#>-&%p}eb:e=o5+1$:;n-fk?x,* nj0p3v8)y &]sj1l?cj9jn)whj8i$r0[xuhqi'
+str = '7!}2}d-zgry?jvv@>_t*;!3%:o:tq%^'#q-a---&d>&&uq9_n6r1pp i7k=txx;<?'
 print(str)
