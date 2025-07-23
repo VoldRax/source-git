@@ -1,2 +1,2 @@
-str = 'ljek)e}klr))*ne%+*9-0;t+>,1j,0o g0^ )o<{-&lv5$)ym7*)j^98qt--,)-* '
+str = '?$jdn-rs+y6t,b#e4u[(,;6+;35+w52k=9 *q) f?=m)z@uh1n@!*_d+k)+$^hj]q'
 print(str)
