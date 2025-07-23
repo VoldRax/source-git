@@ -1,2 +1,2 @@
-str = 'ez+5p, wv1_w=0cg6954c4s>8!hrb^f1>30,9{'40d   )c![*'+umji2+bf]d_+<'
+str = 'g&'13!2-6>ktx}=t21cxrd&{g 1)@ikeh$)og#;,k,)oq8ac#x;8[_gv#k$!3>&lr'
 print(str)
