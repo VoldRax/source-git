@@ -1,2 +1,2 @@
-str = 'g&'13!2-6>ktx}=t21cxrd&{g 1)@ikeh$)og#;,k,)oq8ac#x;8[_gv#k$!3>&lr'
+str = ' %]89g#ri8jv:5n^[r*(q99[,=au9$5,t7+x<i fm2]!dz-cdcad%5qu-0sl:+bhn'
 print(str)
