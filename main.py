@@ -1,2 +1,2 @@
-str = '7!}2}d-zgry?jvv@>_t*;!3%:o:tq%^'#q-a---&d>&&uq9_n6r1pp i7k=txx;<?'
+str = '0#s[:!+n=6yd>(o(ol4>^t)9gg$mmnoye*&)<&0+(%1skj'%8zx;5*^@r?'ml=nts'
 print(str)
