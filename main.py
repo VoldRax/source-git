@@ -1,2 +1,2 @@
-str = ']{7@}$<qfgj=+sq!mz)xv5u)!]-t'4_vy%-xol-bx4#2#;[jp,#j=i: }<{lze7,<'
+str = '_ j;fh#6'?]t&-)0)*x$?a_hykj}hn%cd]^6hhve}og*ou->&pikz+:+3'+<7n)]@'
 print(str)
