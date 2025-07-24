@@ -1,2 +1,2 @@
-str = ';sg'8$[)wvn@v_41_w[#m ^a5 h6lwpnw?d#,jt5s}aq&2yijbxe^-us7cz8q#u)]'
+str = ']{7@}$<qfgj=+sq!mz)xv5u)!]-t'4_vy%-xol-bx4#2#;[jp,#j=i: }<{lze7,<'
 print(str)
