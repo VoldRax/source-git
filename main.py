@@ -1,2 +1,2 @@
-str = 'r&=);79>lu6 w$o_{f3 !g2m=-[,macd r u$z_a!'kg+,_(#kn'=p=)f-'@*%+'w'
+str = ';sg'8$[)wvn@v_41_w[#m ^a5 h6lwpnw?d#,jt5s}aq&2yijbxe^-us7cz8q#u)]'
 print(str)
