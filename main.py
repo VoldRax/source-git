@@ -1,2 +1,2 @@
-str = '}!#^5+&{2<#yj9'{x'p4*?xa(qmlm(+*--)?p1in3m;k&h^+f}{9=wm+]@#t?=]z)'
+str = 'r&=);79>lu6 w$o_{f3 !g2m=-[,macd r u$z_a!'kg+,_(#kn'=p=)f-'@*%+'w'
 print(str)
