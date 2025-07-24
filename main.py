@@ -1,2 +1,2 @@
-str = 'bv +{)55*7rel%)416t+3_vdn@osna&t$npe{!t&n)%b5r$6ipmrou7l8,?_mj+4m'
+str = '}!#^5+&{2<#yj9'{x'p4*?xa(qmlm(+*--)?p1in3m;k&h^+f}{9=wm+]@#t?=]z)'
 print(str)
