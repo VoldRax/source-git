@@ -1,2 +1,2 @@
-str = '92v=3o132v5>z<5;v4#os#-!+pvg]!q,sh+g%d&)hi*]j+l)y} ?c{{@l+[5_qwt1'
+str = ',a^@ga1):)&8-a{q<t<n2*)>-k^muqg-]07x;@_<ach[<l6^it9c!?9(68w=o)yf<'
 print(str)
