@@ -1,2 +1,2 @@
-str = 'bp&-]6nnq(^_'<ick?h'mt{e6e'#,4b*l$_)^j,k3cfw}5dd-o yi3ho-=+y{?o)x'
+str = 'p[:pkqb91^ajg&1a_,656p@z[(2bn2:v)j*!ol?2dq(mkkv:{v'[1l}mxnh-6!a-n'
 print(str)
