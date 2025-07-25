@@ -1,2 +1,2 @@
-str = '$coqgx+?i7'e-jj1[<+v*lycjc*%jhv28-,=k{s2#nv-@=8$b7-#n--=1w^s,[>)t'
+str = 'a^4{83dfsc $2jpl19r^66;}!r!+,$j$xl6m!^q#6n%6@q^?''t>g+m+]*,vof4p('
 print(str)
