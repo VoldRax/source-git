@@ -1,2 +1,2 @@
-str = '*]4l1v&*+d9:=9 ':&2%(c{3:-n=)^1!sg&r0)an&{*)s&k,8+he*z:#&=m3y!7?8'
+str = '$coqgx+?i7'e-jj1[<+v*lycjc*%jhv28-,=k{s2#nv-@=8$b7-#n--=1w^s,[>)t'
 print(str)
