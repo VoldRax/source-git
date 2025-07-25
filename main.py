@@ -1,2 +1,2 @@
-str = '_ j;fh#6'?]t&-)0)*x$?a_hykj}hn%cd]^6hhve}og*ou->&pikz+:+3'+<7n)]@'
+str = 'bp&-]6nnq(^_'<ick?h'mt{e6e'#,4b*l$_)^j,k3cfw}5dd-o yi3ho-=+y{?o)x'
 print(str)
