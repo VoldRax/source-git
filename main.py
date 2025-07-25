@@ -1,2 +1,2 @@
-str = 'p[:pkqb91^ajg&1a_,656p@z[(2bn2:v)j*!ol?2dq(mkkv:{v'[1l}mxnh-6!a-n'
+str = '8l-==-%n<@*>-pycst!tw:(<^z6f:?%h9hx(v4pppb8dn'(2kr_!)n%o%{+,o2npz'
 print(str)
