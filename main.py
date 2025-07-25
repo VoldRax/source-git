@@ -1,2 +1,2 @@
-str = ' ie<e5$-=v9av-oi;1+u'-)e(,+(456gp0?<35joisk{ lawu{v,j%bqej?]%[j1q'
+str = '*ckc}: )]7x+]+w?t]w<y,'<-r5l&5h!%$,jm'z5ig:a(s9;e0&{a1o<k570p_--u'
 print(str)
