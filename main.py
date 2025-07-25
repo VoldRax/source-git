@@ -1,2 +1,2 @@
-str = 'it8w_wc=e$'<?fd40_:j ^=m3&i+)%t%k6$0,vu>a7r?;]#h90es[o(+ur5@7xk#]'
+str = '+zn06{#c6_:zn@-zb}b{)_o+9@;4s)2-lw)_md+' 3yy6c :oxr+?bbu$46#e^)ef'
 print(str)
