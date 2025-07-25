@@ -1,2 +1,2 @@
-str = '*ckc}: )]7x+]+w?t]w<y,'<-r5l&5h!%$,jm'z5ig:a(s9;e0&{a1o<k570p_--u'
+str = '*]4l1v&*+d9:=9 ':&2%(c{3:-n=)^1!sg&r0)an&{*)s&k,8+he*z:#&=m3y!7?8'
 print(str)
