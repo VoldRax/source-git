@@ -1,2 +1,2 @@
-str = '+zn06{#c6_:zn@-zb}b{)_o+9@;4s)2-lw)_md+' 3yy6c :oxr+?bbu$46#e^)ef'
+str = ' uy*i1e6cv;6i-um#+f=:ykq3z)gq^9rerc1=m3(dwy$u;4&[e%m]*1')&dgpyx9w'
 print(str)
