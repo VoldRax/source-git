@@ -1,2 +1,2 @@
-str = 'a^4{83dfsc $2jpl19r^66;}!r!+,$j$xl6m!^q#6n%6@q^?''t>g+m+]*,vof4p('
+str = 'y!-$n8&(hum#syk5w++4{h^yl8zl>i)$;l^2537=e#)+,rt>}(g@f+5_kq>o!_l3b'
 print(str)
