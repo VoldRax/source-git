@@ -1,2 +1,2 @@
-str = 'i*c9_ay9ke)s0nvk^uav3bsg&e'*+)-9#<a!$>*3o@ 3bn_g66:y-@&+9,,xj>}a2'
+str = 'ybocdgb@%n1f)rw*#g'sy+0$_au)u;2=je^-u2es4*??0};'=['4v:y2ty$#so4i,'
 print(str)
