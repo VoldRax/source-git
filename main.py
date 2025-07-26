@@ -1,2 +1,2 @@
-str = 'vl1j2imyoik<-i8bs*6<]4&>!,:%3qi)$y+_nk{{(?4x%fmy])s83@+b+3z $r-au'
+str = '&l17):qw*d}&-)o,&{,31k0=![t@[jp3h*j7[:i$7nf8rry---x]{4hx)[-go9+-r'
 print(str)
