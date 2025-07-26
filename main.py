@@ -1,2 +1,2 @@
-str = '=r4u#<kewe8q25g%'_v6)%q+{-sloj<}3#)7u:?<&*-i=o1h!5!g]#*n=4{;^):)g'
+str = '-u}q0za9}g=r)]bsy*d!@$ti#8)9gpv}t7wc$js> *j[<*$%r-bn8u]!=gt)w6@-d'
 print(str)
