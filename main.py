@@ -1,2 +1,2 @@
-str = 'ybocdgb@%n1f)rw*#g'sy+0$_au)u;2=je^-u2es4*??0};'=['4v:y2ty$#so4i,'
+str = '-f-wa}7z:&7tr^mj^f{zn7[v)g7d#c'>{v+'bq1+s];y8& !8=+}z+z)f@p x=_oe'
 print(str)
