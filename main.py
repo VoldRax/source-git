@@ -1,2 +1,2 @@
-str = '$!'m1'&a (0k?34*+t:ykz6 p}c@m&3o43*iz(an)#v$! +8s0p*@7q0)^h)sp?)l'
+str = '+vg!*p8h=5+o]v$j*$&b+g%%% 3[2=m(m3[3[u4z26' zt{^1{y{^8 b4yhf0y$= '
 print(str)
