@@ -1,2 +1,2 @@
-str = '&l17):qw*d}&-)o,&{,31k0=![t@[jp3h*j7[:i$7nf8rry---x]{4hx)[-go9+-r'
+str = ' '7{f[t[tkwt{q^0#$+${5ew:3=<dv8--7r3%z(q^wo%$7lfp,$>8&3,c;y{^:e+p'
 print(str)
