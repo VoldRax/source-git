@@ -1,2 +1,2 @@
-str = '-f-wa}7z:&7tr^mj^f{zn7[v)g7d#c'>{v+'bq1+s];y8& !8=+}z+z)f@p x=_oe'
+str = 't24@:69),3)ad'<?o_9;e+od,,tt8{0'[dx59+e%b*e^%8 i_w{6hvxow-ma@xkq}'
 print(str)
