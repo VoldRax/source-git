@@ -1,2 +1,2 @@
-str = '*-#0yodee$-e-%ai3hkz5+?o ;czbk6v@5434'4v3+>$4( px6(5o02y_i&*v4ku]'
+str = '002j69wwimds&jsb&4xp)xirvs-748<8(ujb-k@a-uwjz+k3ayvg^reoq#-'{e2t}'
 print(str)
