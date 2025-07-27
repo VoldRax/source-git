@@ -1,2 +1,2 @@
-str = 'l5x++ty-)=i{)j=5=&+<r3pf)[-'!}k0)3cf+17)mtb+3{m?a]f{1 yi,@7s4cb>i'
+str = '^1,_p^cu@a&22_ilw%-)p)ze^]@= 0ajgc] ;rnh:ih9-2]),aamqo^u$)*_njh!e'
 print(str)
