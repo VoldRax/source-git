@@ -1,2 +1,2 @@
-str = 'm,:^(2)el#?*802)$)u2jj-0-l [b9d5+,&kdlg&gzj{51?u>%8hse+re>6(6^7^7'
+str = 'x6q>}6#z]t45a'&^1llv('#460_o#=s;;-9xb6*6<(+>,j6)e7)y+}9^nr;6+*u9_'
 print(str)
