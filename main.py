@@ -1,2 +1,2 @@
-str = '$:)rs5=64<4*j9a;n*e}}}q2:+{#z ]^0?yy_fra^s7r%3'_y+8po,-t(5!##&@7o'
+str = '_7mzzo-60:k,k+,+]b67^vi&%+5hgky>;g^i67q12c-1+2+t_?)}9v,dfha +s=u)'
 print(str)
