@@ -1,2 +1,2 @@
-str = '99#feuno2#^co94z< z(<+vznv (+*tz6y=#51+)bqyb>>}p0xt<s*o+118-0;b4?'
+str = '#6smwe0e#):_#=),p,l?zor#85=3<6 ?bzq%8zv]ro-f+'&:-0:rw@tn+!t,}-sx^'
 print(str)
