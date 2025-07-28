@@ -1,2 +1,2 @@
-str = '#6smwe0e#):_#=),p,l?zor#85=3<6 ?bzq%8zv]ro-f+'&:-0:rw@tn+!t,}-sx^'
+str = 'm,:^(2)el#?*802)$)u2jj-0-l [b9d5+,&kdlg&gzj{51?u>%8hse+re>6(6^7^7'
 print(str)
