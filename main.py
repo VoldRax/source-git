@@ -1,2 +1,2 @@
-str = 'ion07{=aly0j]}2#2+<xhq4fym#us_r998'210v-k@ds#w$wxo<[0n#s[p3 }e?yd'
+str = 'k%6-0@+w5*-0^-q-tm05y2<d5o:}ke:wt7]8xn&5n#t@v;[n#)1>a)+a741@]odr#'
 print(str)
