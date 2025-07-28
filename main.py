@@ -1,2 +1,2 @@
-str = '(&3[@)l8]y&x-+]-xfw^%$o9=yquu6ywk5*g-7qqu%16nrkb^e*9hsj=o-1u,8lcr'
+str = 'r,@1 :)@-1(sq#s01wg#?}d,=8*>]1k,'3[ 8{io$]%u-1@w*wz}al^_i+&d2} f}'
 print(str)
