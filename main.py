@@ -1,2 +1,2 @@
-str = '+1xd-m6&rxe5>y,%y2*:l2rclqf#df-bx+;$_v$v+?[a)b<e{,8airyx@d6+:t0 *'
+str = ',!(-u,7q&4kl{@12ym*mm(+&)08-<:16pv8;:^&y)}p3f)fhp e&]ty}&(-$7<d-m'
 print(str)
