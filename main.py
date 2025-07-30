@@ -1,2 +1,2 @@
-str = 'a4-yg v5pz0'iy  m(j=u^7:s$4+z4opfz1w3#;+_u)tv[dhpye@{{bls)e+,4vi*'
+str = 'c68=9%2wq+5j; gsqdi:ps21o*:2l,00c&@6 ^-{8p)mu0auh}?s<?iwihr]]1x)+'
 print(str)
