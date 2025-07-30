@@ -1,2 +1,2 @@
-str = ',<-nkx*qa>l4=*m7;3j: ukt?)cd1>)#t<h:5-3]b1q})z()${00{+0s-3_$ :q2w'
+str = 'q4@4c+ids(7@<o=':z0ng)_w!r7$vl9mlathn)-:y gz8liq^-#q(wjy+y3cjzz%c'
 print(str)
