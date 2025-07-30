@@ -1,2 +1,2 @@
-str = '?1d^[{ok-kigzx'yriw+#9%^w)>7y9t-ju]'[*e@wq+=h-]4{!i8to2@0)1p]00@b'
+str = ',<-nkx*qa>l4=*m7;3j: ukt?)cd1>)#t<h:5-3]b1q})z()${00{+0s-3_$ :q2w'
 print(str)
