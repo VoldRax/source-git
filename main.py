@@ -1,2 +1,2 @@
-str = 'qeo;vz0h ug05+%*%s,}7ng->'qe[z6z1<p25zy}-<yr(>(id4(9$4$+>wc?7+ei8'
+str = '{lsm&di-ir8y2-@ud 9^aj!nl1+$4&9tk8i@:485&&2eyy)d1fk<m349]&5nwx@if'
 print(str)
