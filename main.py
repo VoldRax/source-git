@@ -1,2 +1,2 @@
-str = '&gp7*{l2jkwv8{1);-+'+=;s3&dict!b{5,zt#ja{w1'o'<ew]]p^gi}sz;p6{]tr'
+str = '3)9$@) ;kj3#*-?g^[{>[}qxh(w7]#cubpq[hu*6w@:03slf25(7)xzj3?&1>{a<>'
 print(str)
