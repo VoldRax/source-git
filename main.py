@@ -1,2 +1,2 @@
-str = 'c%0+mmw}%g?m+'<<j8o<#pnum )9-col(q87)zjp?wqbhu6>1;];0j(j;{y&x}+]y'
+str = '0?[r 3t+z-2gi{_4301i@a${=(oe=<za(,1$+})#o@,ci>;nfb][^?#,2n'*_&z':'
 print(str)
