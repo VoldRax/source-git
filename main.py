@@ -1,2 +1,2 @@
-str = ',!(-u,7q&4kl{@12ym*mm(+&)08-<:16pv8;:^&y)}p3f)fhp e&]ty}&(-$7<d-m'
+str = '9=!r!4;j m{9v!#m>0-$6l9b*ci<sx,7-ecx!z=ve@#&[@?vjnu:0+t>+t-kxf#6i'
 print(str)
