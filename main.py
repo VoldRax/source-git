@@ -1,2 +1,2 @@
-str = '3)9$@) ;kj3#*-?g^[{>[}qxh(w7]#cubpq[hu*6w@:03slf25(7)xzj3?&1>{a<>'
+str = 'o[af>m=f#=p1i%r(*z=@+{?o7j&&+#b(^=*{4izd&v3xlw%w:!v(o%?&h=)&frrq?'
 print(str)
