@@ -1,2 +1,2 @@
-str = '{lsm&di-ir8y2-@ud 9^aj!nl1+$4&9tk8i@:485&&2eyy)d1fk<m349]&5nwx@if'
+str = '&gp7*{l2jkwv8{1);-+'+=;s3&dict!b{5,zt#ja{w1'o'<ew]]p^gi}sz;p6{]tr'
 print(str)
