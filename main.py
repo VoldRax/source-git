@@ -1,2 +1,2 @@
-str = '0?[r 3t+z-2gi{_4301i@a${=(oe=<za(,1$+})#o@,ci>;nfb][^?#,2n'*_&z':'
+str = 'w=r0;(+:6_sg()0)$-g0_ri,r;iss,}a7>xho-<>fe$rxq*}-d8lgqsup> d8y'zo'
 print(str)
