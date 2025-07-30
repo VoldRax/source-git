@@ -1,2 +1,2 @@
-str = '02oem-0u>i5}:+*r3}'c!zyhm=[<@z!3o9[acef1>_f?{=1*')hl[^fonmob@]^x5'
+str = 'e}-b[!z,!j&5= wun=o(@fr))4f8k&ue8z@q3zwadrbor)z3@-kd=z8(beeg{{1uq'
 print(str)
