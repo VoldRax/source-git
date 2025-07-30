@@ -1,2 +1,2 @@
-str = 'c68=9%2wq+5j; gsqdi:ps21o*:2l,00c&@6 ^-{8p)mu0auh}?s<?iwihr]]1x)+'
+str = '@)x%@zj+3%,f$f-n$-z}-sm]?)5=kqp_zh->$:uxnq=*+y}{wvm?0x}1;0=@@&6r:'
 print(str)
