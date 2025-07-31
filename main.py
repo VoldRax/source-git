@@ -1,2 +1,2 @@
-str = '%)0>96#5#'-*o-xw^0?s<{()5}p,n)=n&+?$hzc;oz8*l%[n3{>9jst:_ix8a%bqm'
+str = '_r^c_v:^+5!)u0]n1+5[--n6'pe8{{j4x5?=:wh,@se6?jw;z!!!yg7vulv-?;066'
 print(str)
