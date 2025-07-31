@@ -1,2 +1,2 @@
-str = '?*x0(kq^py^lss>z@]r37l-6dj!j@3a$pg+v<8z}4slw0_&t&q+ky>=-h7g=(khvb'
+str = '{q]99nk7lw,uk+j]*ea-{oya-)y0t:-4 qc7):)%wmmp5o^' >8xo90e,3>-pk&jq'
 print(str)
