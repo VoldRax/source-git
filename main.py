@@ -1,2 +1,2 @@
-str = '#7_%5pz?)+{}_z3um@?[< '96)i}cu;*h+{tys41t)1}6^=7+z+?-n&e4lrw->}&>'
+str = 'en;1=&5+o4-6;m#,<+1;in;]1[{sae47>r!ow&+u9n vdl-3h=sp#-}p47_4g[5,%'
 print(str)
