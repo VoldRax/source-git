@@ -1,2 +1,2 @@
-str = 'g'}r}8p^!@4#xz kl3,r&vf!'mk]=&k;?&:0>w[y0rs&-zl (h8?_-o6^=9)e[l+='
+str = '%)0>96#5#'-*o-xw^0?s<{()5}p,n)=n&+?$hzc;oz8*l%[n3{>9jst:_ix8a%bqm'
 print(str)
