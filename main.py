@@ -1,2 +1,2 @@
-str = '5>@_i}j?gnr)+9c),v,5g7-d?d%3({%h^>,27+>c,r?c&$9(5)3!]31{9&_@(_9qe'
+str = 'o_w'k7qax%7;v9'y2,+1(oa y%v:xhu]*,w,>zo*h,]{(oq(8t{d0$8fp1$y}m@: '
 print(str)
