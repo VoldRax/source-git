@@ -1,2 +1,2 @@
-str = 'r+8zu't{s^(&1@60ncv]+0i_3%,kv5[+ktf+%aq]q[*#?p'#pqoo3:{w; i#'ci,<'
+str = '0)#!^&<!0tj8*'4=8w()uhx>e*xj6iccc;22_d9ucr#,p:=xk3g}-c5d6q4}+;:l1'
 print(str)
