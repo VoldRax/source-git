@@ -1,2 +1,2 @@
-str = 'dqd+-f{60>4&-hgdo<2[y%-oc0:4b[2;{wp-@j=+cbrc,)?@@>(2-5-vljo*i)]$!'
+str = 'r+8zu't{s^(&1@60ncv]+0i_3%,kv5[+ktf+%aq]q[*#?p'#pqoo3:{w; i#'ci,<'
 print(str)
