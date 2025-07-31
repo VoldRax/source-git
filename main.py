@@ -1,2 +1,2 @@
-str = ''53#_!yg6!7t)k1zh2-@6[ 88&>+<}{c_5 @sf)#43#vw*i+{&6itr+4}?]-a{oy9'
+str = '=}#!detu}>c$=4s r4x;)0]gq2@1t![aul+b$9nf'<!ig=)%vuvjr<7by+51>-bw['
 print(str)
