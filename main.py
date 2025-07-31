@@ -1,2 +1,2 @@
-str = '8p}_kc8<&#ldt>b$7e?gf_i(;8t[0:('^o2<y+0i1yl8ia_s6[9'<[-+;dj4uk&st'
+str = 'n^@0do)_s<b&6)uo1[*7l}lpku'g}c)&^{=8{dglkw^x<;5d5u&ojv2gjix9+^ac&'
 print(str)
