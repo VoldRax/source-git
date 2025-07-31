@@ -1,2 +1,2 @@
-str = '0)#!^&<!0tj8*'4=8w()uhx>e*xj6iccc;22_d9ucr#,p:=xk3g}-c5d6q4}+;:l1'
+str = 'egs 1-84h2lr%wo80-l_p<[eu+*$1!m+h7a#a<;)=hd*?k70zx!)hg]1rbty?w6z%'
 print(str)
