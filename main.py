@@ -1,2 +1,2 @@
-str = 'w#t}29{r5(n0],fmoa>mg,0%v7)kxdtz*<y+l:$1_l'imsd?vi9^7) <m!q&*'qo&'
+str = '-l8d>f_yea7b)$mh)14i>m&,p3,i<h&4_=#a)}lj$egsn44(i}@-[16]^ r@if8[['
 print(str)
