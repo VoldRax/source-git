@@ -1,2 +1,2 @@
-str = '-+all7:#(_9 $__ak-,+!zy '=0n))p*#t?t<@_+^%[_0u#%(@?<fav9f!znlv5)s'
+str = 'w#t}29{r5(n0],fmoa>mg,0%v7)kxdtz*<y+l:$1_l'imsd?vi9^7) <m!q&*'qo&'
 print(str)
