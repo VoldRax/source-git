@@ -1,2 +1,2 @@
-str = '{q]99nk7lw,uk+j]*ea-{oya-)y0t:-4 qc7):)%wmmp5o^' >8xo90e,3>-pk&jq'
+str = '9hj0!_&tx &b?1;;q2]'bg-]3u}i7*?#v%}&i*@[%u2u:u  $ia?khkk(8-w[<qqc'
 print(str)
