@@ -1,2 +1,2 @@
-str = 'o_w'k7qax%7;v9'y2,+1(oa y%v:xhu]*,w,>zo*h,]{(oq(8t{d0$8fp1$y}m@: '
+str = '8p}_kc8<&#ldt>b$7e?gf_i(;8t[0:('^o2<y+0i1yl8ia_s6[9'<[-+;dj4uk&st'
 print(str)
