@@ -1,2 +1,2 @@
-str = '=}#!detu}>c$=4s r4x;)0]gq2@1t![aul+b$9nf'<!ig=)%vuvjr<7by+51>-bw['
+str = '+4qa+y)g@r@q*-dfcuy^bu -cb2-(8p@f_(q!gswaj>;59,xkhp;16(e2*]$6a8??'
 print(str)
