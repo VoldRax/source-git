@@ -1,2 +1,2 @@
-str = 'n^@0do)_s<b&6)uo1[*7l}lpku'g}c)&^{=8{dglkw^x<;5d5u&ojv2gjix9+^ac&'
+str = 'dqd+-f{60>4&-hgdo<2[y%-oc0:4b[2;{wp-@j=+cbrc,)?@@>(2-5-vljo*i)]$!'
 print(str)
