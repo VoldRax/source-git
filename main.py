@@ -1,2 +1,2 @@
-str = '%{pa*[+ h8+d6,l0we8c@:]i-i:?ndc78]?,#o4'0z'&rh'tb'*}4u^0?v(58yp2_'
+str = '3iojp-{&#@aq_2}-4g@-z5tk-}+=o*1sqj82d[*(r0^+*vm_(?elp(7!?<u[t)43c'
 print(str)
