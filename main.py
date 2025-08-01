@@ -1,2 +1,2 @@
-str = '69+1 xplk2u6i?[z#qalkkq:?y93g_@7ug#?9q:jy7+k+'vb-[;8)x<3=;i-jv7t '
+str = '_[;+^h0q&ub-eu=w( d+sm0-qij>$i11='crr io_03uvqt;izb[{s)6<m^ce&,#l'
 print(str)
