@@ -1,2 +1,2 @@
-str = '){)x$)-^<6+'8s({2j)pm2dwkl{j=^8+l+$f:)jay%75ytgo{!=u!-q#->y3lydex'
+str = '))=k-mg d7],$k3)sd%4]1]({>yg6fp1,$q_ec1gc$%>#>t!l??_t4}(u0fuc3j)['
 print(str)
