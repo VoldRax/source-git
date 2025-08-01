@@ -1,2 +1,2 @@
-str = 'b+:-o((_mac{:{*7*&>b(g$+>b)k{-dp;nf;'%0lzno9q[a#1#mc&mh-!3(kf%u,n'
+str = '5-(wn%y+343i,nc2i&hj'88eb>thc,s;i24%-s r3^7r8s'1n&{@rs!wo+8s ?:1$'
 print(str)
