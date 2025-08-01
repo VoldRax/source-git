@@ -1,2 +1,2 @@
-str = '3iojp-{&#@aq_2}-4g@-z5tk-}+=o*1sqj82d[*(r0^+*vm_(?elp(7!?<u[t)43c'
+str = 'b+:-o((_mac{:{*7*&>b(g$+>b)k{-dp;nf;'%0lzno9q[a#1#mc&mh-!3(kf%u,n'
 print(str)
