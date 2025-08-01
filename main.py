@@ -1,2 +1,2 @@
-str = '3'xsivgtmr3d!r%g-8{] td?{4@#to+=^d<d+o,:5jkd!7gf)ydw-te$8^n0c%)uv'
+str = '%{pa*[+ h8+d6,l0we8c@:]i-i:?ndc78]?,#o4'0z'&rh'tb'*}4u^0?v(58yp2_'
 print(str)
