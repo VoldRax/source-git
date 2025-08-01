@@ -1,2 +1,2 @@
-str = '&w:gqaqr$6l'{j=rr*qy[}'$7;>g-r<fbm*8n$_]#29+ebyy[$:19lq9ium}bgh8''
+str = '69+1 xplk2u6i?[z#qalkkq:?y93g_@7ug#?9q:jy7+k+'vb-[;8)x<3=;i-jv7t '
 print(str)
