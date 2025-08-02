@@ -1,2 +1,2 @@
-str = '@;,]01+4357kr+'{-k)ep qj-_rp=#5?<]p>h0&:;ny8mg#yhmk,%z ]72<'2+;&n'
+str = '+6_kq-h2d%*-(>2x%:vvs}^r;h,bsjt5sa8t-2+xy1or+iyam84<'3$-7f-)^g!+$'
 print(str)
