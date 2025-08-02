@@ -1,2 +1,2 @@
-str = 'n^72!&2z})xn4*1f2n%h942@*(;$8f+[l+l?:;sc9)& oj!v:@-;3635gfv3}]$mp'
+str = 't3r8001-=hr)](r'<_4xze7!s*+'_p-$(>3]<!{5-9ca+!50yc[v z=h8jx(9p]o)'
 print(str)
