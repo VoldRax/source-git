@@ -1,2 +1,2 @@
-str = '9xbu0_d77#g' k6=d}wkulr^izx##w&pac=qp(^]cargai] rb4+iikt{2 g!$7]w'
+str = '-c<@v ^8rji<,x)f:jowlb]:03];9$eme<w@){aa4+iy*q_oc?!_84#++ 8[<rz+6'
 print(str)
