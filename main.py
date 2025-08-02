@@ -1,2 +1,2 @@
-str = '-n{&2n^qrt0'(w)935i*k**k-c#{y,>83@%b_a9 37y!w?#rcv^$@@x;5]q7h2{v('
+str = ',a;))^7><$??%3f'hv;0n9}9{p,e+e<uhp[ze,^84xz)h!){}n -^m>u'![o?j@[&'
 print(str)
