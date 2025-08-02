@@ -1,2 +1,2 @@
-str = '=y]69_$!2sqt-z ?o<3dc@rl361{-5&#y*[)9rx-n@ xl(_)fd?>9m%[j,_t532o>'
+str = '<u86?)>%!=$wq%ruquj5jycwl^3vb25?xi(m)(_$ >yr r;!+_iupzbp1,[>+_3i*'
 print(str)
