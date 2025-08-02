@@ -1,2 +1,2 @@
-str = '-c<@v ^8rji<,x)f:jowlb]:03];9$eme<w@){aa4+iy*q_oc?!_84#++ 8[<rz+6'
+str = '1gv&+v4]0)rll8[#]$03)(7sen>m,wdd548)v%+oz&s{>c%w3i#'3b?l1)46s&p_$'
 print(str)
