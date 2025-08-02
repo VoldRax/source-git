@@ -1,2 +1,2 @@
-str = '@j=f!1,li{( +c%{'1}f;m?)l roq1qql;v;6%1n9so>z,3ent>++-n}+ig>r:t3w'
+str = '-}5zlm_z@-*-)u!^[f &kab=>rel1*f{ +}@_8d5]7?b$wf@>n 4l_xc+zq;*_,+3'
 print(str)
