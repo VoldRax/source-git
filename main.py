@@ -1,2 +1,2 @@
-str = '-}5zlm_z@-*-)u!^[f &kab=>rel1*f{ +}@_8d5]7?b$wf@>n 4l_xc+zq;*_,+3'
+str = '{+a>aa^:5uxhv6-v=3i*eja@8&b}hd_+4^!^'f0iejore^x2:'-6w(-&w[)wx31r_'
 print(str)
