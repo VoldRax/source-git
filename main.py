@@ -1,2 +1,2 @@
-str = '<u86?)>%!=$wq%ruquj5jycwl^3vb25?xi(m)(_$ >yr r;!+_iupzbp1,[>+_3i*'
+str = 'n^72!&2z})xn4*1f2n%h942@*(;$8f+[l+l?:;sc9)& oj!v:@-;3635gfv3}]$mp'
 print(str)
