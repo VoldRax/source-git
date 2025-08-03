@@ -1,2 +1,2 @@
-str = '0>h^+#m;gza=jg'u?sg[@y{jn0+5-)<{$+4+0w=pyv6+ip4keo[!hl1h--},{#{1@'
+str = 't2e3>k*@3^'0e*]w:6;vphg_w)[)8hey##4,hor!-f;+ :?:^p(b&nahi-(4+se1{'
 print(str)
