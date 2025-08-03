@@ -1,2 +1,2 @@
-str = '@??h?<ov})$$'sm2d+-&}##>+:-v#zxhi5=l$],4qdiotjyl-d1,r- =m}wu61dz)'
+str = 'h[<]7^p<g7%=x8*@2*x,gg%$xlg-p?%;'=&@=__v,k909<s%h)f<4=h8k5;[[ -re'
 print(str)
