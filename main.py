@@ -1,2 +1,2 @@
-str = '8l%=<jya>-:#<<+*}_0{1@-^as&_'d}t+)r=tlh'o_c{bp^0%k71oa8?kz_d2 ?>j'
+str = ',k(8rib@d{]+}t-r0r))yjot*7vx654'38q5]} (v5?skde)@+>_8?+s%19)-2p8#'
 print(str)
