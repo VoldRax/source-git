@@ -1,2 +1,2 @@
-str = 'h[<]7^p<g7%=x8*@2*x,gg%$xlg-p?%;'=&@=__v,k909<s%h)f<4=h8k5;[[ -re'
+str = ''-xq{!<y13e0ga 6]#-&;0{-i4kbyr]tqx<n+p^67(f6t()@c)r1e[1hv]r-]-vmp'
 print(str)
