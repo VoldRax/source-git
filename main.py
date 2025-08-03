@@ -1,2 +1,2 @@
-str = 'q20&l,c)*(?wlg&op$o6o}=y*y4)1g3_:q,hx#p]u7t91w3)<85zr*6w911=:}mjo'
+str = '=gr>?3ef6j#pgw*5q e6^*[r-*f 8**::dr)ttrvbzwr*z,#*?-q5<i7x1u%{dm^3'
 print(str)
