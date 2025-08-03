@@ -1,2 +1,2 @@
-str = '*@s]h,*xi1]s0a646<]<7[4b#20>y>;,l+=pdzhc,[*y5)+m#-(14z2v-yes)*:v!'
+str = '')as,_5@,kv41tu(2*h]11')!5i8+)p;q72+%)>ece1#->:{?++v-=*b-:+,7(6+j'
 print(str)
