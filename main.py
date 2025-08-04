@@ -1,2 +1,2 @@
-str = '+k57,}#+t%?{m2w _dl!@ <y!z_)xx)+*4}svx!0)lwh)o*flm&5mo5k%7(u;e!s1'
+str = 'c)=&v#sn-y[%4 o(^>hv';8i9yp,&cwo,{0(q378']_iv-1{kybc)bbczc6b>o+ve'
 print(str)
