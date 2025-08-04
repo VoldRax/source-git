@@ -1,2 +1,2 @@
-str = 'c)=&v#sn-y[%4 o(^>hv';8i9yp,&cwo,{0(q378']_iv-1{kybc)bbczc6b>o+ve'
+str = ', z2?d,+-a;]cwfg>$ly!6o#*tr(e-qgh%rgz(j'?{3e37-j@bk$t0>>,,8dak{*+'
 print(str)
