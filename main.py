@@ -1,2 +1,2 @@
-str = '=[l&x;el*7xhg;) b)61;^zeg:@b?!dj#rp0u}!!n=9e__'kub[p[&0su<9e*wb!#'
+str = '^,qq)<$14v'i%9a+3w)'@4m;]3z78:(<z0mv'w?v;z%lcrexp@29e-!5yk)#o]-+d'
 print(str)
