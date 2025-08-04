@@ -1,2 +1,2 @@
-str = 'zp]38*a,=8=]#gd',;im} 8^ms;g{e?jy%38={tza+)$zf8})'}c_i]t(89y^9*rr'
+str = '-'ta@vjx*d?au&7$ff0o;b4n;qa7jn,lz$-c+b]n )'^cb5h j_l89dxy%6$&?%l,'
 print(str)
