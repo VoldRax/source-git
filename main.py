@@ -1,2 +1,2 @@
-str = ', z2?d,+-a;]cwfg>$ly!6o#*tr(e-qgh%rgz(j'?{3e37-j@bk$t0>>,,8dak{*+'
+str = '3@-(9e@}wpo,ea;dpbns6rjo]ey3(ux<bzb+[^*j@e(d;'n7_5)+h40!5i ?z-}yt'
 print(str)
