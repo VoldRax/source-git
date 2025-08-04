@@ -1,2 +1,2 @@
-str = '$3d:if)v7&(qa+-+)nr-_+fb*s,0y(5d3'@;2)w:6$ip!,p_k$osc-!pb)p=+3?7$'
+str = ''ja>@bq7)n^eh- 4l0+m>;*z'3t8@#bl[2}3r+0-f%-)tx}eo$56+tia,cl;v12#c'
 print(str)
