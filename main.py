@@ -1,2 +1,2 @@
-str = ')}7;s0y]d2l#qr_5)g>,^:;<l)-84;q>[*jiz2*['xk;=d6#n7')pk ('y>(oyi8u'
+str = '5y7;_}edg 3[<q30hmuifee,b?y-3j29v[=* 9:+vjmc[t(k;av:si_mov'u)g}$,'
 print(str)
