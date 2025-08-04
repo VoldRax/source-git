@@ -1,2 +1,2 @@
-str = '56zc[$r>e&z1wl2)#vcy]gt#ka_m238e-}?}2ag)-5ueoa!0^#=8qt!<)h<=79z--'
+str = '+k57,}#+t%?{m2w _dl!@ <y!z_)xx)+*4}svx!0)lwh)o*flm&5mo5k%7(u;e!s1'
 print(str)
