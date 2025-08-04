@@ -1,2 +1,2 @@
-str = ''ja>@bq7)n^eh- 4l0+m>;*z'3t8@#bl[2}3r+0-f%-)tx}eo$56+tia,cl;v12#c'
+str = 'ag<sx&d09me8ar<<nwe4?a?u4p91*lr9cw-9l}u>>)3p5m)6]}2);b:_rmlm9}:)o'
 print(str)
