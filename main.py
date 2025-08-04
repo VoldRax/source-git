@@ -1,2 +1,2 @@
-str = 'b?c2[}!<-v(>3->uj?1#6?b}2?(lh__%):-4p*f7}!];9b;]u_az5 l:n@p68x;%+'
+str = 'zp]38*a,=8=]#gd',;im} 8^ms;g{e?jy%38={tza+)$zf8})'}c_i]t(89y^9*rr'
 print(str)
