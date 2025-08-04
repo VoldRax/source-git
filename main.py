@@ -1,2 +1,2 @@
-str = ']d_s^[uqty'*0<#3i^w!#bm2whs8]r0@vopw!v{cd++#!noa-$>h?nu*x^)l<(t{>'
+str = '(x#ar}^$e>ir$&e[-pq?>km7[z)j}#74s+886}#-<yp5f_s^*t9-,]3r[c)&'2x-?'
 print(str)
