@@ -1,2 +1,2 @@
-str = '+u3%1(%upk3!*;f!7$ce_l(--^+3z&v<$5%oq;k'2!d5js2zz4{d$7q-0sm)?9!;>'
+str = '56zc[$r>e&z1wl2)#vcy]gt#ka_m238e-}?}2ag)-5ueoa!0^#=8qt!<)h<=79z--'
 print(str)
