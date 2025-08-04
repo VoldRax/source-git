@@ -1,2 +1,2 @@
-str = ')333j!@_p^,m&03=@c,<hj ) 5%:o8y<[mt{x+>6t4=7>v#s340vl&d2neh8n)mn#'
+str = ']d_s^[uqty'*0<#3i^w!#bm2whs8]r0@vopw!v{cd++#!noa-$>h?nu*x^)l<(t{>'
 print(str)
