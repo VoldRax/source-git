@@ -1,2 +1,2 @@
-str = '4pf'<{'m-nc,w)is^jxw@6$[o[2^)c0em*_ou90@t,+i7(1$6o7_,<(@e-;,-uamk'
+str = '3d>df:9v4@6$)tfnv[6#y6ou^3$:v+_pe+)&o+e@-u-_c7zhjeh'8& zkzmbi$+$)'
 print(str)
