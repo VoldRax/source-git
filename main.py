@@ -1,2 +1,2 @@
-str = '*,vxi6z5-})=7e_+!t$!}l]+f4t3-&!8j>^gl^3bk8qf+;z)c?n+$?s6?5epg7po7'
+str = '4pf'<{'m-nc,w)is^jxw@6$[o[2^)c0em*_ou90@t,+i7(1$6o7_,<(@e-;,-uamk'
 print(str)
