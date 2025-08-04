@@ -1,2 +1,2 @@
-str = '(x#ar}^$e>ir$&e[-pq?>km7[z)j}#74s+886}#-<yp5f_s^*t9-,]3r[c)&'2x-?'
+str = '=[l&x;el*7xhg;) b)61;^zeg:@b?!dj#rp0u}!!n=9e__'kub[p[&0su<9e*wb!#'
 print(str)
