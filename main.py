@@ -1,2 +1,2 @@
-str = '87o<r3{34cs4hx2'r0!rk&, _} jz?c-exp334vv_,#oiqv];_e<+lgo1(l*m=+)t'
+str = '2a4_-kw]>_<>p+u1}6-yy)'!-,@bad@=:)=n3^&w>1uo^h])c_'$wqah!#-[-@856'
 print(str)
