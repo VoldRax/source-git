@@ -1,2 +1,2 @@
-str = '((gad@#-)t5d%b-_$kd8f+@;!'1p(,j(x%8u[4{@2^a:^^%=9k+@mk#d}!qg);+sc'
+str = '^<@(%4[rwtl)'=2!pag{##'n]y%7>a>h[dk_@m,''*@e:rx_qbf_a>m80x755,):z'
 print(str)
