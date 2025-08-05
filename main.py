@@ -1,2 +1,2 @@
-str = '93i-uxe+9u2^fp>d;@py3i7^r%&?{zpdn+we0spd%n!9ee*4jyp zptd+v)+9c1+-'
+str = '$*-21$ x<cf!s(r!2{,eb85dzx+)j@jn%{h4*s5#'f42#16_@pc:7p44,)dp)n5-_'
 print(str)
