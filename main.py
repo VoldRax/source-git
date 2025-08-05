@@ -1,2 +1,2 @@
-str = 'e@+fh=]?7mk-:+!(s+{?^-pff6i<_tg9,c_q2({#9?t+k4=<c1qa'([0[z+>p<;{m'
+str = 'u5;x}1{#r6-4+8u0$?dq1hgv'y#qis5g=88c$eo3>&+))axes0ey-:n-_ ;2z:&j-'
 print(str)
