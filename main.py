@@ -1,2 +1,2 @@
-str = 'c*n1t4-*3?->pz^ax3@ip5ppg9l8wib=5f$&q%3@tv23ms<m>-z{ 79$zp!#13cp]'
+str = 'u!+(mkyu>)^6jhxkk}haxr7)y0^3qsq}d8],7:)&er6i^ -:r])-,,];bf+]11$],'
 print(str)
