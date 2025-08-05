@@ -1,2 +1,2 @@
-str = 'u=l$-;)ns)uqc]]g0,(c[> $$,h@vo5r)3*f!++p0cbs''><p6}+=g1k93'm)&wy0'
+str = 'bay-+83aw-0;o,-4m8hg:(=(3,6!<<3ztc[+7puw*!thz]_j0;3tr,hn9m78&+a(:'
 print(str)
