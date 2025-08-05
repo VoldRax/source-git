@@ -1,2 +1,2 @@
-str = 'gi_,%*2d(&_xsvsmyco=r$s35[-3sx@8@([^mlh2blx-b%9y?)^f%5*@wu+%'=08o'
+str = '[gedn%r-;$@_;>)-2':@[%e(jbkyo6f=:0d88{:e$)+?0z+,+d45[o10b'>->*7$n'
 print(str)
