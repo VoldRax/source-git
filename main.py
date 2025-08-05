@@ -1,2 +1,2 @@
-str = '2a4_-kw]>_<>p+u1}6-yy)'!-,@bad@=:)=n3^&w>1uo^h])c_'$wqah!#-[-@856'
+str = 'e@+fh=]?7mk-:+!(s+{?^-pff6i<_tg9,c_q2({#9?t+k4=<c1qa'([0[z+>p<;{m'
 print(str)
