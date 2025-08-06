@@ -1,2 +1,2 @@
-str = '):4<{m0*9hs;z{xn)+l(')%]^{bc?f;^jf3%'8narx&o5&yr59gar%v]$z_!hqm(6'
+str = '-6_g#61g0_)u_]n>blmc$pd+lr+%(8])grkr*#d_1nrl[p4}d24dc<s)^#<^:u4$}'
 print(str)
