@@ -1,2 +1,2 @@
-str = '0_#reyf-_hs9@4-el!7d3o'=6)80^dw[@2:67l6k!&t7%k}&72z)u5<e)0w[i2@la'
+str = '7]>_1$]-)td6)$rrgp7;9)1&5itcki(w:y5r8t+n)m0@mmu01^r- oq6i6=iq46)4'
 print(str)
