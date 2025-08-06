@@ -1,2 +1,2 @@
-str = 'jvi6-g0<n}0b78!!>{441!_udkm6e a)qz(8,k}7b{-{(z_e0y'*}pv<a,$lc:f*n'
+str = '1<ow$jlff{wx5n)l- o[,}^6c$*b:4s%h>u1a1cg?7u3?7&,?b)c7xc)+x!mu!u+!'
 print(str)
