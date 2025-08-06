@@ -1,2 +1,2 @@
-str = 'u5;x}1{#r6-4+8u0$?dq1hgv'y#qis5g=88c$eo3>&+))axes0ey-:n-_ ;2z:&j-'
+str = '5fg6<ijt-&3g7)n_+pbar f+:qn2mu&8tse4;-?+s1cr< $<ri1n(j>q) ;}#g%^;'
 print(str)
