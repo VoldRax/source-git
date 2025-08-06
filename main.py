@@ -1,2 +1,2 @@
-str = '7]>_1$]-)td6)$rrgp7;9)1&5itcki(w:y5r8t+n)m0@mmu01^r- oq6i6=iq46)4'
+str = '):4<{m0*9hs;z{xn)+l(')%]^{bc?f;^jf3%'8narx&o5&yr59gar%v]$z_!hqm(6'
 print(str)
