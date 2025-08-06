@@ -1,2 +1,2 @@
-str = '#9+7yc6>d0k}dp(+68x)2:)!03,8f1b+h'2$ c v#t=m'm p(m)9,k1t )ppr70jf'
+str = 'p2+xxh6-3!zqkqo-cqz2t&28,<zy4]a>&o9^q^&>_oj+05${0q6'd]7'x-@v$;(02'
 print(str)
