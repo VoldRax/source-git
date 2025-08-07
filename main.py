@@ -1,2 +1,2 @@
-str = 'ywzi,?{ hbr{x+{xi)hiu})h#l:)2$ak5%-&_-?+'<+t-$)jv+$?u'='==[0n+axy'
+str = '!tec=qt2y>xcv)+lb1{[rbt(k)g2}au1lyv&a%@t 'l>z{)mgtpp_]%$b +]5okx*'
 print(str)
