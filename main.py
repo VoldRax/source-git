@@ -1,2 +1,2 @@
-str = 'p]8y#5+3{zf7)3 bnqf$-91+<l4=c&!y3@81m4es7f)+av)__!39(->fjc0'5o[&9'
+str = ',l$l+r]7s54rju glc)^[:{)n<nccq>#_@^50)gb+g+(cq-j!5f14vb1e6^!1m>*+'
 print(str)
