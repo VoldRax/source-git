@@ -1,2 +1,2 @@
-str = '!tec=qt2y>xcv)+lb1{[rbt(k)g2}au1lyv&a%@t 'l>z{)mgtpp_]%$b +]5okx*'
+str = '^aam!=11zotr$^%7^u8?+]>7z#ewx-t#-)a%g{g w&9n'0)5*$5d}7nx}9'80ie'w'
 print(str)
