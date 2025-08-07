@@ -1,2 +1,2 @@
-str = ';++a'8;*n99#-_k8rt(@d,8)er; *a49m:- i)e_9<of sadgv% l+99a8eg++3q='
+str = 't}= *$-9'$6&-)xmm1;w#>7v0fxy;& p)n=}bv3{4g4___fzl;3<idfy=vi9=$*!)'
 print(str)
