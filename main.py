@@ -1,2 +1,2 @@
-str = ';r-iei, ^i9s!;}_9^&$z,+1_km4ukx3k :,f^cz*^k{'7!xo0$(#=cl_a}(]f'z:'
+str = 'i'#%*1_)l$w1v@xpvn))m'hfdk<*'!swo)l)d<mgh5$,*acyac{e*d&po*8@d#^we'
 print(str)
