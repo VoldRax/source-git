@@ -1,2 +1,2 @@
-str = '?ib-x _ '-u!2*8]=w!?y-kl*r$mlp-z)jsjc^&l+ksfs0q2go=@,+!k)=)^:}j o'
+str = '@]f[h:%8*yx@-1qv3-k5&*c7n3)udzng)uc]13)2-2'<p3c!p]k:++=z8 )d$]?vk'
 print(str)
