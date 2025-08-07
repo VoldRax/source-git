@@ -1,2 +1,2 @@
-str = 'c_d4&gwq5t->^<dtg6bq:%9)l?s:8z @c!=4ule^3wm)aa<q) [lh+z,<z?f]'l^+'
+str = ';++a'8;*n99#-_k8rt(@d,8)er; *a49m:- i)e_9<of sadgv% l+99a8eg++3q='
 print(str)
