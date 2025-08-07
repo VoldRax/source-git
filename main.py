@@ -1,2 +1,2 @@
-str = ''_k%$wt@;'g2@7fy:v(]3[ktsy+481]{q8)u8aa^_7p(-l'*10#q{a7frtp{+1;qr'
+str = 'jgct>!!%-'+7m8]{(}ilh=;#wb)v4]=x^=y@};{8!0>jni=?xy}9=-3h${#(cisnf'
 print(str)
