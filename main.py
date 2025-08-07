@@ -1,2 +1,2 @@
-str = ']1mtre3-u{)*6n_$nra45?n+=)@<9!{6%!!v2+4+{-}%-e27;(x{amc&#^t;'{_69'
+str = '*ssh1h$?+20hz0p!i{]j];5[3g_s?%]i+- k0-91>](1w:z$yjj}:v^+@qk$:073{'
 print(str)
