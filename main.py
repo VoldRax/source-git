@@ -1,2 +1,2 @@
-str = '^aam!=11zotr$^%7^u8?+]>7z#ewx-t#-)a%g{g w&9n'0)5*$5d}7nx}9'80ie'w'
+str = '(*>5e2lz!0n{34- w4l7v_$$37bw3>[-b_964,lognwx) k>,'ym)u%hep@7:-1k]'
 print(str)
