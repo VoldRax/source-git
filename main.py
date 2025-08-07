@@ -1,2 +1,2 @@
-str = '*ssh1h$?+20hz0p!i{]j];5[3g_s?%]i+- k0-91>](1w:z$yjj}:v^+@qk$:073{'
+str = ''(u@9)+s)'p)[i8s^!s-c08}[=yt'zt0lik%}j(prbomjtt+t93u41$o=2}l]kg:8'
 print(str)
