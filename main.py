@@ -1,2 +1,2 @@
-str = 'i'#%*1_)l$w1v@xpvn))m'hfdk<*'!swo)l)d<mgh5$,*acyac{e*d&po*8@d#^we'
+str = ' 8)2b@'i$$]m:}ghu5@ &+v^l@p3w>-_j+;x{6s=y+!*,n*9uf!@%5 %n$_${!j+k'
 print(str)
