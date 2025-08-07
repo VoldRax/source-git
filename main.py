@@ -1,2 +1,2 @@
-str = '-6_g#61g0_)u_]n>blmc$pd+lr+%(8])grkr*#d_1nrl[p4}d24dc<s)^#<^:u4$}'
+str = 'j0 %{r}3qmr3hw?*%[i{z*z7362ifc6g(gxya0>6d&@w}k-ma-k&t^0{s40!:v&7:'
 print(str)
