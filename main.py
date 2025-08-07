@@ -1,2 +1,2 @@
-str = ''(u@9)+s)'p)[i8s^!s-c08}[=yt'zt0lik%}j(prbomjtt+t93u41$o=2}l]kg:8'
+str = '@5-@)*=+a'sfx-@)2i-+07p=j{e5;1+c8r$6<_w*y}n]86;>)by-2:$> # ygir s'
 print(str)
