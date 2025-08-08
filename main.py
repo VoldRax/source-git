@@ -1,2 +1,2 @@
-str = '-:]6^5{o{5+xh${d>;gv<iy^22!894^v!un;x&&c'^;)p6'},qu]r5<*$q'%2:]}p'
+str = '<k<m_?q{6ogs_$+vsrc=!fchn^=}6,ws>3][5c#u!a3!b ##di*;nb-(!o<l=:)e*'
 print(str)
