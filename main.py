@@ -1,2 +1,2 @@
-str = ')e>>)*of6c0=&7a6+,n@ye;-4m7:{)]i8+l6_w&h5u{d269}$^f)x 55susv,+{j)'
+str = '')v}uy$*km'w>$_(_ w[*a1*gu)ok]2)u&z#hz)ir,l=7w[ec{1t0m-]yx}0[-co{'
 print(str)
