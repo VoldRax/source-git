@@ -1,2 +1,2 @@
-str = ']*)}5z}=<=[055')e<+b-vf!9&b$n6<4)++iuw{-:@v}r0{^h5w;:*}])7:ypj)-2'
+str = ')e>>)*of6c0=&7a6+,n@ye;-4m7:{)]i8+l6_w&h5u{d269}$^f)x 55susv,+{j)'
 print(str)
