@@ -1,2 +1,2 @@
-str = 'bn$ehqq[xd@27,$4@7>!_5prhj!+^},vlb^,)tc!ld*, -%no67b]1=:r<hcbj{0_'
+str = ']*)}5z}=<=[055')e<+b-vf!9&b$n6<4)++iuw{-:@v}r0{^h5w;:*}])7:ypj)-2'
 print(str)
