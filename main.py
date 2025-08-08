@@ -1,2 +1,2 @@
-str = '')v}uy$*km'w>$_(_ w[*a1*gu)ok]2)u&z#hz)ir,l=7w[ec{1t0m-]yx}0[-co{'
+str = '-:]6^5{o{5+xh${d>;gv<iy^22!894^v!un;x&&c'^;)p6'},qu]r5<*$q'%2:]}p'
 print(str)
