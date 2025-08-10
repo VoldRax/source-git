@@ -1,2 +1,2 @@
-str = 'u_=l4hlb!gr#i&'j9qj@}xs+'io2nq+7-wz):%b:a04-u>%8--98}=k]$fbo;k5_b'
+str = '0(w5+hyklcp=:ymk)= 5cad}$ju1a&f7iv0-=!{tgh4:=+;%ox34vg9hc#2(f'<k{'
 print(str)
