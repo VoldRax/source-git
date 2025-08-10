@@ -1,2 +1,2 @@
-str = '0(w5+hyklcp=:ymk)= 5cad}$ju1a&f7iv0-=!{tgh4:=+;%ox34vg9hc#2(f'<k{'
+str = ':+jbq#z5v<xi,[s+8[=-j@wv?u5$l*cc-4-}a^=($^:-z%fm6v)'q2re:3pm@;$:<'
 print(str)
