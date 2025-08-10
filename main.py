@@ -1,2 +1,2 @@
-str = '<k<m_?q{6ogs_$+vsrc=!fchn^=}6,ws>3][5c#u!a3!b ##di*;nb-(!o<l=:)e*'
+str = '{:*acx d0k[-,6n&^%hw} +ek8 >e;=wku:d2^[<+2]mp-+uz}',%) 3+]t->)z^l'
 print(str)
