@@ -1,2 +1,2 @@
-str = '{:*acx d0k[-,6n&^%hw} +ek8 >e;=wku:d2^[<+2]mp-+uz}',%) 3+]t->)z^l'
+str = '?cn^-q38<(b84d-v=dfx),0:^q&l;1-w*!y}2a]1<qm4{ni#c?#ezgfg<vx$o_11r'
 print(str)
