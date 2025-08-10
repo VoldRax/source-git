@@ -1,2 +1,2 @@
-str = ')e{ =2@?,p^sj#k]9_?+'+ai=fgeu3h^:(>qc]x-t2}-@1q*a)-[;e>zc@ii1u}4+'
+str = '?nv%z#)77-=1b_f^mw6-)wru5oj+yk-^x?0v3*>z5my%q:ni^3+u)n[?ii+=]*!e '
 print(str)
