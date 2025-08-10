@@ -1,2 +1,2 @@
-str = '?cn^-q38<(b84d-v=dfx),0:^q&l;1-w*!y}2a]1<qm4{ni#c?#ezgfg<vx$o_11r'
+str = '-(<m+nb<)'*t5d1#ir1w=%9}!j<qhc%i'y,* ^97f1<838k5h1t)@}+x-}iq_$+$,'
 print(str)
