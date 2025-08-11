@@ -1,2 +1,2 @@
-str = '7o*l-n2)zk<a(kh -m(c'k{ln?d=b}di2r*)n03ag:&]ee-3=^!,jf4@$a;onmf0?'
+str = '=zw>jaf3)^(z+a85%44=?4xy5*][0{[3]-i5fa=uvo[-+-8w_6d^%3+mq#,27 ml)'
 print(str)
