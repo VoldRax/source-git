@@ -1,2 +1,2 @@
-str = 'f's+2nn@*}p2ynu_e+q5-x3%c)+d 8d ^$1p6 *v@z[$xm1+ne:5f&qzu!o,-6=4p'
+str = '7o*l-n2)zk<a(kh -m(c'k{ln?d=b}di2r*)n03ag:&]ee-3=^!,jf4@$a;onmf0?'
 print(str)
