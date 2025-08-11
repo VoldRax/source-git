@@ -1,2 +1,2 @@
-str = '=zw>jaf3)^(z+a85%44=?4xy5*][0{[3]-i5fa=uvo[-+-8w_6d^%3+mq#,27 ml)'
+str = ')7yq^7)#fi zeme;44=l]n7[fdhy<e%t[<y);6@@k+jl52y_]'6#&[k^@!{[zz?4v'
 print(str)
