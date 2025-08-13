@@ -1,2 +1,2 @@
-str = 'k&r)'1g@mc#8>9p:q-[6ew*>{u>&v7sm-s-^vr}s-!]+um; &7r7:f23(n+-o1:19'
+str = 'xbfqom,)v_bb4g9m?q&,* ;)d[sagw-7?+*m1:;1don%1-)l{5-j@?&6:$)v*)u3u'
 print(str)
