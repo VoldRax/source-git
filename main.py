@@ -1,2 +1,2 @@
-str = ' 6)p7px8f$(=+*27je@ak=g&{81r@#?r%!+?j+]d%9-s*i]+l;e]d=(;[8324y]}#'
+str = ' xg,;-;vw8'aigko+bq@b*e:#lxk{!m^ u@e!zusw4zcj+3a[q(qy$nb})}}uj-a_'
 print(str)
