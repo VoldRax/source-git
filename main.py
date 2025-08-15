@@ -1,2 +1,2 @@
-str = '<@qv+3'3rtgyfpx]9*4s&sdx0=[<:>i;4ur6f-)o$f!gb*mry&r0*)7;s(f<'d]2 '
+str = ')6s=j9x+6-d[{1b+p5m;#;v08g{u>n*129jo}%,%#-g- 1^xy{8-=u=y1,wx'td'3'
 print(str)
