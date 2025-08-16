@@ -1,2 +1,2 @@
-str = 'uk%x+5z3#$7*4,nm]#z,+-0b&[>pi3hddn[r:3n(@fk'b<$+(%ch1_>u-{{j'oi)#'
+str = 'f7wr4@0((';3f63dllb6<:*3tx%,6[:?+@l}&((xv#oa:(kxc(*p8btg9@c8u2#'?'
 print(str)
