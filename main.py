@@ -1,2 +1,2 @@
-str = '*r]y=id09z3jv]hq'k'7q+@-drt?(k'l0^,b[crq}]&xr]<u-20[,'d^*o1[@i,_a'
+str = 'uk%x+5z3#$7*4,nm]#z,+-0b&[>pi3hddn[r:3n(@fk'b<$+(%ch1_>u-{{j'oi)#'
 print(str)
