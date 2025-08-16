@@ -1,2 +1,2 @@
-str = 'qxj_8i9+hy{@aj8%?&e!l32y'$fi>n+c+@+=&mehhn-=1-j7_e*q(a+4;b:t}<;}''
+str = ''u=x)nzso5+]$:) f[1m :dg_(-qvh+{-xk=%v!y-mj+)7&azdn -m?%6 +$a#p:!'
 print(str)
