@@ -1,2 +1,2 @@
-str = ''u=x)nzso5+]$:) f[1m :dg_(-qvh+{-xk=%v!y-mj+)7&azdn -m?%6 +$a#p:!'
+str = 'j_6$#d*jz7d2-{-2t0?6--:h3grt(4&7}d70hyufept3*?-gs%4)s([&m0a?mc+d<'
 print(str)
