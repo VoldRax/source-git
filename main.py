@@ -1,2 +1,2 @@
-str = ' h!<)sz+zq:{0!ix!39<m'>#*=m_h$n1*4>o%;6>fu+1r4_@cx>fqt2crrmd2%:(l'
+str = '-9o7ad'-7'6e:a:u_{]e=8-;rbe _-{jg[&ub+zz)i{js,62)9f ['8*j-e+z'0a>'
 print(str)
