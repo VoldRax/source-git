@@ -1,2 +1,2 @@
-str = '-9o7ad'-7'6e:a:u_{]e=8-;rbe _-{jg[&ub+zz)i{js,62)9f ['8*j-e+z'0a>'
+str = ']6t+mcsfl$+1h,86}p2]s+8yec'r>#u8!'j#;*>^+bt_4&+2}8-z_,{jq+%ca5*4='
 print(str)
