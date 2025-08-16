@@ -1,2 +1,2 @@
-str = ')0p-r-5:9d84>o%up+!_8}b%b &)sp,)?:s6%{}<9w_2:t5$-6t81&()0[3fl}r*y'
+str = '}u)>^q2j(7[gkg>*t^j#tb(}g$y[u(_wgz&@m*1da,+m_3la7[4#ntz$d5!!1m+-='
 print(str)
