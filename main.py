@@ -1,2 +1,2 @@
-str = '];# v}{!(inz-w5] 6f*)f+r&8b>$)z7#4ss#{^j,(f>7-w%=:9qxh+v'l99f1$g-'
+str = '_bx3!x4[?*0++rd'7to+7z}#l6}8l1&2(^du?un:&2+qn&{#?-wo0r((3x7,g-vrj'
 print(str)
