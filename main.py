@@ -1,2 +1,2 @@
-str = 'j$*#_ph6u+8ltkwy+{1%$o>vgcc)fy-b0ccuf[5+''l>$=mkp)so-$1zid8?e9v!$'
+str = '7 lqj4q*'s{fi>%d+3]rc4xb=c}?(7t8,cko<@[:dx?gm?v^f+-7*+#c>&_7)(^,j'
 print(str)
