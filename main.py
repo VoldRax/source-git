@@ -1,2 +1,2 @@
-str = '^f!=?+=n^g;!qql;?'?dhui?;s^2!6kp)a2'i*n=*a)o[&8tcy+#l?_@7>;7o;bi}'
+str = 'xt[ 7lf r>c]gn-55)fkcz4?!1@q9qczdux +fr[aw[#43-a,6ul8c}&im)u%-dn}'
 print(str)
