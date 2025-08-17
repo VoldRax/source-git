@@ -1,2 +1,2 @@
-str = '$jh *g+*)(tpgmy^e&ymx^i#b tp6v%^z4u)*6,_35i+0)9@4-)24e@[})pj{vgw '
+str = 'yy&+i<>r{1y^23x'l=th$xszmwv6yb5h}x(4wdd?e>'aco$4-cx)+w9y3cci9qg)<'
 print(str)
