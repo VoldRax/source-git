@@ -1,2 +1,2 @@
-str = '**($?]c6vml<w+h{r b1z<;do,'m0q'0)_-g(on#m*q)#tpm0$uk))w< x1vdjli['
+str = 'u%uzsla>76h)]ez o0s:(-m>bgp2k3p;]l}c&j3ivo@)@ttb;76{0&quw+e$5o'a)'
 print(str)
