@@ -1,2 +1,2 @@
-str = 'u%uzsla>76h)]ez o0s:(-m>bgp2k3p;]l}c&j3ivo@)@ttb;76{0&quw+e$5o'a)'
+str = '$jh *g+*)(tpgmy^e&ymx^i#b tp6v%^z4u)*6,_35i+0)9@4-)24e@[})pj{vgw '
 print(str)
