@@ -1,2 +1,2 @@
-str = 'i2wwx87e#@p!;e+^3+3+)])d%ek'>i=8-ifq(<'s*pq(+98<67^*>0*@4)4< c{j&'
+str = '^f!=?+=n^g;!qql;?'?dhui?;s^2!6kp)a2'i*n=*a)o[&8tcy+#l?_@7>;7o;bi}'
 print(str)
