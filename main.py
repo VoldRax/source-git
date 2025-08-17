@@ -1,2 +1,2 @@
-str = '_bx3!x4[?*0++rd'7to+7z}#l6}8l1&2(^du?un:&2+qn&{#?-wo0r((3x7,g-vrj'
+str = 'uqsq=)(7q4b5ehwhvgnv'ef2(;y[7+w-wc5q&&4d j9<a934o!f@-)(0v8}6b9,7p'
 print(str)
