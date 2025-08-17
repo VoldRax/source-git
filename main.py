@@ -1,2 +1,2 @@
-str = '[<w87 >bba:wl:{u448+l-q:]@y0+16s;q,82[lz7m)$;?i;jyu_lw3>=i>4;bo80'
+str = '*+nr7,>b*m2=fcv}r-cz5i<9h$>?-3619qsybrd2po?}2]#k1s3>jd?c&?=o1}mc_'
 print(str)
