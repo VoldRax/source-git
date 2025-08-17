@@ -1,2 +1,2 @@
-str = '7 lqj4q*'s{fi>%d+3]rc4xb=c}?(7t8,cko<@[:dx?gm?v^f+-7*+#c>&_7)(^,j'
+str = 'i2wwx87e#@p!;e+^3+3+)])d%ek'>i=8-ifq(<'s*pq(+98<67^*>0*@4)4< c{j&'
 print(str)
