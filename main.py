@@ -1,2 +1,2 @@
-str = '5')*hl041gs4#jon$w?0n))&&g_2@o+;)h)vnutzl{7{*pjh$e#&g9 ;e7]<*<g8['
+str = '[<w87 >bba:wl:{u448+l-q:]@y0+16s;q,82[lz7m)$;?i;jyu_lw3>=i>4;bo80'
 print(str)
