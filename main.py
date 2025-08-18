@@ -1,2 +1,2 @@
-str = '4<0]?lf,!0^r{@$gxd ty50[c%g$dii'i7_)#b^$q- 60cys>8]]:e@}'4ll;k>?2'
+str = '5}{6{uh-2b3$u7xk{9^z]:6i])85j)1;}x^:}8ltt5ox#km2s^rl<{?=tp!6[<-=t'
 print(str)
