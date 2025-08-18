@@ -1,2 +1,2 @@
-str = 'xt[ 7lf r>c]gn-55)fkcz4?!1@q9qczdux +fr[aw[#43-a,6ul8c}&im)u%-dn}'
+str = '9-or#3,;ni2:1-^ler2]jk9g2&h3+zxil'8({,>{t]:=k*(k{en]wea+;z%n+=[>u'
 print(str)
