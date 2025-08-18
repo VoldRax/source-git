@@ -1,2 +1,2 @@
-str = '9-or#3,;ni2:1-^ler2]jk9g2&h3+zxil'8({,>{t]:=k*(k{en]wea+;z%n+=[>u'
+str = '4<0]?lf,!0^r{@$gxd ty50[c%g$dii'i7_)#b^$q- 60cys>8]]:e@}'4ll;k>?2'
 print(str)
