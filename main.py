@@ -1,2 +1,2 @@
-str = '$5+bs>z@]>[+!osvc6bczv21+%qaf})k'oje4zv,i+jt2yct6s<@vqae9>4)dfp[x'
+str = 'o;8-6n]{ q!jy9kv0,r!whbq*{0{jr>4k[)u-qwtzzjku+r<iv*7<#r1pk#dr';+>'
 print(str)
