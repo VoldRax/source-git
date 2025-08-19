@@ -1,2 +1,2 @@
-str = '(z3?^%wj84 f+3d#*o[^7$7nnyw)s!n;^e=wp:4'h!fb&n!)=wyqw0^((_,}=q1go'
+str = ':63^b%+)+_dd1dyplv-%+(zs_pe4-}z>]^n z0s']}!#2,5hxrz9>?,})]+@(yu})'
 print(str)
