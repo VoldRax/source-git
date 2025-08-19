@@ -1,2 +1,2 @@
-str = '3@h'!}ay*4-h!kk4zz087g=nu4)wre0*xf_pg*y'f4:<j5$j62}sr?y9q3-d{a2]-'
+str = ')&=:+ whe,9z-51h$p#3^c:320, ##d75t&&g5:}v*pq}bh<}+:r0d3mxw?8t 4s-'
 print(str)
