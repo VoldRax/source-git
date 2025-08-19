@@ -1,2 +1,2 @@
-str = '>6-^4^;hfbwgv6dea:#}5pu-ioc[[ua?<*e),dhx$un}qi+;<p,}o:nqb+e0t=o!f'
+str = '>!^gub,c))zh$=$i)')ed{pt(7,g[sci6!)7_pe@r_a}s8_)p7_j-24[vyv:pzy]#'
 print(str)
