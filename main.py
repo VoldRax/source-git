@@ -1,2 +1,2 @@
-str = 'tgl&}8^3%^h=f0dhtq&q,dvwax;j@6}jp1)8nq0[tkm*$frv53+d)4w1'^)d#e3)j'
+str = '3@h'!}ay*4-h!kk4zz087g=nu4)wre0*xf_pg*y'f4:<j5$j62}sr?y9q3-d{a2]-'
 print(str)
