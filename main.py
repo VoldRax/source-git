@@ -1,2 +1,2 @@
-str = 'l%2j_e:kc_6^5'&>bmq-5o!z7-j^)1i v{{p0yyp@&{hy(r=l4q'_q)}u%jc,;qz-'
+str = '-sqv-i{}t=pi)]_g;=]dy]go obqh'$:17g(3eg9rt-15%+}h-}o()?jq+)2+do!,'
 print(str)
