@@ -1,2 +1,2 @@
-str = '++{0(>#8=2-'8an&+e>x12p?%;-[@to6c)-};7+be?n=71*-0yi:r%+,k{7',2^61'
+str = '+576w>'++qj6{6b$it,r+nuy(mpge=@!)e8_ v@jtf7:q-_*z}'se'x9&&(-%?@,f'
 print(str)
