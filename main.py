@@ -1,2 +1,2 @@
-str = 'o9pp8 <kw*{6'tz>#un=%v_ecye@-#7o&#:2d 0}:5=9<4* j3oy68))0t9:3b9$+'
+str = 'kj*6nq(_;f:wu+[)vvpq8f1)g'lkd'a8#y{+=](=+k2>s:k,<e}a8l>l]]-6l#467'
 print(str)
