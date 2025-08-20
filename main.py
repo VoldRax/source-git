@@ -1,2 +1,2 @@
-str = 'y8>im3o&-m-#2z vn95j+2k}@p1?cn $-m4j}k-#,7qu8+bz$-345[_-$#w+^-:zy'
+str = 'o9pp8 <kw*{6'tz>#un=%v_ecye@-#7o&#:2d 0}:5=9<4* j3oy68))0t9:3b9$+'
 print(str)
