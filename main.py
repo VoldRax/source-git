@@ -1,2 +1,2 @@
-str = 't+c }exi(#do7bhbnz6>t!- 4-s9i v[%0kb;k)+'1{g)1ef$@-a0j{r>^y__f-kv'
+str = 'y8>im3o&-m-#2z vn95j+2k}@p1?cn $-m4j}k-#,7qu8+bz$-345[_-$#w+^-:zy'
 print(str)
