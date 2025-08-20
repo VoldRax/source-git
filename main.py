@@ -1,2 +1,2 @@
-str = 'as}==f8y7{#>0,+y>pwqh*1;]zw@>neh-8*]}-[<?=!m+5+;awfao2i>1,r(5(4^p'
+str = 't+c }exi(#do7bhbnz6>t!- 4-s9i v[%0kb;k)+'1{g)1ef$@-a0j{r>^y__f-kv'
 print(str)
