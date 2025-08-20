@@ -1,2 +1,2 @@
-str = 'kj*6nq(_;f:wu+[)vvpq8f1)g'lkd'a8#y{+=](=+k2>s:k,<e}a8l>l]]-6l#467'
+str = 'k0&)(-d8g(]m;aje:rv!@c)ys:q ](dt7-m;e?'5tv1o;n(p*r>+?fb{:1c4,}q)d'
 print(str)
