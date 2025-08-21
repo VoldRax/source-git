@@ -1,2 +1,2 @@
-str = ')(6^=1}g+:(*'{b@q4zl=5@_0)b]-+><=k{sdjo'$hl-c-#-^;s:-?>t+&>01!)9u'
+str = '+qof^v ->_-4t<s}!:<2!<f@,9+h x[v[el<6$@3_+=^8d74c>+n=4o&l2^%%9s2a'
 print(str)
