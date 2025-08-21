@@ -1,2 +1,2 @@
-str = 'q-4)u#),<%qh'n>2txh*a a>q-{c@{e;?0s)ry#j%xf!4,?$d3vb]?59weekc;[xk'
+str = ')(6^=1}g+:(*'{b@q4zl=5@_0)b]-+><=k{sdjo'$hl-c-#-^;s:-?>t+&>01!)9u'
 print(str)
