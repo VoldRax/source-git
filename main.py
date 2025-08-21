@@ -1,2 +1,2 @@
-str = '+qof^v ->_-4t<s}!:<2!<f@,9+h x[v[el<6$@3_+=^8d74c>+n=4o&l2^%%9s2a'
+str = '-d4pe+}n1:0#b0j_hk11#a_er_m+47j'%>t8]++j24;!xf})'?}i+m'2wm@%sey1_'
 print(str)
