@@ -1,2 +1,2 @@
-str = '*'v24a+-:+qv6)n!5s$pq_0t-<6+6l32)^rc+{ud'():'<'<@r_yf-_u$@&;3v{bt'
+str = 'e-d+6ap#0cv0)32<-(_}9>=o9zpal(&ph^55m*z3:lhz&%=['j}q+<tw%zvw*@)-)'
 print(str)
