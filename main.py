@@ -1,2 +1,2 @@
-str = '-d4pe+}n1:0#b0j_hk11#a_er_m+47j'%>t8]++j24;!xf})'?}i+m'2wm@%sey1_'
+str = 's-()b<ukwm8c<1>-[)c4+tghj1#07r_@w! j$_6k>z:z7p4#9{)-,@!pu6h[$jciq'
 print(str)
