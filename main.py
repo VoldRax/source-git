@@ -1,2 +1,2 @@
-str = 'p:%q}+;+$0tl _+([8_o#n[v&ut^rwm+}{u;e(=,z'>g)@q[5_wmy#xa@5a+7^+j5'
+str = 'q-4)u#),<%qh'n>2txh*a a>q-{c@{e;?0s)ry#j%xf!4,?$d3vb]?59weekc;[xk'
 print(str)
