@@ -1,2 +1,2 @@
-str = 's-()b<ukwm8c<1>-[)c4+tghj1#07r_@w! j$_6k>z:z7p4#9{)-,@!pu6h[$jciq'
+str = '-7aa_)qn-_e ,zp709_fg2 )t1k6#r-w:_hm?0z=9(-u07'g7);5:*z4,#t5kr$%='
 print(str)
