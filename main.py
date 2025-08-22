@@ -1,2 +1,2 @@
-str = 'd8w;k$5rfpx{2[)?k!p[3):{!-naqn:+i)r[if%h](fwy>89)pkd+%sb+&4]$]_9s'
+str = '-skz5;!%ce^wc)bf)gh)9cfz#s[k-*i 14uf!-040]4g1,v:a7+zmn;@ja5f@-!7+'
 print(str)
