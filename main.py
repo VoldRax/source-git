@@ -1,2 +1,2 @@
-str = '2[b)y]s] q)edf$58%?(ac=$;d#);,?*2^8n&;]-}o4)=f%2sm:5n,__:y qbqr!]'
+str = ']$sf)1k,rm:}?m]e_son4o&xye,j,=[-5y3tga x?y[4rz-ga>&)l>n%,$-+z98fu'
 print(str)
