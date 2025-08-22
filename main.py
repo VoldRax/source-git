@@ -1,2 +1,2 @@
-str = 'e&6=w@iji:q:&:;vz}2[8=j10nqhe'fuj 23]8kw)t+i;-2ypr*'5e%g7&;$q?>g}'
+str = '2[b)y]s] q)edf$58%?(ac=$;d#);,?*2^8n&;]-}o4)=f%2sm:5n,__:y qbqr!]'
 print(str)
