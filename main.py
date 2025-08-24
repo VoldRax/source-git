@@ -1,2 +1,2 @@
-str = '!a% z}8% <b}g}977r,6go-y;%@9^-5s,]y'+@{ktskpz +]^6%_s^lt{_]5$qeyo'
+str = 'q=[ec>o3uz;7'_%]#z36$t:g5ej}p6u5z{2=rc;1^1zfj!'^y]-f:e$-)+dov=!5&'
 print(str)
