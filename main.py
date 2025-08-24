@@ -1,2 +1,2 @@
-str = 'kw4r{<r(2w)wp,3&&b2+;k9,@9f54e%qqr!2+1+4{$)*w2{]$ jwph7z][bznb]o;'
+str = '783m 0d<)!i-j!bfdxm6cc^hu-)3q'9i,5w+f*}n-}gsuc07a9;+)h%8&{'*3*,<-'
 print(str)
