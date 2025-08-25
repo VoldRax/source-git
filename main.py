@@ -1,2 +1,2 @@
-str = 'k:bq?s9-wud+^z;g<a)=+$h_@#a<i6v_o->2v#_f2k7'^ )x+b(jnlkk]]=330+!h'
+str = ')k0&@@j }n%fy)d<gp<y{246jiy$7x;x 44]57j6c)>+o;5>%!2<[k{-i0@7a#ci_'
 print(str)
