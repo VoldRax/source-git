@@ -1,2 +1,2 @@
-str = ')k0&@@j }n%fy)d<gp<y{246jiy$7x;x 44]57j6c)>+o;5>%!2<[k{-i0@7a#ci_'
+str = 'e5^_h^vl)7a)t!*ya!7j%s]={+hh?e?f2436i7h=i?++y$tw[ds't=o4:p$2?+#75'
 print(str)
