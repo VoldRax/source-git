@@ -1,2 +1,2 @@
-str = 'q=[ec>o3uz;7'_%]#z36$t:g5ej}p6u5z{2=rc;1^1zfj!'^y]-f:e$-)+dov=!5&'
+str = 'k:bq?s9-wud+^z;g<a)=+$h_@#a<i6v_o->2v#_f2k7'^ )x+b(jnlkk]]=330+!h'
 print(str)
