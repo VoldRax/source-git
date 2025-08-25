@@ -1,2 +1,2 @@
-str = 'poch1s,wh<{0=gs%m?;eh_8ppc--r%t-z408s,z ?@}',erl%]lvj66yz1(v;<n8g'
+str = 'g]%z_9,b5u=j<z,77%)nne4{fh2#o81]rd?=p)?&+p$ns kumpi}+ sib>4x1m;}-'
 print(str)
