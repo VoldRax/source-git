@@ -1,2 +1,2 @@
-str = 'g]%z_9,b5u=j<z,77%)nne4{fh2#o81]rd?=p)?&+p$ns kumpi}+ sib>4x1m;}-'
+str = '^a}<^lbh xx*sm%t%#&gfizm&7m=*x2jp<r@8]*rk>z(o)tpd)^abgat)t6(y%5[2'
 print(str)
