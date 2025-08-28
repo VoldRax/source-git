@@ -1,2 +1,2 @@
-str = '%3-0<x3a=7&+8 !i> ybf'e>+e >kwby?e=:8yd]?dfi$(t&^4j3b;-:wlhh5-%*c'
+str = '64?y?5t+u;({td2-#p>:n^*c(&npwe=!n)2fd#%!!j<l=bp#=*if_&j3)@7u6zfcc'
 print(str)
