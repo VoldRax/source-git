@@ -1,2 +1,2 @@
-str = '_)8tzs:-d[8{n4+7]f-m%v1$c{,rs9bcz@noqx+5]j}{>-%-vx9_2)c<gzzm1p;@e'
+str = '1'i8ke_81<4%'w(l$ru}q978p]&0lx9'[$&+e1ra%i3,k=e9_c77<jpfd@8&?!]za'
 print(str)
