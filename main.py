@@ -1,2 +1,2 @@
-str = ':[ol%+=itbub!)?xt99 !rnwc![uz0&p'_+q<e2-ni5^m=[_jr?!v!v)h$@->u3(h'
+str = '%3-0<x3a=7&+8 !i> ybf'e>+e >kwby?e=:8yd]?dfi$(t&^4j3b;-:wlhh5-%*c'
 print(str)
