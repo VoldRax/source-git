@@ -1,2 +1,2 @@
-str = '=}c'+ct($athv6)mo0-6]$v77jv!^?3y}9l*m]^;]o4*+-!}vtxij:m-0?:tpb 3-'
+str = 's,wf!'t,)(r@v3i>3(g_>j-qn1+7v#st'ye)_)g;+06!8i;1:inv7#z^pcn5z%jgr'
 print(str)
