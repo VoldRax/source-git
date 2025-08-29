@@ -1,2 +1,2 @@
-str = '_zus*3aww(-q{47{mnvo(v+_?lnfm& p)r-?# >$fj>%*-< s04[=jm^pd6[o7m8c'
+str = '{'}'h)i)+&aq2*&[4@}5^)}b}a43@q&7-9s90f^&m-f<)erlj$fyj+;:h7hcepbjd'
 print(str)
