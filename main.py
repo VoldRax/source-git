@@ -1,2 +1,2 @@
-str = ']d%l%,yzp73%-541ts_:'5lvzfx%tg$5'i<[91?5f,f%<k1w1:*$y!%qw$<#lm[df'
+str = '! 9f=g}mi*5+oq&#&fea-tw1=7&o0-<t_df_(7$);uv)@e_yt}]odgk xs#4']35q'
 print(str)
