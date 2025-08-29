@@ -1,2 +1,2 @@
-str = '--;'4jq)7'{s )w');%lj=rt%-)#}>,7) 0)]!mbd=$r)!5i+;h0m%mmsn?g*+h=('
+str = 'tk't{6)yre?m+3)t{? -h6ivfq+s&gf'+amx=?($&{}_[:{]2owk;eh 2 mg9>12w'
 print(str)
