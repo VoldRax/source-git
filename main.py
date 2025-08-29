@@ -1,2 +1,2 @@
-str = ')%sd@kplj<,%]p0[t-$);ru3;3;8q?7k4t;$!$1,i&$+1kt,z-%cs[cr^:!5 9:>b'
+str = '!=}}@d*+3^q4gh!g[#<*110>>nixy}j;u6g@;msp[<u+3 40d6^)6uw9eb]<r^7)a'
 print(str)
