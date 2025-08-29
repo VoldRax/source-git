@@ -1,2 +1,2 @@
-str = '()(v^{:@e6b-xqns#$ )<_}f0g_0?e8o<(q7g>*;+iz2 zv+soulkyt[;b-+ g4s+'
+str = 'ifj1csfh7fs#p&a)u#b2 1<2'b:,,;-)&k 7v-671*1-#gm*'h6l[!uk?2%y-7pv%'
 print(str)
