@@ -1,2 +1,2 @@
-str = '{'}'h)i)+&aq2*&[4@}5^)}b}a43@q&7-9s90f^&m-f<)erlj$fyj+;:h7hcepbjd'
+str = ']d%l%,yzp73%-541ts_:'5lvzfx%tg$5'i<[91?5f,f%<k1w1:*$y!%qw$<#lm[df'
 print(str)
