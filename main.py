@@ -1,2 +1,2 @@
-str = '!=}}@d*+3^q4gh!g[#<*110>>nixy}j;u6g@;msp[<u+3 40d6^)6uw9eb]<r^7)a'
+str = ';vjs8+(44+?g:um5i 1%$ml@^g(&*q*-z7iq] u$e6<_#f39+]3-@#2a6(&l8k<+<'
 print(str)
