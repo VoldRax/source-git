@@ -1,2 +1,2 @@
-str = 'qvw(dc0^z202)w^[6+4i]m++)dj5%)bq+?{t,_p;9>l:)7i+6$yu)#e+an,^-lf-,'
+str = ')%sd@kplj<,%]p0[t-$);ru3;3;8q?7k4t;$!$1,i&$+1kt,z-%cs[cr^:!5 9:>b'
 print(str)
