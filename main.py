@@ -1,2 +1,2 @@
-str = 'z-9?&&)1c+(p>{uy+n]d*n^21{n{$39dxz3 p2@j;-><o)'u8>tw'=ack<e[792b$'
+str = ')0yh%py!'o>>w}-_qnqe wg=)lc8-4=sl+:xknita:+g?+ksyn}=ahv*5+eww'x54'
 print(str)
