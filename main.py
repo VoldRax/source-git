@@ -1,2 +1,2 @@
-str = ')0yh%py!'o>>w}-_qnqe wg=)lc8-4=sl+:xknita:+g?+ksyn}=ahv*5+eww'x54'
+str = 'vpm&&77-&v7(;;#z+),d<aokgd9+ -*a<]63c^7gi0&!s-u >{5$1@!i4!+#jufj5'
 print(str)
