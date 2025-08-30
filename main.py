@@ -1,2 +1,2 @@
-str = ')?+r*vctp1e3ki#047-w(5?g_d5+)bum*^;#@8=-[sk#c(b )vr((j7wb!>8f?'k:'
+str = '?y+5#3b-4;:jjgzn}r::4(*9+)[rn:)-4$d)0$(-4njdi$g0(+]h?<cmwe:*+c=(h'
 print(str)
