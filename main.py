@@ -1,2 +1,2 @@
-str = '?y+5#3b-4;:jjgzn}r::4(*9+)[rn:)-4$d)0$(-4njdi$g0(+]h?<cmwe:*+c=(h'
+str = 'z-9?&&)1c+(p>{uy+n]d*n^21{n{$39dxz3 p2@j;-><o)'u8>tw'=ack<e[792b$'
 print(str)
