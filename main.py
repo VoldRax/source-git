@@ -1,2 +1,2 @@
-str = ')-,0)ig(fzp}:'o8gi[(+)0<t-_6{20dpm%d%z'gkbo1^q't[*z{oed6{e[3#a37x'
+str = ')?+r*vctp1e3ki#047-w(5?g_d5+)bum*^;#@8=-[sk#c(b )vr((j7wb!>8f?'k:'
 print(str)
