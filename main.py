@@ -1,2 +1,2 @@
-str = 'd20<f!^,k2>! ioy_?bd+#e1>n;at jv+?g(#4!ox,u&86a:(1qmvpf6-l-,w#(7d'
+str = '_]?v!!;[$ari?<?'tz73+n#3r>xa2#dy*f%v))2>fz(c[v]ol)#e{apy4n <++-^g'
 print(str)
