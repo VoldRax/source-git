@@ -1,2 +1,2 @@
-str = 'cr!94ro,fg&r)j9+$ied+ec3;qh1osf7s+s[c+o95ip(c?]31!a@1?>ek>w-_ft!q'
+str = '<b[m1+sezsgyi):5bm}zk{dg-<+6b-z[<gvu%d40!z7pat+puf(i=4i+m:k={zw97'
 print(str)
