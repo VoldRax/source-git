@@ -1,2 +1,2 @@
-str = '0+w^6echzn@$g=,8*@g?;(m4yi](_u90'(i>0jv 1=:++-'qtd6rae4 p)79jm)1%'
+str = '4cn+r<&e!--6w!0qmy4h=@!umt!#$#7b4c)m$vu)cl'4xzw${%akye*fb)h5^@n$y'
 print(str)
