@@ -1,2 +1,2 @@
-str = '+4v*5'o>h>s7+=_5@puv mw$vz[x<c*m uu-:y+#>,'lh_{zast:%,[}h%7}s- =v'
+str = '<?*+ga^c$ui,j<<*;s3;*,+uk51 {ti-g-bk{+3r@;j{)aw:y[wldz -4uodj!<^t'
 print(str)
