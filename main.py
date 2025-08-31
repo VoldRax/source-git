@@ -1,2 +1,2 @@
-str = '($w+q]>(vv'#}s)5+*?-qj]_m{cys3f)i$}d2*#yc-+vmb+2-![{<[u0yy=_=q647'
+str = 'd20<f!^,k2>! ioy_?bd+#e1>n;at jv+?g(#4!ox,u&86a:(1qmvpf6-l-,w#(7d'
 print(str)
