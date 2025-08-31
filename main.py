@@ -1,2 +1,2 @@
-str = '_]?v!!;[$ari?<?'tz73+n#3r>xa2#dy*f%v))2>fz(c[v]ol)#e{apy4n <++-^g'
+str = 'my;r&2$j$;n)5m=qq+dv'}onjl[z'jgsf9d+<4gd9jvk92t6++$}c!q7o3n,@$(q4'
 print(str)
