@@ -1,2 +1,2 @@
-str = 'zym52-8+ego][}lg29pg- 0^ys8*0-b+'gk_,(8w[+t,k):i8vnxcjv0{+l&+&j(%'
+str = '8&4v*+030)a)[v)]87'#4n75y]*)0};2a-6)&nk2o1g7k4!>%8p-p?y3^1qt'n6g4'
 print(str)
