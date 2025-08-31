@@ -1,2 +1,2 @@
-str = 'x=:g'dh-e)}@?59pno+rx_(htq0v?s,quh0 ,ut)j+}+krc1sz8v#*75i-g<-c&l;'
+str = 'm] 5p9j@_=^y[%y(*f)n?j1r,@$dwd<)dbdglu5=%)[f*(k!b6?gpt+];*rh_93*='
 print(str)
