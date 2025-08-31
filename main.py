@@ -1,2 +1,2 @@
-str = 'm] 5p9j@_=^y[%y(*f)n?j1r,@$dwd<)dbdglu5=%)[f*(k!b6?gpt+];*rh_93*='
+str = 'cr!94ro,fg&r)j9+$ied+ec3;qh1osf7s+s[c+o95ip(c?]31!a@1?>ek>w-_ft!q'
 print(str)
