@@ -1,2 +1,2 @@
-str = '+}&>;s[c!*7c]btg1v{8r8]!u(2&d#=^jo%wj:ka-dsv&<,u(%{x^x-+@!},7*y*@'
+str = 'x=:g'dh-e)}@?59pno+rx_(htq0v?s,quh0 ,ut)j+}+krc1sz8v#*75i-g<-c&l;'
 print(str)
