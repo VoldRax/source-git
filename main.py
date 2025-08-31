@@ -1,2 +1,2 @@
-str = 'zw*ux_bk0y+o9s*]w---mj?4_ly_k zr6x++@38d4)bj%{@k)?y0}-61g=]_k^0j@'
+str = '(:m94%-y[ud27pu:<dvlzw-b_e&y'e_y+g9_)e+7)b,>p#mz) @q,_?=,vd-u;$^;'
 print(str)
