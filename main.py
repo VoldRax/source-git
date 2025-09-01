@@ -1,2 +1,2 @@
-str = 'k!@r5ess9hz*$m-,27dv+ug>p&rggo-oz4[8^9wi95wz-5e,e+ddxdo6j&0w:6,d('
+str = '4n;n6?%x56w^5!'u]0)47wzn,_6#y#9^p),sa(08*qta$&j^v<$;,o?jbdqee1vi''
 print(str)
