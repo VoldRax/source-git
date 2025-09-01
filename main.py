@@ -1,2 +1,2 @@
-str = 'h;>^c'fdij++=+gr,&>]=],'>5@0kn1w_=]-owmk5,&s(13%z770cyh%7mg_ag;;j'
+str = '&n3^l>doem--@@ vei(a{?%0 5x;&+{-5n[)fz<co<7+{0zw5zazp!aje(3fx<}d-'
 print(str)
