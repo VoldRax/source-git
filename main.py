@@ -1,2 +1,2 @@
-str = '}ccg[b+4}91sxp-1)])_z0>})n)5 oupj!9m2+3{ck>m}pei[q8s{+e')4>%22( t'
+str = '(u3_)oc4 i)_5>uw2rz;7rn-cvmu_8*q0)k2t',0%v@s&{zcfrqz+*ec^kj6+f]4+'
 print(str)
