@@ -1,2 +1,2 @@
-str = 'pk+<:t^=}t<zx8up*o5)f7e< 1{m$bb;}:wv0]-%[ra{7rv-&#y%';o4je@ge1o6d'
+str = 'hz4-#];[u{4kx}0?@=)'0([-)_w--,]9h[[+is#n0e#bh@uy%;l1-?q[g>$nm[0w-'
 print(str)
