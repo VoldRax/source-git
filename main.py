@@ -1,2 +1,2 @@
-str = '(u3_)oc4 i)_5>uw2rz;7rn-cvmu_8*q0)k2t',0%v@s&{zcfrqz+*ec^kj6+f]4+'
+str = 'n]:wz)poj#$g2;a?#fmincwn-_v&0_!?k!c5sr5q>mzdqdyde<g@=,5+)2p]cv5)n'
 print(str)
