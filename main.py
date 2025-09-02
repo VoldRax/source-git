@@ -1,2 +1,2 @@
-str = 'hz4-#];[u{4kx}0?@=)'0([-)_w--,]9h[[+is#n0e#bh@uy%;l1-?q[g>$nm[0w-'
+str = 'ev#7lu<$m@)e)!}f<$]!6_9fabgu){4^1;g-(y4f]!p7g()lmwbj),c&p)g)8>$5i'
 print(str)
