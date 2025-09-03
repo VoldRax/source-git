@@ -1,2 +1,2 @@
-str = 'x>si([{jx0>4wo[_xnoj?-}ba&*><=]cw!g@-)07^)s:?=26qh6^ayhy-#v',{,%m'
+str = ' x#}rt4$+}<(bx[t1'@:9],0?s0-dy2b&7g)-xt%cr]=^prk#>i[3+f*5,93<)b?-'
 print(str)
