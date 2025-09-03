@@ -1,2 +1,2 @@
-str = ' x#}rt4$+}<(bx[t1'@:9],0?s0-dy2b&7g)-xt%cr]=^prk#>i[3+f*5,93<)b?-'
+str = '!wz)j9^np#4]s+<i2_p4a)o[3?g{'*c!0&w83s0#i@r<70s=3y&d>3lst>t+^=7nv'
 print(str)
