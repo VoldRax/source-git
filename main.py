@@ -1,2 +1,2 @@
-str = 'ev#7lu<$m@)e)!}f<$]!6_9fabgu){4^1;g-(y4f]!p7g()lmwbj),c&p)g)8>$5i'
+str = '>j-h59ql-0i;ny7{qyp@&<4[b<} =,;#3t[mf5lp&l7h:puop<h-gw?-+k?>'#)fj'
 print(str)
