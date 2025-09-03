@@ -1,2 +1,2 @@
-str = '!wz)j9^np#4]s+<i2_p4a)o[3?g{'*c!0&w83s0#i@r<70s=3y&d>3lst>t+^=7nv'
+str = ' uq?!yp[6ei[mpk3@-*'?)g#?v5h*:-u3'ufw]s3sqkw6@jk# '7] $5q+(hr8fv2'
 print(str)
