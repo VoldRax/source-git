@@ -1,2 +1,2 @@
-str = '4d;--r_(rlvsm5 c6$ko)h!u h?=<46i+k=:#@])tr0-;2$%!(}0+,x%-:%3+qb58'
+str = '+*9$+o74#)u^p [pu@%60n*q{0x;k%-3*&< $bk0#m70vqu}s=@)?}q?l30-])l{['
 print(str)
