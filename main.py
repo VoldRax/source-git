@@ -1,2 +1,2 @@
-str = '(!teyuun7z{v168o{{3+#,6u_n;nj?'ry_7k24xz[g,,vz3}y@s{+=,d!'&{;@46?'
+str = '4d;--r_(rlvsm5 c6$ko)h!u h?=<46i+k=:#@])tr0-;2$%!(}0+,x%-:%3+qb58'
 print(str)
