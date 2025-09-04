@@ -1,2 +1,2 @@
-str = '$s4;:r8hd8q@@cn%=#b]ui&()4$9x{8ia^6d-9g*[;{-2n46'^}8+h]y24w+]1![_'
+str = 'q:6oyo9y__, ;x21'*<)e0+4'7!f7m<ei^-+ns(mf:*n,@d[[u>{0m$]ydimb1)c '
 print(str)
