@@ -1,2 +1,2 @@
-str = '4u(c-q[ r[]<=lm('kt+{?#z4&9]d!#6m)za1{m43@zl)305]fz_-xs{&783'c-<)'
+str = 'o&}hbvvoz-mg0{>c0a)8cwz&j-}+?xk5c<$4$8cc_r$_+rje:j6n,bd@-h%eyt**)'
 print(str)
