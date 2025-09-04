@@ -1,2 +1,2 @@
-str = 'o&}hbvvoz-mg0{>c0a)8cwz&j-}+?xk5c<$4$8cc_r$_+rje:j6n,bd@-h%eyt**)'
+str = '7],[m-,?5b!)bbho'qv{ o'p7boy]j@_9{*cl*ls-+r&a=cvdrf(g:}rv^xd7t-ll'
 print(str)
