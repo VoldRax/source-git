@@ -1,2 +1,2 @@
-str = '@#wy%dxkk0mh)p?;#y-;e?2:'x';iio-1,<3]@9x1jyqnpd@r%+x5[k-?%1<2 [ia'
+str = '4u(c-q[ r[]<=lm('kt+{?#z4&9]d!#6m)za1{m43@zl)305]fz_-xs{&783'c-<)'
 print(str)
