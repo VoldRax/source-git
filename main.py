@@ -1,2 +1,2 @@
-str = '+)^3rn@3 b{4y58*-+6 t+nw=38ql!s)r#p1$;i+?5@1$$x&b'f'1?01)0dyt2hvl'
+str = '!;#*@<8(%f9x13%wj}u^j{}2j6^yw+&hq*xt; &5+ax}l3bk8;:t12[>+at*-b26c'
 print(str)
