@@ -1,2 +1,2 @@
-str = 'k^[);fbn}zrf0@sm^-c2y,+(m'u)ha{r)w+535aaqb;>$:8xd8!2j{yc&anxa>^t-'
+str = '+)^3rn@3 b{4y58*-+6 t+nw=38ql!s)r#p1$;i+?5@1$$x&b'f'1?01)0dyt2hvl'
 print(str)
