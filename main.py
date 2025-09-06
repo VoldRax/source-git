@@ -1,2 +1,2 @@
-str = 'jv'g<%?{n:3ubw@^w]0gcj6tg2}-g@vq)',]e5  ]p%0b k'gk+@}p4{}xu$}%;=*'
+str = 'fdeqj#ayg[ahd)q:[4ej&;_n)c}8fe5f5(o%5ul ^a}&tu=8^$nl$gevw>$jandp,'
 print(str)
