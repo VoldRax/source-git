@@ -1,2 +1,2 @@
-str = '!;#*@<8(%f9x13%wj}u^j{}2j6^yw+&hq*xt; &5+ax}l3bk8;:t12[>+at*-b26c'
+str = '!#)+*3%n1q'5?wig5x5>n(0!@:!-j xc5i)64nwap4b#!8ri^q$^l((},l)2(;rc,'
 print(str)
