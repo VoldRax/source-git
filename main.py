@@ -1,2 +1,2 @@
-str = 'ztu>5fy%{#x2#<h0d'9q@l(,]>w(gl39h4 -)oq+97d<m36* iro7sfu1hb>j)v{x'
+str = '4g8n?-;*a{4^z64_q)zpn[w;:* >5(m:=x-w+'5qp*w;v)afkx9-b-9ps+mo<;<<r'
 print(str)
