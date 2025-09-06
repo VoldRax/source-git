@@ -1,2 +1,2 @@
-str = '!#)+*3%n1q'5?wig5x5>n(0!@:!-j xc5i)64nwap4b#!8ri^q$^l((},l)2(;rc,'
+str = 'ci;1i%wo>6y1yj+-3(p%7c2v@f[9& s>x]8qd8%dk$_&:$@4kp+s)s617ryhljx6l'
 print(str)
