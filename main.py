@@ -1,2 +1,2 @@
-str = 's]5#=)4e[ 6$]v-o0n=c,_7}w)#='sel:%[se0csjj +s1!l-<8t3??rggzt?bowp'
+str = 'bdf)cx{@^':ohll $m-?x;2fq9j?v(ono)&+j]^9%':!?mv7ii=<^_>eloy)f+]>#'
 print(str)
