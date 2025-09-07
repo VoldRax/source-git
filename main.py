@@ -1,2 +1,2 @@
-str = '-zgb37@!_<m4_g)a$^uj{!@uki]w6z-ls#jnbopd]l--3]t+j3tmj1n30u1b+tvol'
+str = 'p{#p{q;2+l^p)^'>,3,w)c{8:0j#2t,7ox{@b*),b2)4->g2w+1[3@7> %0f+o[]*'
 print(str)
