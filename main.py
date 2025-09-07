@@ -1,2 +1,2 @@
-str = 'bdf)cx{@^':ohll $m-?x;2fq9j?v(ono)&+j]^9%':!?mv7ii=<^_>eloy)f+]>#'
+str = 'cep<9c%9ob=+g%dyij'l?42e,e;;=7xh+k8g*_]+y+-qp5*,0ue3nt@&_? _n@(?+'
 print(str)
