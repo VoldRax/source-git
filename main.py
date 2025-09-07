@@ -1,2 +1,2 @@
-str = 'p{#p{q;2+l^p)^'>,3,w)c{8:0j#2t,7ox{@b*),b2)4->g2w+1[3@7> %0f+o[]*'
+str = '0%f2j'-=-%)1p'>a'=;-l9z@5m-81d0-jh-$6%w$dys+c a^_4 ,+]87]mpf%<#u1'
 print(str)
