@@ -1,2 +1,2 @@
-str = 'fdeqj#ayg[ahd)q:[4ej&;_n)c}8fe5f5(o%5ul ^a}&tu=8^$nl$gevw>$jandp,'
+str = '>o[s+7_^6 ou}x!!js)<uuc>76wu4t*^czi7}zr+<ke,atfwx:+-@@v8e-b*&on6h'
 print(str)
