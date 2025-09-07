@@ -1,2 +1,2 @@
-str = '0%f2j'-=-%)1p'>a'=;-l9z@5m-81d0-jh-$6%w$dys+c a^_4 ,+]87]mpf%<#u1'
+str = 'a1m=dbd[cu&)v<r]kc2c',xg{@>ky-8'2tn@}+s3,fci$z+%>w;7r9>pi<>3;+($+'
 print(str)
