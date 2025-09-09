@@ -1,2 +1,2 @@
-str = 'cep<9c%9ob=+g%dyij'l?42e,e;;=7xh+k8g*_]+y+-qp5*,0ue3nt@&_? _n@(?+'
+str = '>sh+-:x5yz&y<<f!x?gcbn(glnpbj{0')c!b%-pxrr{e-5m'(- qu4nglt} 4*4&?'
 print(str)
