@@ -1,2 +1,2 @@
-str = '20v+ga?p?0qa9<5>bb2q@v17:+4,9c8> 2l}n3!xs1+>9#[$mdkx3^8)c2lzvu^o3'
+str = 't]g_p=p=78ybl-g9+#y)]:1*>$*j;[x^3d7j&&z0@[usi0r!*;&;z)^>usck9)e$k'
 print(str)
