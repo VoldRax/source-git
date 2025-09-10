@@ -1,2 +1,2 @@
-str = '-r8ik hr^],&5si?eil-)]_!7k(wfxu0}+h)i:;k&c<%55c8kz*(<oj3%!lty+ jq'
+str = 'hg  ty:rg+2o^6t* -5$)<[y8t-yhm0'+f5[6<4e)h(pivl 'p%7d)+p}&y9(2{k^'
 print(str)
