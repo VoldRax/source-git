@@ -1,2 +1,2 @@
-str = '&f0=m7i ]x3^:m5m*i0_e),av+>b l$l@q1{)csr&3'?b{]_<=!fnjob4844&w&9f'
+str = '#+9,v(ug>pa* l43z?q:y*{&+2old(d1-r4ke)6}gs6ali}(t)@3l,ez;x$ngo:5e'
 print(str)
