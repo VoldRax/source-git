@@ -1,2 +1,2 @@
-str = '#+9,v(ug>pa* l43z?q:y*{&+2old(d1-r4ke)6}gs6ali}(t)@3l,ez;x$ngo:5e'
+str = '%%3+%]_:{>@g g- wm!4qyhf55u#scx+5!=r};y4}pg:d<e[z=lmxo3a{*k9f)6_o'
 print(str)
