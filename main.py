@@ -1,2 +1,2 @@
-str = '?('&(8-cj3lu4p%, 67o5[c*vw=i5&50)?+-c f+#j]=#fo&@47@}e]:))_@hr%t!'
+str = '4qc%=d^_ -d$2{+,euml>g-i7u1))n3'60b[4p=)2*prlvxz&}}ktk}m?:<a3>-f@'
 print(str)
