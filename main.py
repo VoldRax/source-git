@@ -1,2 +1,2 @@
-str = 'hg  ty:rg+2o^6t* -5$)<[y8t-yhm0'+f5[6<4e)h(pivl 'p%7d)+p}&y9(2{k^'
+str = 'o$hn)=}dd,,+sskg3)&)e+0}(p{<q>6504;uxy[}2'*w-7_=+p,}!,lj%405yf0o-'
 print(str)
