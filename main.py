@@ -1,2 +1,2 @@
-str = '?81k22?c$272w]s< x3ief: c&++4 b^4?gi-<l3t,u&)7cxs+4%m+t[z,>z'cpmv'
+str = ')hlll8-%$,h+v& *dis),%-x;58e4+]9n;{!p 5>)!]z[ ,+,vr)}xdf]r(mw_an>'
 print(str)
