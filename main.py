@@ -1,2 +1,2 @@
-str = 'o$hn)=}dd,,+sskg3)&)e+0}(p{<q>6504;uxy[}2'*w-7_=+p,}!,lj%405yf0o-'
+str = 'f-9oum';7n&gr};-s!<6')x#^7a2px#4v7_is&m9-@1mi-mq?pr^k(6a4(z (j2!)'
 print(str)
