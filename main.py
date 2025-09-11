@@ -1,2 +1,2 @@
-str = '5v*s#)gbhiu3nb<u7[)x-h$-$*:,0;-]r{-} xnm0u{u--5)*#qp;&h@x$xw!22e0'
+str = ':4={v18o[j7t[![>;ovr{@0 >uooo&&#e1(hs!l-ib)%pf519++s0-3+2&;ry@:+q'
 print(str)
