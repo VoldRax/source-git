@@ -1,2 +1,2 @@
-str = ':kzs%_@^cvu@l%(7 0q9+m@xln_=r+an>r91+><*diaj&f[a9,se%y&oud-t=(voz'
+str = 'g]^ob[<53p-%-$jhf!p%o%s1!xxkjp$,-8'h_[=a8jrdhy-+h@us1xg>je_;[wr^1'
 print(str)
