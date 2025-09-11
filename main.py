@@ -1,2 +1,2 @@
-str = ':4={v18o[j7t[![>;ovr{@0 >uooo&&#e1(hs!l-ib)%pf519++s0-3+2&;ry@:+q'
+str = 'jl)v4%w!2<tzd!a)h)qkgsy(ohwa)j@-h]}f}g(<r8jsdbx1n 8c)o])w%#y?*]l9'
 print(str)
