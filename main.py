@@ -1,2 +1,2 @@
-str = '}[^%em-dad#c)=,4}+i1+)ox#-,;:@@;]<ml2>mkd=xmu}r_h=0 4oi(yym;,+[$?'
+str = '5v*s#)gbhiu3nb<u7[)x-h$-$*:,0;-]r{-} xnm0u{u--5)*#qp;&h@x$xw!22e0'
 print(str)
