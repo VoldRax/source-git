@@ -1,2 +1,2 @@
-str = 'g]^ob[<53p-%-$jhf!p%o%s1!xxkjp$,-8'h_[=a8jrdhy-+h@us1xg>je_;[wr^1'
+str = '&d9q%whtely)eg)*->&p;+q>^c[[gxzfxiq+i>&+ecqkk=?bxd8-;7l{=ho[lz&1-'
 print(str)
