@@ -1,2 +1,2 @@
-str = '(n{244[!&#aap$y4[1t8#y{(^k999v<'vr1m)5l<0;[<{i)&j6>]*&()6k>&->]n#'
+str = ':kzs%_@^cvu@l%(7 0q9+m@xln_=r+an>r91+><*diaj&f[a9,se%y&oud-t=(voz'
 print(str)
