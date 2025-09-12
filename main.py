@@ -1,2 +1,2 @@
-str = '<q^?+*)og7$>?^3s;8_(sm518*j@--u*p+8x&i7n&^{j,<,#[c(^t#e7;=x%f^o={'
+str = 'hs@o*@]@ir@09?-f%)oov%z#q2cc2[cgv'-+x57[]t1o*=q42h^lf9#-o(<qa^qp1'
 print(str)
