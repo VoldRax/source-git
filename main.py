@@ -1,2 +1,2 @@
-str = '+tw1?@e+0%w:ntr6?8w>^:ehfcl?k34l720[b=vs2:m#7ze+) !&(>h)7-?no^pgn'
+str = '-(r*4cr${u>'+z-$c6$$vnmx<uyb=k7n$8yy}vc$$) 2m*b[9 t9migua+jfg@@js'
 print(str)
