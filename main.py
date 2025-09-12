@@ -1,2 +1,2 @@
-str = '+76_l8w+s$b<=^]'j(f$ffqr*_;xf,g4@(*x;(ya){k]d5)*6v6gr7lin3':gk0+g'
+str = '+!}odk89?:{f+_3scw-)u>x<c%m:&-?]6o,vz)5&9o^vm2w1v:+d)*7wzg-%zn<h^'
 print(str)
