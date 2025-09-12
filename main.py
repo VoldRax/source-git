@@ -1,2 +1,2 @@
-str = '+<<r*@qbk;oe4i)g!c:n+oee*33th@!?,wp2o<s7}!5-e^,uf_^;$mn1}&[ep%lm}'
+str = ')j-figu[(tp<g*:&l--f&>!j<-l6!lu0y-]x?j5kz},-7p4wrae{4q!{-{;m58n?v'
 print(str)
