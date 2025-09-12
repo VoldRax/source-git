@@ -1,2 +1,2 @@
-str = 'z ],hhe&#)dxq[v>!*h :&s__x}e=ip cg6jx$-ld4??(vc&$%:dz'qd;!-+-@e)]'
+str = '+tw1?@e+0%w:ntr6?8w>^:ehfcl?k34l720[b=vs2:m#7ze+) !&(>h)7-?no^pgn'
 print(str)
