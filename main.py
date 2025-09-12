@@ -1,2 +1,2 @@
-str = ',as+1i(a8g#md}1')w-;ww(y! =!-ol$@-?;<2--o9*)ttz]')7 b2n{[0q:h$%m$'
+str = '^e?]4+inju(w17^k*3_a0>'e+{!g(o]<x0]}qen$0a;n%-2x45q[)g=w()<_p*]5]'
 print(str)
