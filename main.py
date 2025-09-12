@@ -1,2 +1,2 @@
-str = 'h:+v[1pg[4zbk3vs%{qnt:q?5-#'dz=+h19-go2^i_?-a qib %=y5b)im)m_z-h('
+str = '+<<r*@qbk;oe4i)g!c:n+oee*33th@!?,wp2o<s7}!5-e^,uf_^;$mn1}&[ep%lm}'
 print(str)
