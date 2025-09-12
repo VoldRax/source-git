@@ -1,2 +1,2 @@
-str = '''&}hu[x@r>})d-in?[klkjp#2fjbq57 =hc@7%6{rq'gm>%-39p&z%=0cpkmb[^+'
+str = '<q^?+*)og7$>?^3s;8_(sm518*j@--u*p+8x&i7n&^{j,<,#[c(^t#e7;=x%f^o={'
 print(str)
