@@ -1,2 +1,2 @@
-str = '2tcw_71&v(ovd#-<m+@p%u+l=}ri<72=3:h@#-?kw:y2*kiy>3z3x8%64ir?azw^:'
+str = '+76_l8w+s$b<=^]'j(f$ffqr*_;xf,g4@(*x;(ya){k]d5)*6v6gr7lin3':gk0+g'
 print(str)
