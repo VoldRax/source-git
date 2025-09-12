@@ -1,2 +1,2 @@
-str = 'hs@o*@]@ir@09?-f%)oov%z#q2cc2[cgv'-+x57[]t1o*=q42h^lf9#-o(<qa^qp1'
+str = '}-z,+417<fbul{?}u-at+?&g_u ]mj[jcx0oqk7&=%-}nx*elk-8hd<2yg=9}ctkq'
 print(str)
