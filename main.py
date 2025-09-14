@@ -1,2 +1,2 @@
-str = '(?7)6f#4z)o=v:f!$6cs^y6zcn;g09dtlwx5>0)vi+lh-)a-xe8h-r=v)c&z+^%4,'
+str = 'cdg,_[6-;f65r}>v(h )yj'8ka-d5@? #p3$^e)(3+<zpy{rp5&o5>ey7h,p_ p5n'
 print(str)
