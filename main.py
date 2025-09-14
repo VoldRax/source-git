@@ -1,2 +1,2 @@
-str = 'z{@&!8]q<[my7 #o+=vf>+c2zx-j$*i%[,,-4v)=)n8_ho)&&-{50%%pzb&$)is(&'
+str = ')$_[(m4]9#^kda)*+0vt+49(^&rp_<7p2]{&$rt]2(_?p2(=30^a!:*#e04_w97i7'
 print(str)
