@@ -1,2 +1,2 @@
-str = 'cdg,_[6-;f65r}>v(h )yj'8ka-d5@? #p3$^e)(3+<zpy{rp5&o5>ey7h,p_ p5n'
+str = '2dq-o*%qy1k*)>fy@ls%}l1:ey[)cxs-}b:1x+{t+#)l6cpn-lq+}v%ywn{i=@ {^'
 print(str)
