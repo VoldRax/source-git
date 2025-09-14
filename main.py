@@ -1,2 +1,2 @@
-str = ']%oj_ww}1*ze@->km}9$n@muix]flf@ 9&v@2<{'6*8+0+4n*gg4: p&p3)icn]:-'
+str = '0^t6)j@7)q$-m-p1->2- s=?d@p1 ${f,_t$;+0j+nydwys#+tyc*_xe0xurh_-4k'
 print(str)
