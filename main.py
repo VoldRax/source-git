@@ -1,2 +1,2 @@
-str = '= 4bf@$gh-s([,#+<(+=$'m<z+_9y'+0!2qj?u)%s:c=^!l#gw+td#e@t#n&4=1&)'
+str = '1!j+!5fz$7bu)v-oz*4?h&<y>-_y<?9stq^gpa':qmlm_)fjl+{)1w-09nxgg>4{a'
 print(str)
