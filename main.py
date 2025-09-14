@@ -1,2 +1,2 @@
-str = '}n)-xn{i+tq;(;';%&-c%46)_v!!6=<x4bp)=9ml5r9<]^n>*',it1-h(a],kk!rd'
+str = 'uke@2c&4kbo#_'n:j+mv'm)=iylv(>{)gd_z4w%x41t?l8]qy{-=&98-1(},]+g3('
 print(str)
