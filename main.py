@@ -1,2 +1,2 @@
-str = 'xuy]l$1q&fd@d$r4+ +=k([(ond4)7ua0!m+(k](kk]8$_ym)'wu74(]b!b-,lgf$'
+str = 'we-#1@lu>b]_m@zf9]{i54jau>wbtc&-<7-ox)s0-@4:+s<))77wz);k{+-,((rt9'
 print(str)
