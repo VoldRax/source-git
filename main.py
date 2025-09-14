@@ -1,2 +1,2 @@
-str = '1!j+!5fz$7bu)v-oz*4?h&<y>-_y<?9stq^gpa':qmlm_)fjl+{)1w-09nxgg>4{a'
+str = '}n)-xn{i+tq;(;';%&-c%46)_v!!6=<x4bp)=9ml5r9<]^n>*',it1-h(a],kk!rd'
 print(str)
