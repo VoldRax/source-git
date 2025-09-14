@@ -1,2 +1,2 @@
-str = '0^t6)j@7)q$-m-p1->2- s=?d@p1 ${f,_t$;+0j+nydwys#+tyc*_xe0xurh_-4k'
+str = 'xuy]l$1q&fd@d$r4+ +=k([(ond4)7ua0!m+(k](kk]8$_ym)'wu74(]b!b-,lgf$'
 print(str)
