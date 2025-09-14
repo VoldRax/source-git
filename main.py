@@ -1,2 +1,2 @@
-str = 'uke@2c&4kbo#_'n:j+mv'm)=iylv(>{)gd_z4w%x41t?l8]qy{-=&98-1(},]+g3('
+str = '(?7)6f#4z)o=v:f!$6cs^y6zcn;g09dtlwx5>0)vi+lh-)a-xe8h-r=v)c&z+^%4,'
 print(str)
