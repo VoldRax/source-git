@@ -1,2 +1,2 @@
-str = ')$_[(m4]9#^kda)*+0vt+49(^&rp_<7p2]{&$rt]2(_?p2(=30^a!:*#e04_w97i7'
+str = '= 4bf@$gh-s([,#+<(+=$'m<z+_9y'+0!2qj?u)%s:c=^!l#gw+td#e@t#n&4=1&)'
 print(str)
