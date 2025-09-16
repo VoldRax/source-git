@@ -1,2 +1,2 @@
-str = '+zi'wr#;;i @?s2cn[krnz[5,}54_1[  -<yv#5tp*c-w7!w{1;=eq$en'qzp^kwi'
+str = '_())k2]r<8+d-^do}]e%:)t+b;,9^0pjcfrim!>k,+du5+q)-9s+%2ao!t+&8y^5f'
 print(str)
