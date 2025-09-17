@@ -1,2 +1,2 @@
-str = '+:t2(xg$!1]=b3,ca,+(sw[o'qul00fadr$j)1vl%9,c9,%<m=a2mjdh=,g;d_e2['
+str = 'c8*uwfd@6g-*-5d)s?+&?y+,y163$7n?*b^gh5_!hhzsikh75sc]c,-)tti*8w&zy'
 print(str)
