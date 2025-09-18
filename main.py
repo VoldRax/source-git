@@ -1,2 +1,2 @@
-str = '+=8]3+*}q,p<%tw[#$ k'x+^m1p3l__+6lwdk+%9uxm0d>1+povz=r 13:yubonu7'
+str = '(!e-@*uf,55'p&#(8y%e<lf]z9'fz[)sk;=)#u?t(8[7a,pbbk--]78d2%4!d+)_8'
 print(str)
