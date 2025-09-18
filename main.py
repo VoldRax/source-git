@@ -1,2 +1,2 @@
-str = '7ux#j%x-l!iy4c[s1^p_&3iylhe)!@y0q)2cd![zn@!:=fskxl+xr*e70g+1a[zbf'
+str = '>zwr>&z&kj7 l2]) aq$-{og=,',q2!c2+s'}>x=ubw<zg!hr;od^0-=;$b>u9j^w'
 print(str)
