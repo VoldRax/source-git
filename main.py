@@ -1,2 +1,2 @@
-str = '>^@+[x5(,*bd7>l  yg2')='p2#y+<p8evmzon#39v7 m(-,x;:6&8d')+n2;b=k{'
+str = '06mdf(7yy%bcj+v)q;nr)*<g,%qw?]@doph!<_rd,xpp}2p(z0-26ro(qt-vmnaj6'
 print(str)
