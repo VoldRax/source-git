@@ -1,2 +1,2 @@
-str = 'dty0m}t_ba_'87}27,-_50,u]z:v4j:3fz9%!,75}g<-_[ae+6b%qs11 9vo*ecp7'
+str = '1=($:'xynyzpx'6=mve-^nw57?*v}t}w_$qsep6 v? <-z7;$4<,?@t[h$3bf8+&3'
 print(str)
