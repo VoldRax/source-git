@@ -1,2 +1,2 @@
-str = '1=($:'xynyzpx'6=mve-^nw57?*v}t}w_$qsep6 v? <-z7;$4<,?@t[h$3bf8+&3'
+str = '=b7r7i] ^dc[e1y@gj9(n4{+;q&- t*993>)4:=x:h_3r)_5n]vp_[78$p$4]s b+'
 print(str)
