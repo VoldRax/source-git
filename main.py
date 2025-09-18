@@ -1,2 +1,2 @@
-str = '2@q9nas=y=_*+ax9t1!j7bn{]>={!hx@')lllq{@g,*jl]{'saub:3_u]_<;+#w>a'
+str = 'd2x[t^goed)6u]v:-')-,z]pha-!g?c#d}g)8!-;=@50+lz2rc7mi)*v#-r{-l&u*'
 print(str)
