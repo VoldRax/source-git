@@ -1,2 +1,2 @@
-str = ',wlvjtn>+7[xiqux2^o+y$h }lsgf}[#23ye2svyiq,ytink& xh*$ ),j<_g$;e)'
+str = ',w{v3<y]phszpb5rni@!)h$$}(]&f3w^ z?p-wddvsd>o+?- l,-x):3h,,:5?3p6'
 print(str)
