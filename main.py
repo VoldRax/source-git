@@ -1,2 +1,2 @@
-str = '#r62>i?a_+wc3e3k{hcci=r%)4d<q+)9,eo;y8*w+a-),s^:ae[42-^3h) pxk}w#'
+str = '7ux#j%x-l!iy4c[s1^p_&3iylhe)!@y0q)2cd![zn@!:=fskxl+xr*e70g+1a[zbf'
 print(str)
