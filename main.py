@@ -1,2 +1,2 @@
-str = 'r;)nyn*mg[;5(8z-]e?w6#0(,w#7ap,fhi8$*% 4'c4}n)c&#vz$zwa2yv-knp@i+'
+str = 'vd?) [u#-#@]_-&-];v8yqh,&&e1>{?m7 [#m<x^d-v)-*a09&>^:ab+q>_<#e%e%'
 print(str)
