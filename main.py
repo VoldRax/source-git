@@ -1,2 +1,2 @@
-str = '06mdf(7yy%bcj+v)q;nr)*<g,%qw?]@doph!<_rd,xpp}2p(z0-26ro(qt-vmnaj6'
+str = '#r62>i?a_+wc3e3k{hcci=r%)4d<q+)9,eo;y8*w+a-),s^:ae[42-^3h) pxk}w#'
 print(str)
