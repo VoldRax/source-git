@@ -1,2 +1,2 @@
-str = '>@*($32r}l;'v5;w++akq{?%4wo w1v+olpv1xz_!}92ieyc>dww[1i8=)3v9{ci7'
+str = '2@q9nas=y=_*+ax9t1!j7bn{]>={!hx@')lllq{@g,*jl]{'saub:3_u]_<;+#w>a'
 print(str)
