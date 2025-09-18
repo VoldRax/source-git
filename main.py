@@ -1,2 +1,2 @@
-str = '$956+]5!{s7r'o2)j47!_b%$_g<01dg-f&dw>$0>v<4x8bs[*()vsr:3+yy=-yc3+'
+str = ',wlvjtn>+7[xiqux2^o+y$h }lsgf}[#23ye2svyiq,ytink& xh*$ ),j<_g$;e)'
 print(str)
