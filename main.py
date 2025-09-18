@@ -1,2 +1,2 @@
-str = 'd2x[t^goed)6u]v:-')-,z]pha-!g?c#d}g)8!-;=@50+lz2rc7mi)*v#-r{-l&u*'
+str = 'dty0m}t_ba_'87}27,-_50,u]z:v4j:3fz9%!,75}g<-_[ae+6b%qs11 9vo*ecp7'
 print(str)
