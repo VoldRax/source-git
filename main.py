@@ -1,2 +1,2 @@
-str = '=b7r7i] ^dc[e1y@gj9(n4{+;q&- t*993>)4:=x:h_3r)_5n]vp_[78$p$4]s b+'
+str = 'q#):8,k8+7ulcszd0)z+[r++=f94<d3{!h(1&jas+{;dc +0d;[79g1=z[yv-}^@]'
 print(str)
