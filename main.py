@@ -1,2 +1,2 @@
-str = ''z%?3]o)0$j)!7')j58ctt)p)],#dss]>99-sw@8o'1bx7yhl^5$l)'@h)<7l(')b'
+str = 'md_t7azx?yk=[(m!>],gbw)179(>n_(?uwu2->zyqv8a&de0+<no}ay!:+ms9=ev:'
 print(str)
