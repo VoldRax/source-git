@@ -1,2 +1,2 @@
-str = 'md_t7azx?yk=[(m!>],gbw)179(>n_(?uwu2->zyqv8a&de0+<no}ay!:+ms9=ev:'
+str = ')@b7wq-w*:*nl(dlieyms2q%[1;ozch&qx}!9 lpkd94%0ryu#k%a$7*0054?m,)f'
 print(str)
