@@ -1,2 +1,2 @@
-str = 'q#):8,k8+7ulcszd0)z+[r++=f94<d3{!h(1&jas+{;dc +0d;[79g1=z[yv-}^@]'
+str = '{,0+g7tims,@j (&f)p9mz$p[9ut(h] +y$h5e_y 4fra@1x]e+)'wb]0[8bx5f)4'
 print(str)
