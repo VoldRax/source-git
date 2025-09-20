@@ -1,2 +1,2 @@
-str = 'v'&3c,3bc%e++*q]h{kg9a>)y>nzp2+'m0ai:$-x_y2e)k[z769=ammv*m<$ind8<'
+str = 'nr$vg{#,%'p[]<%+)*,@kj}<7 ov}$!}6=aokx@'_z+,7-^)&s%k!&m&),([a[ny('
 print(str)
