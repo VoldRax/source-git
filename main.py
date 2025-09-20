@@ -1,2 +1,2 @@
-str = 'y+s<mn+(0q[z<y0zk5};(o2;]u]r+4}t0#>%{ov-zd3-;-df[d$+lkg+' n9r[p'i'
+str = '3k*=&;,#bn02xk!+!@l4!l):;d<9_5?(;d(5[(bb)4)h03]i_9=,?x1?t8p5m]3 *'
 print(str)
