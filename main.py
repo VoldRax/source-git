@@ -1,2 +1,2 @@
-str = '[,##m?de b34i,2;-ak10-v0p$)s@1,}}y_akh<vn!zf>?-#3i[)=<64w]7mkvppv'
+str = 'ha(k%0wg(n,j01!0h}0-s=;r)3pav$mi-:7((4 v^$q=5mug-m)k'4a@q'-'#>:{j'
 print(str)
