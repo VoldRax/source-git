@@ -1,2 +1,2 @@
-str = ''0 sac-4dip(h=$0]j$700b]y-(kocehd[5+bbfj$,:1!-*;zte?^-_n?{y!yg?&4'
+str = '1)0*1*,}&3h;@s5}qo%7!2vkz>4-$i:1r8^^=-4,^)n-;#!:o#_+-)tghzi!od&-&'
 print(str)
