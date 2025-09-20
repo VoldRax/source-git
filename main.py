@@ -1,2 +1,2 @@
-str = 'ha(k%0wg(n,j01!0h}0-s=;r)3pav$mi-:7((4 v^$q=5mug-m)k'4a@q'-'#>:{j'
+str = 'hwh}5^+%-'n7'ru'<&=>z-+[1m'll1d))s[yqj^f'bl7^p5k^[+23p)&58y37>&qd'
 print(str)
