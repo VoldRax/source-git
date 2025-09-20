@@ -1,2 +1,2 @@
-str = '1)0*1*,}&3h;@s5}qo%7!2vkz>4-$i:1r8^^=-4,^)n-;#!:o#_+-)tghzi!od&-&'
+str = '0+n}n9j2k[0[m-8yjs (?cq}(uph!-)$-%fh<plhws3)y4vccy?w)nl&gcpp?-z)*'
 print(str)
