@@ -1,2 +1,2 @@
-str = '%#cu76 8$8b+dfp'i66{}!ec!ir[-el3(r&e<;[m}ot7c#f@'':,yl1'2a}-d{pe '
+str = ''0 sac-4dip(h=$0]j$700b]y-(kocehd[5+bbfj$,:1!-*;zte?^-_n?{y!yg?&4'
 print(str)
