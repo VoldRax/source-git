@@ -1,2 +1,2 @@
-str = 'cjsv-#df<)-%4}-1@$qj&f+9${0>udastp( ]!)sa>t$f$$,>fuq][y]&8*3r+ g}'
+str = 'hzi+fao25+8#}cndt)5zplzknv#?6+f?j(r%i2h#y0+?x88gp)220b,l&<lr)t9#''
 print(str)
