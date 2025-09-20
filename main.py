@@ -1,2 +1,2 @@
-str = ')@b7wq-w*:*nl(dlieyms2q%[1;ozch&qx}!9 lpkd94%0ryu#k%a$7*0054?m,)f'
+str = '8q7v^[8=*}c,*++;#)?ys'!=62:9jy]$cj)]^;b[dqr=$+ks{w(7!4<y080p7s>0]'
 print(str)
