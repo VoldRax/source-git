@@ -1,2 +1,2 @@
-str = 'k?mdw++7j1lf^[*+ @-4b^--w-[je>:co%9b]%a]7^i58rh+n+[2uluelna+)5*j6'
+str = 'lq[b! {dj+v*l(%b6;[d}30 )}s,e]cwe$f#qduw3e-62rls'?%>$dcg:5{up]>rt'
 print(str)
