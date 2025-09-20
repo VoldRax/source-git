@@ -1,2 +1,2 @@
-str = '3k*=&;,#bn02xk!+!@l4!l):;d<9_5?(;d(5[(bb)4)h03]i_9=,?x1?t8p5m]3 *'
+str = '-+]w<$@-egofqq9bu6$u}4orz--o53 fy337+ &,:$]3[m2<3^&;61=hav{'!-%ul'
 print(str)
