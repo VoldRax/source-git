@@ -1,2 +1,2 @@
-str = '0+n}n9j2k[0[m-8yjs (?cq}(uph!-)$-%fh<plhws3)y4vccy?w)nl&gcpp?-z)*'
+str = 'cjsv-#df<)-%4}-1@$qj&f+9${0>udastp( ]!)sa>t$f$$,>fuq][y]&8*3r+ g}'
 print(str)
