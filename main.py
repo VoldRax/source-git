@@ -1,2 +1,2 @@
-str = '9a+-?k8p$?tf]>y46$=;++@'y%^9}[ys)#lh%bbn*1sn#van -i#py(= m@l^^'3s'
+str = 'z>3xy=_{_yu[*^+z$#5s3'>h8crgn:c[w0m}@k#@#q,+^ri^%y7]?v'8#^tlu_9 ='
 print(str)
