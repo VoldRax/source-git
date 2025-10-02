@@ -1,2 +1,2 @@
-str = '3]z0)}h,8-2b1?h0r{i1v83$v?9!1*h9(=fmk%gc?-f7[la@57p!&,?f{,zy#498='
+str = '9a+-?k8p$?tf]>y46$=;++@'y%^9}[ys)#lh%bbn*1sn#van -i#py(= m@l^^'3s'
 print(str)
