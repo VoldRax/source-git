@@ -1,2 +1,2 @@
-str = '=-%3{}=+5$o@q5k%6uybk%e1,^:y7(_jr]_5d62#)7>{8zb)e]@ja=%]d ><&f=+)'
+str = ''9czl3d7p<0-_!%;3+ewq7%5+7i 3zzm#r?;yt:81_cww3;4i:x%q;&@7:;s@c[_9'
 print(str)
