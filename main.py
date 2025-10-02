@@ -1,2 +1,2 @@
-str = 'z>3xy=_{_yu[*^+z$#5s3'>h8crgn:c[w0m}@k#@#q,+^ri^%y7]?v'8#^tlu_9 ='
+str = ''5<r2bt)-gq{fh*1sbw[j3is&d{%)kvk50ni,^#5+3:dt+ei#d0%}8=)z0 b*rf#3'
 print(str)
