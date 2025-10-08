@@ -1,2 +1,2 @@
-str = '+#7sc5>^pvw'5v$<fnk+8rs!<{$b4:8j&!am_6:l:-e+:$ar#c(p[+ua_7yon(9p-'
+str = ':5vup?-#nxkcd (9}50,#*!_#4}0)>]=4x=hv3o}gk+y!,8cf]1j4_g+)acc7 (]j'
 print(str)
