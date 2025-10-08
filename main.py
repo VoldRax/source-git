@@ -1,2 +1,2 @@
-str = 'h3umw&!{0i]qgg}0i7-9[v)7?nvp!(s}x0uo*j%1q7?86-)(5g&59(19a+{f :su}'
+str = '?)xze9)ip!:^k(38,3]>jf5_tv!@+qa9;g,1m;5&5c[8vqs)7% [[4m!5'+)^kux}'
 print(str)
