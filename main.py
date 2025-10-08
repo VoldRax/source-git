@@ -1,2 +1,2 @@
-str = '}-!6-^:q)_?'[[t#5p)dh08&v'&jny+s)}z(ja8#w'8n7!{(r=[:5ae)4q2_h#)[ '
+str = '4)i>ag(*@paxcz3hq{3[0c0br>[rbu(-2o2$[@q[0o&ry?m-y')5)=*o^5!eo[$;1'
 print(str)
