@@ -1,2 +1,2 @@
-str = '{4v&6-y%1_0po)h5&g7f{$g;?lf8:2fc?x&$m!pj2+4o<%=xb]=6[,-n $'k=jrw;'
+str = 'h%%n{#>cvay&+:)m+])?$:p<hbk}p++u)+p#&0}n)?)<)&@[?>xyajp' i@{a{9jw'
 print(str)
