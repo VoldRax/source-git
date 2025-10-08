@@ -1,2 +1,2 @@
-str = '4)i>ag(*@paxcz3hq{3[0c0br>[rbu(-2o2$[@q[0o&ry?m-y')5)=*o^5!eo[$;1'
+str = 'h3umw&!{0i]qgg}0i7-9[v)7?nvp!(s}x0uo*j%1q7?86-)(5g&59(19a+{f :su}'
 print(str)
