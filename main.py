@@ -1,2 +1,2 @@
-str = ':5vup?-#nxkcd (9}50,#*!_#4}0)>]=4x=hv3o}gk+y!,8cf]1j4_g+)acc7 (]j'
+str = '}-!6-^:q)_?'[[t#5p)dh08&v'&jny+s)}z(ja8#w'8n7!{(r=[:5ae)4q2_h#)[ '
 print(str)
