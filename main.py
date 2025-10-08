@@ -1,2 +1,2 @@
-str = ':94_lx$smf*7$r&lc0%yno>5jwn))sao!b,m[8%@y,)g<^xk?,1,!1x-8t:!m-@] '
+str = '{4v&6-y%1_0po)h5&g7f{$g;?lf8:2fc?x&$m!pj2+4o<%=xb]=6[,-n $'k=jrw;'
 print(str)
