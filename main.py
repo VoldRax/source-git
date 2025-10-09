@@ -1,2 +1,2 @@
-str = 'd[ ^w$d<8}84&3ce7eh)84^po0,$_-hsgp8q%)&pi3w[5 #u s{0b?'ned6db[ie-'
+str = 'fln05^#7nt1prpn8(-%&wc@vqjk)+vh_1wbe8 {ut@^0pbv+i^'+)[r(]_];*rw&['
 print(str)
