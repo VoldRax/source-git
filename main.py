@@ -1,2 +1,2 @@
-str = '$zb>> r]+ab@_2!z%(x+$8saw+usw1}xjj,d!+5pa@o9x;op+}imf15f)0g-*!dk-'
+str = ' 18<#>lb)_7v)'7ceso e>-4?g1}8i;72m#[={2cyse:zhif-+61'3{n&yr);b'@&'
 print(str)
