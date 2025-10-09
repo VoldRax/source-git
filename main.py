@@ -1,2 +1,2 @@
-str = '5^fbc-ma0i76x0vl%q(41+*w&?m@w;joo*uy+n*}1{[b&o'gvk: 2+m,%k-m%!6&4'
+str = '@7d^-cm4v-f^-)8h<9)<0sxe>[2g>{>=*)th)6w8*1c6?-j,nmmx?)4fk}'+y>_($'
 print(str)
