@@ -1,2 +1,2 @@
-str = 'y!{(81'qub-qr*q0@}3:4mj_$h;3;e-f[sgm]u+ls0zy]u_u7m=yk7r7k7e82{qr_'
+str = '$zb>> r]+ab@_2!z%(x+$8saw+usw1}xjj,d!+5pa@o9x;op+}imf15f)0g-*!dk-'
 print(str)
