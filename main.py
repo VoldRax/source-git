@@ -1,2 +1,2 @@
-str = ' 18<#>lb)_7v)'7ceso e>-4?g1}8i;72m#[={2cyse:zhif-+61'3{n&yr);b'@&'
+str = 'x;dii;w:-v{ 5e=1c:+gw+bc_c1}[@'s>)#t1<[)e?-g )xju(@!*q+na(:[e1anp'
 print(str)
