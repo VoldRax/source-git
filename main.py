@@ -1,2 +1,2 @@
-str = '#tje1k?%x'%-$nr%e6j:98y[(l'!)y_+{!6]u_$-:=v#8=++-:?9-u2-kru[gy8pp'
+str = ':+kf*1?'45+;4y?es2$_66l{*-5+),zcix59=;):>'m;{q>qlelpp9&@2+!7[+!5%'
 print(str)
