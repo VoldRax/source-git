@@ -1,2 +1,2 @@
-str = '{)=h[t(4>=b@7_[n6[als%(e'x(>o478,q-<bb>tlo$)mcc#4}+vu{ov-+-28')3>'
+str = '0:u^+ct9-je-jd]@>q<1-k(b(5fhc*crwg7%y9?tg)-l*%b#-f&k5l):g_38+b)ci'
 print(str)
