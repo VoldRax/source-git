@@ -1,2 +1,2 @@
-str = '9%l%fik8^em+q87l&?]jt<u}0u]<^axy,+z;whl88 c+xkauyv9wynyg,'_1<-+xm'
+str = '{)=h[t(4>=b@7_[n6[als%(e'x(>o478,q-<bb>tlo$)mcc#4}+vu{ov-+-28')3>'
 print(str)
