@@ -1,2 +1,2 @@
-str = '3m)%'i2_fj!<}a$^i&:m)so36-;v7+4 !?l8i#-j#2s-2sev@=}zapoiv&l1f&t=_'
+str = 't)$nu+{>_tcvlny:'jskzyyh)279j:9$xiv=eb,@9u[3n]=:^%,=u*](p*?<256'_'
 print(str)
