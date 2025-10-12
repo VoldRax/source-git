@@ -1,2 +1,2 @@
-str = 'x1k8-md'+b:a-j#pl$)?&}t-l?(tld,%t8 k8!5(8y%>d #cwo-lg%--w-e'kb(e6'
+str = '3m)%'i2_fj!<}a$^i&:m)so36-;v7+4 !?l8i#-j#2s-2sev@=}zapoiv&l1f&t=_'
 print(str)
