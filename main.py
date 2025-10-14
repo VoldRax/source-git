@@ -1,2 +1,2 @@
-str = 'r7[4%=l7ee6@_95%!!c^}l_qen6*3'izk-+)<_?'v}),jcw)bs7v83n=?ps9,c{7z'
+str = '&g28 &)edht+i$!ta}0>-g!h4t}{e-#ghzbhdo6#?7q1@5ig4[khh'3dtdl)ok*m('
 print(str)
