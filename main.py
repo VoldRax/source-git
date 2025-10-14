@@ -1,2 +1,2 @@
-str = '_c,)'-#qrrt[s=dyjp]wk=%y5<f#l%&tu}_59z4,92--pbz$e(=ps9iz!zu9(kc4&'
+str = 'r7[4%=l7ee6@_95%!!c^}l_qen6*3'izk-+)<_?'v}),jcw)bs7v83n=?ps9,c{7z'
 print(str)
