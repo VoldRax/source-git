@@ -1,2 +1,2 @@
-str = '<(!0@;j>$<b3w!)p-^(4a+1dap*y t&o 9(09&o(-: {nl7 'sr7>7736tb{)&92-'
+str = '_c,)'-#qrrt[s=dyjp]wk=%y5<f#l%&tu}_59z4,92--pbz$e(=ps9iz!zu9(kc4&'
 print(str)
