@@ -1,2 +1,2 @@
-str = '&g28 &)edht+i$!ta}0>-g!h4t}{e-#ghzbhdo6#?7q1@5ig4[khh'3dtdl)ok*m('
+str = '5regr491j64&*):-;=?7v_{vkmh5!)t ]'9u?={_k)42@ac0}!$)u{nsalqll:g%_'
 print(str)
