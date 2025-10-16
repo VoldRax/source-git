@@ -1,2 +1,2 @@
-str = '?q+ -[g4-2wfw*o>n^7yvs,l$-oa[x)?(3i8'}<8)4#<0ux:j0zhkt-})mqs(s+m]'
+str = 'onnar;)+$^q;(1!w)x-$@n4zwr3f1!?h&)%-7t=7&+>bz49fn6]]h349(z}!-4n?2'
 print(str)
