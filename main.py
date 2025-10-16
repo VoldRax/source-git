@@ -1,2 +1,2 @@
-str = '=%fkzkf5-)]ta#f8 &03v)2n25u92:t?=chr]d+^i)3'6,q{^g_v0:nh*a:6x-<:+'
+str = '<%va{qituk8[)pz%%s@)$%oi@#0;x5n4{0?;qfakbp]p7&p?cqd4)ct)-$),;{-m6'
 print(str)
