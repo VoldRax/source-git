@@ -1,2 +1,2 @@
-str = 'ko^r7+s%!ch!-[0i)p5n{z[9?%a)vb^ka{n]ex-c-32[j$i 4^>&r+r;*-e_c_;!='
+str = '258 yb[kqj%ty4p^(ba6-*8!{5yfpaa7g6:n737@gqf*l;i5x{ww#fb2{[%]f,)u%'
 print(str)
