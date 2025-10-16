@@ -1,2 +1,2 @@
-str = 'e<5$@'zquds[p%^^'+5b8c9(@,d)!)_e4mi5'^k>#;hly&%2w<=743e+!g@z,p=]o'
+str = '^zb1l73ky<c3x3pux$btap:z$02t!'7#o 0kyw>}n+y$}^)8f4>h e0@+{{jiejoq'
 print(str)
