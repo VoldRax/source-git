@@ -1,2 +1,2 @@
-str = 'onnar;)+$^q;(1!w)x-$@n4zwr3f1!?h&)%-7t=7&+>bz49fn6]]h349(z}!-4n?2'
+str = ' )l,e;{!@9l(p ]o7:0nljb]%^'n(+gh}:*%'z[&td74zfel}kz>01ywho;,)%%l<'
 print(str)
