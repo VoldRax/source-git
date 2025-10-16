@@ -1,2 +1,2 @@
-str = '$[btpd%9p0(q5u;{90=n u6z!r0mx{@v$088{q$l@u)#3+_)wm:v,#rk>}w;8u@-o'
+str = 'ko^r7+s%!ch!-[0i)p5n{z[9?%a)vb^ka{n]ex-c-32[j$i 4^>&r+r;*-e_c_;!='
 print(str)
