@@ -1,2 +1,2 @@
-str = 'k=kh-4:-+e>b^3+^wm@,<-yp&,g+5+6[_:*gu0 +_p8-fqs+t3j-49]7',)en>g=n'
+str = '<*+*c9:?=og@-0:-^q())n4:42ltdy?);9:x6_,!,1ioe,*a[_)31p?#>*@9g!; f'
 print(str)
