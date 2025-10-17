@@ -1,2 +1,2 @@
-str = ')u=:k:(_:0(hieelq&&3%jh6a--&w;,()@*kfrjfg($l!6y6gk-o{)m+1n<?8x-b;'
+str = '1z%95)m;)g)^9;e{f4*^)a<x4 *kg-2w-@&800y;-}w)f%a](kbb=j+kf-v)w2*<g'
 print(str)
