@@ -1,2 +1,2 @@
-str = 'm7m5-687vm!i}ob 7{s{7$k$m&vha*ji>v {)0e;+5 1}oe$+dqu<2},;jf9x#k,k'
+str = ')u=:k:(_:0(hieelq&&3%jh6a--&w;,()@*kfrjfg($l!6y6gk-o{)m+1n<?8x-b;'
 print(str)
