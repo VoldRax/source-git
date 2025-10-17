@@ -1,2 +1,2 @@
-str = '& +)+))uq(&+j<e}?7kj<+3->4sy$c{34-=>kj*;mepfe>+<q<'s]()*b9>r_9*ls'
+str = '&:15jc( -&j6dy&6*)1z'}2#jxn]l4{o51(lt<s<{yx24ns8j#ku%!7>0ep&@t1pm'
 print(str)
