@@ -1,2 +1,2 @@
-str = 'c+)c{)n;{n6>i?254tj)v<=tkh=:g]vn k-u+-c n^we>l6qyj 7t3q_g;1(c'}92'
+str = 'd8*-e2f''7+j?24<+odil@bm{{6:v;l)s[fp! )?v+&r:@o?@]p_j4t=:dt#$[&5d'
 print(str)
