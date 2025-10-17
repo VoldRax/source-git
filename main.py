@@ -1,2 +1,2 @@
-str = '(u76*56$_a-hy_y'!8wcvw^=m!l<jxy29qneof)t5'85tf:xh#[gh$273a=8^+s=8'
+str = 'f+k,r!]mks]j@:=_>_7<u3d):f{+]<}:<l2,ur'5 g948&))$tgm+z=(?)$fu)wm3'
 print(str)
