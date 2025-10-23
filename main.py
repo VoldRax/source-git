@@ -1,2 +1,2 @@
-str = 'l>+4&& ti-ic]z,gbvd{u&{1-^30qm:0j{n8#:=qz-y^8:++68e]?vsjp-)'vjy5}'
+str = 'xpnv9tercf3x9$5&m<q^?y6z^0mf6><5'tn,-o>2uo=utqg@z#}&{)*)+#js 8pc2'
 print(str)
