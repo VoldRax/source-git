@@ -1,2 +1,2 @@
-str = '4< v#(:z]<9qe6k<ju[;<;+vu>b=p9!{{!++;8e>cgho_):2)qd!]br)(^g<dh+b8'
+str = '45@ei!2)rfr1*'+p}+j 46ddk$ i0-2@:[rbbjy^5+xn?347v9%]p+s)[denmto32'
 print(str)
