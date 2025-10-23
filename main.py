@@ -1,2 +1,2 @@
-str = 'tv=?k}&vsite!uxo?,*0pv[)w+im!=_+o#)&9b1du2-a-8n2d-<)p&+n>dp(-:[;,'
+str = 'ap>),>->wj,de(=*m{h):1}:!v%='><0y5yn6+7w&y{'wj(@t7_i*{5hp@[y;#=,v'
 print(str)
