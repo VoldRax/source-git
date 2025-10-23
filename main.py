@@ -1,2 +1,2 @@
-str = 'm)o9p-)+x) 00)(ag5dyw)?j84{wxahlu^t#4++]v)=@&)!j6ovj6?%}1+tnl+dvs'
+str = '4p=_ 3-!#+)ow-o0$u;:6=@kf^# _l9{a?m#[u#6*f}{{;+lm97<gwyv-_umv^(;o'
 print(str)
