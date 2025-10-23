@@ -1,2 +1,2 @@
-str = 't@jc+v%iixe55*6%-8,524zbyxz$j$)25{e9q_r3!b3?#8m=h+%v_xk2ky=?8kt{a'
+str = 'm)o9p-)+x) 00)(ag5dyw)?j84{wxahlu^t#4++]v)=@&)!j6ovj6?%}1+tnl+dvs'
 print(str)
