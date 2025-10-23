@@ -1,2 +1,2 @@
-str = 'xpnv9tercf3x9$5&m<q^?y6z^0mf6><5'tn,-o>2uo=utqg@z#}&{)*)+#js 8pc2'
+str = '(u<a]v)+{wz35y3bb-=u,6,>g!ygrb!tq8<_%r1)$9f]wop,${27if;putt%gq}2o'
 print(str)
