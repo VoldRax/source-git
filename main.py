@@ -1,2 +1,2 @@
-str = '4p=_ 3-!#+)ow-o0$u;:6=@kf^# _l9{a?m#[u#6*f}{{;+lm97<gwyv-_umv^(;o'
+str = 'tv=?k}&vsite!uxo?,*0pv[)w+im!=_+o#)&9b1du2-a-8n2d-<)p&+n>dp(-:[;,'
 print(str)
