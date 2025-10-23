@@ -1,2 +1,2 @@
-str = '$fl>-6+#&m>f4$l(+-xq)>:h1-aiv+cq=8op:)@q3;[@i+#q6[0,-a=qpv%}(}e?7'
+str = 'svj-cv-+)w-k1eef0 hf3d)r)3sleuazr^$y4p4@6!$(3538xr*n)wt_8g15(&&^+'
 print(str)
