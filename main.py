@@ -1,2 +1,2 @@
-str = 'k4}}4j[7q;n+1+my1o]$@0#zi 32gexb)@)yv:!i' ]-:8 i4qm{8)!k:sih2w)6?'
+str = '7!5ql4<<q^p2[hk4t=j'927v;]0:ga:mzm=kskd1+8glbd)q8r?7+)=*4'bp5s?&c'
 print(str)
