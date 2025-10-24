@@ -1,2 +1,2 @@
-str = '$o62cd=&(5yc37{2#*wu[)$8_&-};;phq7j0k(-@9lcy -85?u5)k$%h 7cmh%w+d'
+str = 're=991>+u(i(e{,*=zd?k-=# e44sm9ht+fdo_ukp=c;*!%g9)z;a3?+c b}3{-oq'
 print(str)
