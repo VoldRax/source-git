@@ -1,2 +1,2 @@
-str = 'fwk(l4{n?(}8_r<)3)kg)?^$$g#izg8^^mj4f}e(&5+p+2j;zr zeg@5}@ 6m=*f '
+str = 'sl2=,_)045tn$lfu c^+ppnhy;2ita_)t#<7,k8z&w]2!}_[<@+c38$mh1'c+5b=e'
 print(str)
