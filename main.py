@@ -1,2 +1,2 @@
-str = '$!w]74([5<d]5<qe^[*9yizp6l-]e mse6j)uk;2noyf-+#d(ln5g9dcv>}{%[[g-'
+str = '>t[!e#%6x_u7&[)* }t2-_9@c!_adc9[f<>r?+n5i+@e4=t=x*<()}yp kclxhf%q'
 print(str)
