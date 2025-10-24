@@ -1,2 +1,2 @@
-str = '>t[!e#%6x_u7&[)* }t2-_9@c!_adc9[f<>r?+n5i+@e4=t=x*<()}yp kclxhf%q'
+str = '-'erpya^&[drgi6pg!!76$hbk+vf4 g0m%nn$yv4db^:2;=+,m+-8s'+y+pgg}?%o'
 print(str)
