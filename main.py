@@ -1,2 +1,2 @@
-str = 'x:z5$o;(l&((j?7@uzca4q&]i164@2l;'n*-:p5=(5o9}q&a=:q)of8 ko6@zfsp_'
+str = ' ])*4@$#-c%h+$ l;*+m:i5wf$^i<':*w*r1x[$1;'4+<w0b>&o;u!32k0=--#*->'
 print(str)
