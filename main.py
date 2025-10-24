@@ -1,2 +1,2 @@
-str = ' ])*4@$#-c%h+$ l;*+m:i5wf$^i<':*w*r1x[$1;'4+<w0b>&o;u!32k0=--#*->'
+str = 'kw=v)9m73> p;:7^g*67x68c[2-<%13f1zq(]+aavn}2j$gdcmc!_vm[u7]9+8ldo'
 print(str)
