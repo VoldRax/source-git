@@ -1,2 +1,2 @@
-str = '<}]03-?)e=}r_:%&cl}g-z5:-uox&om7%#wl,,! _6)8m2,4mbn>ux8urvn3xsfve'
+str = 't)oirkp%$sv;dg &-eqed6 ib_?$rs]s5*u%4;aq#){;2tm]*#{{,+bep(q)jkafb'
 print(str)
