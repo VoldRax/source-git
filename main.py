@@ -1,2 +1,2 @@
-str = '-'erpya^&[drgi6pg!!76$hbk+vf4 g0m%nn$yv4db^:2;=+,m+-8s'+y+pgg}?%o'
+str = 'k+ 5?;!,2l_f,!;-+ ^w-qq(:w?4b6y+j%3@o5ipw>my6lj{3fynr)qbxoc%;d^$*'
 print(str)
