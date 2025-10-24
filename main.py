@@ -1,2 +1,2 @@
-str = '?om[a1r7-e89=_<;@$k>o_<0tv6r?=w#htp40%>{@j-h6&qp_z'-rb0y?_tx3%=kj'
+str = 'n%0hv) [7-w{2^]1cd}p)t:)]na  dx+}@it{8(6j t>a$}<_o)}j5)vjf?6hxpmg'
 print(str)
