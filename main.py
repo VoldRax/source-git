@@ -1,2 +1,2 @@
-str = '?+s1'[^)#m!d-p1,g_+0%89[yi^jyr@zkb 0}]ezte1_qd+t<c}>jhojwm2gsci{>'
+str = '?o3v9'dy8(*t6@8w,:2-:+6+6}0&v+y7p0!7%n=]g]8e%dky}6ce9fu_>n(')?)8s'
 print(str)
