@@ -1,2 +1,2 @@
-str = '+- (j(&3o@2?it^0m^>**-ce,<-1^rl@2*>:po>t%o7(@#0r[0a}[y=*5'o&v1,:p'
+str = '}t-h-ya$'a9zluz;0s7%g!_lj_-=#5ch)gz=w$%0-49t[7(] ot{7_0=#!4v!dtc_'
 print(str)
