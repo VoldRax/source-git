@@ -1,2 +1,2 @@
-str = '_1!,y%j+mut^ac)4tex+&*l?j!nxp[fbbm]pkb?c+e#:zj:1f6['(=1%>$(+2mgpa'
+str = ' (=-?x!!m)<1;-h 0w:a^6>*]3@:siu1:-}kh4 5{m<pur]a![&lob1,y&6(@5r'z'
 print(str)
