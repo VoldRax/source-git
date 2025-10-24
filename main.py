@@ -1,2 +1,2 @@
-str = 'h4<;}2w?)bil+&)]o452n49++kmj],ijxo?h>hj60uz$w{v*y5#<p5f0*&p1$-n:{'
+str = 'gv+,$r]#t+>:>-jd=&56qg7n6t51(,33%5af3[4rp}c+o'a2<{ca)n?$x8]k@[2f-'
 print(str)
