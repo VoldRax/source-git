@@ -1,2 +1,2 @@
-str = '%!2ub3[:b8#ao 0#yf xa)]j$_s1x)+w_-< 7wzpe02$*pe) 7s:l#8y;h=v=]>4#'
+str = 'pk9-2-i4!{ud,#9%2>l^jk!-2^1q0k#3(d^-1 y&!i)()@pz<bxwiq,i{$bg,o]7k'
 print(str)
