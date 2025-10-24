@@ -1,2 +1,2 @@
-str = ',f-[)>{2e^}%al7lv{l]$r)x9[d7vre2q[[cs3dz^z8x<(!=t-*+);]q+>&0_l$x3'
+str = '5x}%h-f-j9#cdt7%7n9% d#{^z{96)8#l173(  -ah4_v6:+5y[*o;lt5)6snj]l;'
 print(str)
