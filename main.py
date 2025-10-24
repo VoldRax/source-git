@@ -1,2 +1,2 @@
-str = 'fa90h+*7dx},(0m{4w(-[j3-s8}3q!_ur9wx'r!5]+$ci4nu+)-+ww+<+t6k0:6fn'
+str = '?+s1'[^)#m!d-p1,g_+0%89[yi^jyr@zkb 0}]ezte1_qd+t<c}>jhojwm2gsci{>'
 print(str)
