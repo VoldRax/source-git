@@ -1,2 +1,2 @@
-str = 're=991>+u(i(e{,*=zd?k-=# e44sm9ht+fdo_ukp=c;*!%g9)z;a3?+c b}3{-oq'
+str = '?om[a1r7-e89=_<;@$k>o_<0tv6r?=w#htp40%>{@j-h6&qp_z'-rb0y?_tx3%=kj'
 print(str)
