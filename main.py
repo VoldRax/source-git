@@ -1,2 +1,2 @@
-str = '6q-rw6?n>;5+;e0a{b{)mzz[=-w%dyw+djnaf&7zzak3bul6-0sh<ep7zzc&g*?m^'
+str = 'er*)hi}o(>:#66k&85i^$s3+^dmn:)zr+)saht)>[2_80h9[pg3wo30:s^d_*+%i&'
 print(str)
