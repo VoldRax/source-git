@@ -1,2 +1,2 @@
-str = '#1ul?=5)yvr^@@6>1%i0f65(83,g8(?%)9*cb=8+v2xu0+-%'-9^h&*5960]h[g;i'
+str = ',f-[)>{2e^}%al7lv{l]$r)x9[d7vre2q[[cs3dz^z8x<(!=t-*+);]q+>&0_l$x3'
 print(str)
