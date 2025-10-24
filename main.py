@@ -1,2 +1,2 @@
-str = '&g)lh?:ei?(*[i{,3m%q<l^0!a[n6%f# 861<avgg*f!7)4&^=^$t)74ysp7[+jn1'
+str = '$o62cd=&(5yc37{2#*wu[)$8_&-};;phq7j0k(-@9lcy -85?u5)k$%h 7cmh%w+d'
 print(str)
