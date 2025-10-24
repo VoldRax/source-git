@@ -1,2 +1,2 @@
-str = '#z_1$-52>{:?a_,>*moc]wifeh%n%g6crw,)m0-+5-x(musljbu?ys3h},r)yn*+7'
+str = 'z[g#p-k+:qr3<0<m$)a<,(ef-e+1;ynn# d!bl0@p f%e#swh6wzqt=#}^_7lcr2y'
 print(str)
