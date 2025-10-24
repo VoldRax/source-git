@@ -1,2 +1,2 @@
-str = '7!5ql4<<q^p2[hk4t=j'927v;]0:ga:mzm=kskd1+8glbd)q8r?7+)=*4'bp5s?&c'
+str = 'yh+,l<h)1{m+?,r-=>0+it?_+s]wdt(0q>u)d{)ize<ad1d_4:te??v+04d3_d@{%'
 print(str)
