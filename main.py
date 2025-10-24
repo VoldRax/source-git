@@ -1,2 +1,2 @@
-str = ' (=-?x!!m)<1;-h 0w:a^6>*]3@:siu1:-}kh4 5{m<pur]a![&lob1,y&6(@5r'z'
+str = 'f]05{xa!se],yi@{]'+x]5]_y)<&v#:w{))tv+v-!{?-38$t$f7gi%-k'7o}l)?6:'
 print(str)
