@@ -1,2 +1,2 @@
-str = 'r*k)9,3&;l&>!,'8]0_i[#!g741+6b;:$v[q7=-%pb7:t@d&?%d!%[j[l2-+cqrz['
+str = ']#jm)%7% l55}? ]}!y'7ebryie}f2 3j-)[q3-$h$w<0&++))!;&(_%$#9bl7'eu'
 print(str)
