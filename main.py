@@ -1,2 +1,2 @@
-str = '5*7$h,}4('+rs[?{-+tp+7(3%n&z&]fp(f4*=p)gz:q),l=0mg)(mu5c:wynrrk&6'
+str = '<-n}{v+$8}-v>(r80+m})n8_{m)u%7y-$j,c%2[r+cst2=%tp1q+{+3k& t%:-*=+'
 print(str)
