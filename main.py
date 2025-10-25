@@ -1,2 +1,2 @@
-str = '={<7p%xn-'pyf4s-g02-zsu<ih^f<a]+#)m1o(o)--ttudg<^ad<}?4??(u{p+)r>'
+str = '{4k%{'from^)#k0b-u+csh%[wc;ddg{xzr{0b4mju){%_5}+(5-7xap{(n4,tb81q'
 print(str)
