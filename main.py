@@ -1,2 +1,2 @@
-str = '%v4%+i'])ubl?+wq<$-,se&_}c&  '%_+**i{*%#0h=-daaw60pn8[flo9}m',*u7'
+str = 'w%)s55++ymig))h-q[ {;'y?z[f'[iihjt4m bi?lbqp-d{5ar}qg[p;[[9{n^[+e'
 print(str)
