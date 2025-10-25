@@ -1,2 +1,2 @@
-str = '9-@_4n'''{rqsmikfr<wbt:f!+qi0x#b_0g_7-)s1}r])0!-(ed2wv_]q<?basvvc'
+str = '-^l2@-r;@,c}?d<(}]$(<:0;'+e8a,3ok]:db) <s2'6-bz88gw%:4fi>^dynroi5'
 print(str)
