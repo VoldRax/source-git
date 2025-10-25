@@ -1,2 +1,2 @@
-str = 'aj_>e2x?[)+0&vet6qyk;f+p'{smb4>:!+3&c67:0q(x+3kre0v'^j{7q- eq=6a,'
+str = 'yt#s}+t![66*++q:9%mpr%::8+i-j*v9mfl!+(lo5ro%jig-q p8<14r9<=63fxmy'
 print(str)
