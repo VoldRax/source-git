@@ -1,2 +1,2 @@
-str = '-^l2@-r;@,c}?d<(}]$(<:0;'+e8a,3ok]:db) <s2'6-bz88gw%:4fi>^dynroi5'
+str = 'r*k)9,3&;l&>!,'8]0_i[#!g741+6b;:$v[q7=-%pb7:t@d&?%d!%[j[l2-+cqrz['
 print(str)
