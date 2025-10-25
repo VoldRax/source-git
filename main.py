@@ -1,2 +1,2 @@
-str = '7[<(><7$-;:?q&2y<u?<^1=7qaet4^l<']p6yqe3:8e!@;?7e2g(i;87d7=^?-z+,'
+str = '&-vy'3ds-4}+']z'7r4w>0=[5-+$_<m),{b+i0@b<s*yo((idjqe5@aw^?tn2qa>q'
 print(str)
