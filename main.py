@@ -1,2 +1,2 @@
-str = 'wv7f{p j#3;5e2rkr>h)8=f<p2b0qhi%)n&[*r&!x'_zo-a>-7u4p]cw$xvj']37+'
+str = 'z!5>s=q6{_y_;3v%f?*5_jpon'+co34=)#{r,?:^{t d5%netbp8s+x)4a+c}cch['
 print(str)
