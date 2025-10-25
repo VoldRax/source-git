@@ -1,2 +1,2 @@
-str = ']:+{8@@<'ebfbzpk)ycu->5u9z9d)1:+):=v<_1hzjt_%%w]:w%i$ib'e^18):vw+'
+str = '{w}^fv18m)+z+9lel5=[&k-2a:zez&h+l!qgncq3k;ft_px+0?de:%j'y=y^&hn9p'
 print(str)
