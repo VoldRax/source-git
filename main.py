@@ -1,2 +1,2 @@
-str = 'l)f}o_myqd,w6b![uy)!()3=i '@d*1lp(2(],az_9u(99%]_7s@c^5)-ufz*(u17'
+str = ')  tji_[%23&3q#@4vky<o4vt)-)qjt_d@nt+,fop?]5&a{+*c+$v5<*_+j!4sd#z'
 print(str)
