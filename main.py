@@ -1,2 +1,2 @@
-str = 'z!5>s=q6{_y_;3v%f?*5_jpon'+co34=)#{r,?:^{t d5%netbp8s+x)4a+c}cch['
+str = 'givd_{$56>?k<0ftw<:=u8#f%[ox=3 !es)}@0,00$&u'cjs)#$ gl)>l>[d%6fh%'
 print(str)
