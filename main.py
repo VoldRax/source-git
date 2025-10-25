@@ -1,2 +1,2 @@
-str = '<-n}{v+$8}-v>(r80+m})n8_{m)u%7y-$j,c%2[r+cst2=%tp1q+{+3k& t%:-*=+'
+str = '$-{jocb*>n+; &q,^!9+@lak!+qpo#<,w^s6[8udqlh&8 k:1;0&d6ajx4-9-m&5q'
 print(str)
