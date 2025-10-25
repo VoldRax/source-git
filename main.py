@@ -1,2 +1,2 @@
-str = '+@[3%!p[_-y7dpf1o0>{_:p{}&w}rr,@9j!a[6mfps_<juw$,(4<;8n+$6+cnm20f'
+str = '9-@_4n'''{rqsmikfr<wbt:f!+qi0x#b_0g_7-)s1}r])0!-(ed2wv_]q<?basvvc'
 print(str)
