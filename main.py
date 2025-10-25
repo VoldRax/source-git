@@ -1,2 +1,2 @@
-str = '4^gqo1$s20#1zkef_ 484jcnifny]{,l%2([*t<3b-ozl_-$)5:%n#)?={')-)}+,'
+str = 'cv^5i)q440[_k&i=4p r8e<3ajde4mi$7m7_z}7pm=l2=4qu7!:>x:<5:,;)3?p(s'
 print(str)
