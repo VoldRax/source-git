@@ -1,2 +1,2 @@
-str = '6'5f'q'3&3x28,_a0{jdam={[s55,8ghl hm=$rl>j m#ll$-*a)3#)s}:1}vt-;y'
+str = 'k-qqr+;u);k#8p6z+0i&k#8${jxq0zj 970zux5z^!a*jat+iy*=<ex@x3&6(x^fq'
 print(str)
