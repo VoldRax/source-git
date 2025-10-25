@@ -1,2 +1,2 @@
-str = '-&{+0w-+57fp$*[r:?p-ki[00qe->^m8+w^zx)$)7o8k8-;ua{)*v*((g^?4v'4]a'
+str = '7[<(><7$-;:?q&2y<u?<^1=7qaet4^l<']p6yqe3:8e!@;?7e2g(i;87d7=^?-z+,'
 print(str)
