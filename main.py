@@ -1,2 +1,2 @@
-str = 'c5_;5 )*w_-li-^)eh')8y%^ttsk(ql*e*-],_l&mx0*5ve}s>099k(,3)g@v- 7@'
+str = ']:+{8@@<'ebfbzpk)ycu->5u9z9d)1:+):=v<_1hzjt_%%w]:w%i$ib'e^18):vw+'
 print(str)
