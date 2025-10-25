@@ -1,2 +1,2 @@
-str = 'lu-td(&75o$3q9^,5-wq5g)sn*j}ltv?w)&z6ho!-i-xt )c x,&p*8%norg+z()='
+str = 'c5_;5 )*w_-li-^)eh')8y%^ttsk(ql*e*-],_l&mx0*5ve}s>099k(,3)g@v- 7@'
 print(str)
