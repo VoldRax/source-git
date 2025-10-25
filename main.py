@@ -1,2 +1,2 @@
-str = '{w}^fv18m)+z+9lel5=[&k-2a:zez&h+l!qgncq3k;ft_px+0?de:%j'y=y^&hn9p'
+str = 'g:@y{-89?3rw&75& ,k?(4a:):-1cpjdph-+zv;o!0ms!b),5*-u]<t<!-y;m(b)j'
 print(str)
