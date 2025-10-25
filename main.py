@@ -1,2 +1,2 @@
-str = 'c!2s3@mti6w0?x7+%n)aa##<1dj]g)t[?8&p&!,49:tp b&p;8nbu&zvc2@!(sxcu'
+str = '[[v%+'i5&+30ssp],?^2ti( 7@]}dg?c+ce-&0f00 7]@e8h*@-7e(el$t!$gl_n{'
 print(str)
