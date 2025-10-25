@@ -1,2 +1,2 @@
-str = '1!*k&^+3^$b);qt{p4@7e{c;,9;e#mg5q}5fs];ops7*(5a)v@w7-%$7;y' wb+)r'
+str = '<26o:n6$7;wxe9_dan<)=anidfa'a3-+v@p1n>z@3m)c wlb$v-t;k$8{&9}[zy5!'
 print(str)
