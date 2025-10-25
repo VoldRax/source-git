@@ -1,2 +1,2 @@
-str = 'k-qqr+;u);k#8p6z+0i&k#8${jxq0zj 970zux5z^!a*jat+iy*=<ex@x3&6(x^fq'
+str = 'g$jf321m&9 #{<eed1wj$t-x?d%zki} c++!&m*yk3*5ycq&^(0@%kq*)0df78t )'
 print(str)
