@@ -1,2 +1,2 @@
-str = '$-{jocb*>n+; &q,^!9+@lak!+qpo#<,w^s6[8udqlh&8 k:1;0&d6ajx4-9-m&5q'
+str = 'l)f}o_myqd,w6b![uy)!()3=i '@d*1lp(2(],az_9u(99%]_7s@c^5)-ufz*(u17'
 print(str)
