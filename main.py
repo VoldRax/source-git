@@ -1,2 +1,2 @@
-str = 'w%)s55++ymig))h-q[ {;'y?z[f'[iihjt4m bi?lbqp-d{5ar}qg[p;[[9{n^[+e'
+str = 'hcbdfv0oj2+u8ys[%fx@:+{zlyz&fwna=)q%ghg!{x'b{;])i)]t6fc#-*t+icvj}'
 print(str)
