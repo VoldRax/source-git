@@ -1,2 +1,2 @@
-str = 'cv^5i)q440[_k&i=4p r8e<3ajde4mi$7m7_z}7pm=l2=4qu7!:>x:<5:,;)3?p(s'
+str = '&>7,!z)?2j'2@@k]hi3i)!?toym0>qy)qet&t'}0a<{>]po+l{-6{ep-y2lphi,$6'
 print(str)
