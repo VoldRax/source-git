@@ -1,2 +1,2 @@
-str = 'g:@y{-89?3rw&75& ,k?(4a:):-1cpjdph-+zv;o!0ms!b),5*-u]<t<!-y;m(b)j'
+str = '!lq6jxw)b<;2jx%)'6z&c>9ze?#swusaci&j^ac0dw!7tai (_c-))a6i50?tq&$+'
 print(str)
