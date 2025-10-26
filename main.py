@@ -1,2 +1,2 @@
-str = 'rr[s#bt@)>9)y>c?)]zw><apct^5&eye?2,*l1+knbki-ono<9s*=<*w?iofy2gx5'
+str = '$nq4r;9_+p&_1ex>:zk@$ _th_5b;x='8y'-cb0+1xjyb=!x;:on%myo$}_))iu#b'
 print(str)
