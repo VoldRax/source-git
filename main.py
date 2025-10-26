@@ -1,2 +1,2 @@
-str = '] 2-3f3-&ky+'$>1?0e#+,d9[&4j{]'wbvwg{t=72)av+xs$axp2@[@)5j c{*2-p'
+str = '-{!}>bvhg9)$)jqlwc+-h0*wl!>5ux'{+4@b-ef9i7-[}1s?oh))d>?$^(>y_w&'^'
 print(str)
