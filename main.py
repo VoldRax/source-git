@@ -1,2 +1,2 @@
-str = 'f)'p;%3&sp1hec))?;^(f)[[:b5*)]{m)q(q3>%zx o%#b1[d!@yhc 5z1e$<(=;z'
+str = '[)n8n2rsrcid r!x$*p_ >zwpb}dz%-tk)me8-fzjd,x)?9y>=%u#r-e)co#]$[e>'
 print(str)
