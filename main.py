@@ -1,2 +1,2 @@
-str = '=c0'70*:4%u$}y,hd!)9-8%n5i$)[ghwbohw;)_hcl2 c-0;1]yw4ljp]!=syo=-]'
+str = '}&w0a1woobz9c+-,p&v-zf^s--[?bk,e2}h3xjt3z_ve6b:v*9f]j+>ux}4yd}4+n'
 print(str)
