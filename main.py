@@ -1,2 +1,2 @@
-str = '[7)[k(q*9flrz+@4u[{'-[)302:-6;$-&;zx}^=t23wo)(*&<^#&a7bab2n3dkj<t'
+str = '<=-!_1ozib#t0cv^z'dxzc 2&*g&=-!-y3x4<ea+',%:[xc61)+>&i$yx?{h})9[^'
 print(str)
