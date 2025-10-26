@@ -1,2 +1,2 @@
-str = '-m%?pjzl^n+*)^2)wn?})o--)%v9*_&++,%5'{&>8>,%-:x<ub^+{)abte+@*qjan'
+str = 'tzye)@x9s56$ sp:)qj)liq)o-z9<u[:ir)b$+lmes;)0y6ufdr),tx:^)>@b(^9*'
 print(str)
