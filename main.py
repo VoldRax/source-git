@@ -1,2 +1,2 @@
-str = 'e&+gj9)4z!xf6'[g'wyb=8g[>-6yy}g573:pr4n9w<#}z233^*t5%_k*)8c{:=;v7'
+str = '!97hlfja<>aj?9t1=<b]@7zu;?5lq?y@6dp<xp#umbd+4;]1]'%!%e>g75 r>$n=='
 print(str)
