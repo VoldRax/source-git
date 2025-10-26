@@ -1,2 +1,2 @@
-str = '283 ^z#*7lsz'sq{t6nx[a,wtby1q&y)vmum5oe<<g0l25,xrvh8y@'2@}?zmt}c%'
+str = '$3(]]^>^dif24f=x_];^e5?5oy-g!m))%6#aa?<j;w));f={jpg+,7m7d;'{b[^#2'
 print(str)
