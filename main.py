@@ -1,2 +1,2 @@
-str = '$nq4r;9_+p&_1ex>:zk@$ _th_5b;x='8y'-cb0+1xjyb=!x;:on%myo$}_))iu#b'
+str = '] 2-3f3-&ky+'$>1?0e#+,d9[&4j{]'wbvwg{t=72)av+xs$axp2@[@)5j c{*2-p'
 print(str)
