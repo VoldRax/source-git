@@ -1,2 +1,2 @@
-str = '<=-!_1ozib#t0cv^z'dxzc 2&*g&=-!-y3x4<ea+',%:[xc61)+>&i$yx?{h})9[^'
+str = '#y6y63w[<02&-^i!ojg-_3>5s8ztk((x+:p%@yx'%)^q^i}=si>n@ig-4-#?-)&tq'
 print(str)
