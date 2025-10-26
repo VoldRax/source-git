@@ -1,2 +1,2 @@
-str = '4o@cn-+? >dy_- [-rjl2ekc7{>;c)#})4=%ax04'6om0c7!]tsz=+s8akhw'h2s4'
+str = 'x9s}5qso7jn)n0}i]?,9(3 xhx%]h-@}muy&(ys877 b77n?iv(+);5bxr]z{q30*'
 print(str)
