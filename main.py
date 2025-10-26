@@ -1,2 +1,2 @@
-str = 'a=uw$?cm039h:+8y4h2&$yv*^<0o-i&<={{ +cf%#:3@a(0)[f4)!t5,[@i7y;yq2'
+str = '4h!'uf':igp$:gn6is=?eoi:^0?i;3@!kb7b-p)k,k1+-%=1n>3_8wq7-%-9#1_%)'
 print(str)
