@@ -1,2 +1,2 @@
-str = '7[p f};)}*z[z0wo0<>asy7i$m i_d#t3>z+?s<_ae7d33wwb#]4i*i)qu)g:x)!('
+str = 'u{#:$>dhz)u!,b8kx?d188trw)+jstx1+;l)%]zn)p*#uvxz=0;bu:7a@ompms$[h'
 print(str)
