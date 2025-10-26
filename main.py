@@ -1,2 +1,2 @@
-str = 'yct** y6r]&)sh)-?1xqh)<9$]@e5!to)[<=kd[+g{,yf+)f*b-2] y_?j,66x%rn'
+str = 'h9;oow?amr8=$bfu,r^bt(ncid4]!{{ye@c+<b--lf<1^*vif<zqnc0?=&k<ck[2o'
 print(str)
