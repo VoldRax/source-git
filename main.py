@@ -1,2 +1,2 @@
-str = 'd@n{+@(o}:p!o03)*?(j!m,@,lr(!qewl61;?#&t+w^jk#<y-c$1[h5'n&6yoa^$2'
+str = ''{(ij3 )(8ch!-93h0-5}^[w_?*7>^l*u6ye+635on&&lv]p)e{!z$el-0b*=o1m8'
 print(str)
