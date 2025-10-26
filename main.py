@@ -1,2 +1,2 @@
-str = '>f6a@gh:<(-%ec10m-eloq;$cqqv^a,?m_}>9wh1+n9_!^;k{gsk,* mk(kc-m+b='
+str = '[7)[k(q*9flrz+@4u[{'-[)302:-6;$-&;zx}^=t23wo)(*&<^#&a7bab2n3dkj<t'
 print(str)
