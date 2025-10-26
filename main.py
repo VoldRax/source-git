@@ -1,2 +1,2 @@
-str = '{0ot%2cq><^k)&f[cg7o@}lmh!8)h9mvk7@h5w+ub'o*3gb)b<5>=i&^&}1^%bfw<'
+str = '>f6a@gh:<(-%ec10m-eloq;$cqqv^a,?m_}>9wh1+n9_!^;k{gsk,* mk(kc-m+b='
 print(str)
