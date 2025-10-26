@@ -1,2 +1,2 @@
-str = ')5da$x5%-e<,>1:y&pyofcj{2 {+*ilmt8-+68+<&,,z*]q[by&[zmn;*z^=jde+0'
+str = '_@)js@;f 2 :f#ugbp?z$+lc-)tw:)(d)=-b;?{bv_4]xotbu8]#$*-*0^u#4{fp*'
 print(str)
