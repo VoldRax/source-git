@@ -1,2 +1,2 @@
-str = ''{(ij3 )(8ch!-93h0-5}^[w_?*7>^l*u6ye+635on&&lv]p)e{!z$el-0b*=o1m8'
+str = 'rr[s#bt@)>9)y>c?)]zw><apct^5&eye?2,*l1+knbki-ono<9s*=<*w?iofy2gx5'
 print(str)
