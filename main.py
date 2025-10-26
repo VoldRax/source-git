@@ -1,2 +1,2 @@
-str = '!97hlfja<>aj?9t1=<b]@7zu;?5lq?y@6dp<xp#umbd+4;]1]'%!%e>g75 r>$n=='
+str = '7b-7mwm(2l8$924&92oq[n$ea)q}8]sp4)m %e1:+r{#3{}bq@c:*4$-r3'!$#z2*'
 print(str)
