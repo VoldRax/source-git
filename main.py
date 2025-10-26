@@ -1,2 +1,2 @@
-str = '7b-7mwm(2l8$924&92oq[n$ea)q}8]sp4)m %e1:+r{#3{}bq@c:*4$-r3'!$#z2*'
+str = '^+t&^l[0^vi 7omh_n};hn8(;e30,m9$xv9(jzcd!bc;+qk1}i^$8 {p;kgq('%<''
 print(str)
