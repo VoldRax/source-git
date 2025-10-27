@@ -1,2 +1,2 @@
-str = 'w?aj<xohh,d)!h5*qdf+3diyzuk$v+i0x^}5#!-kky(4x7p5'>(==tu&_'7fqg[<:'
+str = 'k_3p)6*:2x10= sv&n380{htl-5t}fe;!1ll<umo192*sff8<[m%bk7'9h2&boq{%'
 print(str)
