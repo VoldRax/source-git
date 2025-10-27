@@ -1,2 +1,2 @@
-str = '*e@j@*fp14 -*n4)!g7-=8[+)pa!+w@:5 g$l)r((&,+dm%)+v#[?!%-!>]h6n->h'
+str = ')h!%y1}p_?-;@i@s[%qz+4fie<<afti)%s)0+lmtycfx%;lb8p8f^^i1d)!q{8>[z'
 print(str)
