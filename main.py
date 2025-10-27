@@ -1,2 +1,2 @@
-str = '^t%9_@2t([f=(w93jle_)-24y+e5+y:^564zka2&zivcou_rx;#e%g}^}5;w^#5e-'
+str = '<n4{6<& ,!*=213gq*%n8q']dr1q=@1mj:($9b<-u;d2zh!8c(wx7e{=^m&5g6=>6'
 print(str)
