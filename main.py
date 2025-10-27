@@ -1,2 +1,2 @@
-str = 'dx9[1y79#^_>pp8&ure'e@wn9+:ym!fn )(@#hp0;!lpneqvl^3,<}'+}1 (u*a5]'
+str = '=-^buv 2,afdpav>z1z 1^gy?_;,)u-91*@;ai)nq4n]@<rcb713yzhw$' 1)4q2h'
 print(str)
