@@ -1,2 +1,2 @@
-str = '&u}'z> 0)>[xq(5yv>o6ls-q?f32+<s[d%n>t>:$vh3#25,{h3iqvij,8*+ph)vso'
+str = '5 =)s>5%70{64ze!7w<_%!>9r0rp(qx?v[4$nr(<^(9z(h7#)hl^}z;6b@@m9vuca'
 print(str)
