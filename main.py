@@ -1,2 +1,2 @@
-str = 'x;!lavm!@:p-{ ;,:x7{xyd8_##}87s$'2^nbnl%9o37?k$k^#<r4;t(ri7w_zo={'
+str = '!*14?-]z@%[d^2_h&-?v3_y&vc]$62l*<f-!w?;?ubg)5d'ejss+37o-m]pm+-w+y'
 print(str)
