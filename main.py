@@ -1,2 +1,2 @@
-str = 'evqn:e}z^=dh*q325)zf,%2]93 -+jv7pi-tdx-+a[x4:k{xts+=-sd'pdoe-b0)<'
+str = 't89(,g}+}i;bqb>[)z#%0:f+ohm:_:hmx?0)%x^)!a6+?_m>m<<8h$p6q9=3%y7,-'
 print(str)
