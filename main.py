@@ -1,2 +1,2 @@
-str = 'qe$2^{,t),z?iwrx${8q*d12@c=,d r'ul%3!236=_+'0^f*8,;'-=-^dq4(w:)sj'
+str = '-fdpd:}}vy9a{6]#--!(_m$uq}jcpsf+pt2,7&&%-w[<8g0md=2-,4tq[t6ls<>,]'
 print(str)
