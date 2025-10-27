@@ -1,2 +1,2 @@
-str = ')h!%y1}p_?-;@i@s[%qz+4fie<<afti)%s)0+lmtycfx%;lb8p8f^^i1d)!q{8>[z'
+str = '-z{suw5=#+r7rrv8x0#}#'' api,{v)>-?ty8$vp#mq#x<7&b+??:<tqjxv<d515:'
 print(str)
