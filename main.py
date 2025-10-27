@@ -1,2 +1,2 @@
-str = 'e[@$k7b6dwx6{)bg(21_,+ou+4zi&?hzjbu?c(),u*h0m[#[#hf;@ky?2u--s*)y6'
+str = '[i+vu)^!i&+p&9wy(hp!<?u16){!?-$?gp 4x)6+<^)i,ke%>>!c]53{ 6o!6z_m!'
 print(str)
