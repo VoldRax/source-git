@@ -1,2 +1,2 @@
-str = 't89(,g}+}i;bqb>[)z#%0:f+ohm:_:hmx?0)%x^)!a6+?_m>m<<8h$p6q9=3%y7,-'
+str = '4!c$n*+,vhzr}v+{l-sg&}i^'1){t7v->,))#>)b!q,uc!2><cb0yx'i4qal-gfh2'
 print(str)
