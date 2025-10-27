@@ -1,2 +1,2 @@
-str = 'j;,50+2ok5)$f<5@o*?d)={n'gl$sli]i% _&aqh>u;6'tjey7&'mgt;skis +vcc'
+str = 'b>73-6!v%f3+-p:b:-ekmgj=;xgm50=i x]g-9j14?[uq4ma%s7hvy1m_39(tip9g'
 print(str)
