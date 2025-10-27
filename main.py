@@ -1,2 +1,2 @@
-str = '-z{suw5=#+r7rrv8x0#}#'' api,{v)>-?ty8$vp#mq#x<7&b+??:<tqjxv<d515:'
+str = 'j;,50+2ok5)$f<5@o*?d)={n'gl$sli]i% _&aqh>u;6'tjey7&'mgt;skis +vcc'
 print(str)
