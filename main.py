@@ -1,2 +1,2 @@
-str = '5 =)s>5%70{64ze!7w<_%!>9r0rp(qx?v[4$nr(<^(9z(h7#)hl^}z;6b@@m9vuca'
+str = 'x}#]96%(=a%]}-8{ v>6l!;k))!>@)3u(,,rt_c%)+m6wi'wtejr<[+=ma ;(,l*8'
 print(str)
