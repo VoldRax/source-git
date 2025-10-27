@@ -1,2 +1,2 @@
-str = '!*14?-]z@%[d^2_h&-?v3_y&vc]$62l*<f-!w?;?ubg)5d'ejss+37o-m]pm+-w+y'
+str = 'evqn:e}z^=dh*q325)zf,%2]93 -+jv7pi-tdx-+a[x4:k{xts+=-sd'pdoe-b0)<'
 print(str)
