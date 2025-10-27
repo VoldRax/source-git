@@ -1,2 +1,2 @@
-str = 'k_3p)6*:2x10= sv&n380{htl-5t}fe;!1ll<umo192*sff8<[m%bk7'9h2&boq{%'
+str = 'a1 *wd)df,)7^'x!pa[1-{v7==<xb$g58_#>z_@geoe-)az)[7  _?r[)=h6_dfis'
 print(str)
