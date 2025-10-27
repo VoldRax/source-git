@@ -1,2 +1,2 @@
-str = '[i+vu)^!i&+p&9wy(hp!<?u16){!?-$?gp 4x)6+<^)i,ke%>>!c]53{ 6o!6z_m!'
+str = '8=n+!6%w6 {su1u@'[0y%lgmp-pq<#^3}<jnz%'1&)#mo66:l>0+^{a8%u)<?:$_6'
 print(str)
