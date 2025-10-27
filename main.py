@@ -1,2 +1,2 @@
-str = '<n4{6<& ,!*=213gq*%n8q']dr1q=@1mj:($9b<-u;d2zh!8c(wx7e{=^m&5g6=>6'
+str = ')sq+w)-:)+s =y- l#w{y^f6)?:y!g7;45++0agg>,53,,2bx[k'#;3+x+@+*+{#7'
 print(str)
