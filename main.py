@@ -1,2 +1,2 @@
-str = 'a1 *wd)df,)7^'x!pa[1-{v7==<xb$g58_#>z_@geoe-)az)[7  _?r[)=h6_dfis'
+str = '-:a+_ 9m&ysn!:%z8s6ych;h@%=!_v 3p 1^u@]6%][$bo2@icua&]_[hrw-aj)v]'
 print(str)
