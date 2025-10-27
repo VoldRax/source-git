@@ -1,2 +1,2 @@
-str = 'b>73-6!v%f3+-p:b:-ekmgj=;xgm50=i x]g-9j14?[uq4ma%s7hvy1m_39(tip9g'
+str = 'dx9[1y79#^_>pp8&ure'e@wn9+:ym!fn )(@#hp0;!lpneqvl^3,<}'+}1 (u*a5]'
 print(str)
