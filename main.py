@@ -1,2 +1,2 @@
-str = 'p5y*qm)x6x%=4r[+<}ye}*k]x!-f:g*9d ,uc0>>0?;k1vk')[oareze41&6cb7+='
+str = '(+:,+pa2r}_4ye*rw<h*k%5{h@3xr%+%mcmxx&h^o@lb--r]b)sw&+!w%_ss1,9?['
 print(str)
