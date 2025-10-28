@@ -1,2 +1,2 @@
-str = '0-fc'b)]t-#%<:en_0cp77}9m3vpe(p]0q;np5-&8[dv7%?,)^+$]gi!efwt'wng2'
+str = '4g8oq9>_)_&hyakj76v+pxn5c<4@}vv+g90z5+}t-n'#-l}!^)yvfj-{$z9cq2vf('
 print(str)
