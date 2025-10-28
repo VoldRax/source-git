@@ -1,2 +1,2 @@
-str = 'zx!+}$qf 2q1vka+0w#g?&}q_zj-r8){v(qhlxs1_z84}as+hp&6}um9x_ch1nj :'
+str = 'h0+8@,=?}8<zcm{5%@kys*}wsn{v*3py+<r)j+-=f(u^tls{b8qmm%eb0%<a7?d+7'
 print(str)
