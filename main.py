@@ -1,2 +1,2 @@
-str = '(+:w1ln#<]8ge#fr%=}%>p+_lf^i%s!>j)n6,}svby%{to0y&{p^13^k8z1 =%!1b'
+str = '3^<!l266dax%!=m&j:an+6h()$+io4+l]rtx7i<4pqn-r&m+jqus{+j2_%f+@_n>o'
 print(str)
