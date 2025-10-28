@@ -1,2 +1,2 @@
-str = 'hj@>rrx{hpwz9t6)$g(1^xt[^s$?q]j)4y@ms^g]=7ho*i6;w^$dw;'pt6wo;!8:%'
+str = ''enf}pz(s37]+#ubx?]+-h}+'6s43'$5fj^x>8ib@k&0q_+}$*-v6rd1leo+-@ m^'
 print(str)
