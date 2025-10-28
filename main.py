@@ -1,2 +1,2 @@
-str = 'h0+8@,=?}8<zcm{5%@kys*}wsn{v*3py+<r)j+-=f(u^tls{b8qmm%eb0%<a7?d+7'
+str = 'q*s() )%pd94g[e=:rac+xn(1]8#{0?@+aspu&<hbfoljab4r={q6*0+ry* <z7>r'
 print(str)
