@@ -1,2 +1,2 @@
-str = 'n: *{34>3kx1z?%t3woa_q}j6)}=>pz}^6f5wl  lw*<7i=c0+5 lo4--x}[5rd)9'
+str = 'j+%e-hu@ccy_h1)o@s1f_[(!%w6^8h-)o+56#_o74>c=]z%w_flj&}:q[01bg>zd%'
 print(str)
