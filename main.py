@@ -1,2 +1,2 @@
-str = 'q$o?e+!-p(_,xxg2k edu'+zt3,$+#(;n-h1*p1)+s#?wsi)-i5,nvp8c'0(%v+fr'
+str = 'p5y*qm)x6x%=4r[+<}ye}*k]x!-f:g*9d ,uc0>>0?;k1vk')[oareze41&6cb7+='
 print(str)
