@@ -1,2 +1,2 @@
-str = '3^<!l266dax%!=m&j:an+6h()$+io4+l]rtx7i<4pqn-r&m+jqus{+j2_%f+@_n>o'
+str = '-i-<c@63[3>5yyb$#@pf3^}[ay#)n+]v5qney?1++7a}o+-%k_p-z=zb,)@&jvov2'
 print(str)
