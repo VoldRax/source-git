@@ -1,2 +1,2 @@
-str = 'o+5d?u1;<vr+4ct-4;jo,@z>pl dwc>ju?+:f6{;%o)?_)9jg#^*!b[a4tq-oh_})'
+str = 'n: *{34>3kx1z?%t3woa_q}j6)}=>pz}^6f5wl  lw*<7i=c0+5 lo4--x}[5rd)9'
 print(str)
