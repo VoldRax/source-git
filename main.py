@@ -1,2 +1,2 @@
-str = '1(i98l1@?;u?{i2xf@ijl:d2&=j)g'-(wn@h)*l9e'}-+3=r?s]}az)!7!><,1f_f'
+str = 'o1]u[2,pu6o>(h-&p?w<j>5-}*^2!:ad8o!=& =f!-o^k>&7a6 v;>$gw:h19c51b'
 print(str)
