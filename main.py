@@ -1,2 +1,2 @@
-str = '_-y%[h,b-1x*uuq5j!@e>4'p[_62:kn9haet4z,vm2ep2@<_7fe?l$+'{mu!,j_f''
+str = '[lc@m)^@w4q(etfx2hsjv{g&{vsq}xh!'!='3^ik)itl[wspi3m:&w7tl${d!h+f)'
 print(str)
