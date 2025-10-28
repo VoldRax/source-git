@@ -1,2 +1,2 @@
-str = 'atap-*42^&)1=w8l+m'w!k9'%?q-g1p+31vs)lh_%(7m<(t$q1%s^0 (_0+di!{%}'
+str = 'ua!&*8<i3&>2r>on=5-60$+hgpwfb{x-xe-%{*c&-]+k-'=7j4g},n$}89cb}xs@+'
 print(str)
