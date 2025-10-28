@@ -1,2 +1,2 @@
-str = '[lc@m)^@w4q(etfx2hsjv{g&{vsq}xh!'!='3^ik)itl[wspi3m:&w7tl${d!h+f)'
+str = '5zdq>[7_m-xpx!=5hzdfk}> &dzz*-%8;-w pt(+']?a(nl#q)*fw]39*[+-wz&f*'
 print(str)
