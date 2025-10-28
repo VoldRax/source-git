@@ -1,2 +1,2 @@
-str = 'u1=o@>w2y?n)&e&[v<,+-cx7f!k%+r>pz+m9t=ibe5+ qc(1+u{'r-4%mjn&75xn('
+str = '(+:w1ln#<]8ge#fr%=}%>p+_lf^i%s!>j)n6,}svby%{to0y&{p^13^k8z1 =%!1b'
 print(str)
