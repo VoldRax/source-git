@@ -1,2 +1,2 @@
-str = 'ua!&*8<i3&>2r>on=5-60$+hgpwfb{x-xe-%{*c&-]+k-'=7j4g},n$}89cb}xs@+'
+str = '1(i98l1@?;u?{i2xf@ijl:d2&=j)g'-(wn@h)*l9e'}-+3=r?s]}az)!7!><,1f_f'
 print(str)
