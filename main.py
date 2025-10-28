@@ -1,2 +1,2 @@
-str = 'o1]u[2,pu6o>(h-&p?w<j>5-}*^2!:ad8o!=& =f!-o^k>&7a6 v;>$gw:h19c51b'
+str = 'v_a)0qwvvfj^1l=5q2zof9pdp?s}!'{1)1e*f}q'ku$)!zyf0!?-f+6'>rib}vq27'
 print(str)
