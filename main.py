@@ -1,2 +1,2 @@
-str = '5{a,t{5bv9r%<f)m;3nowyqd2#3(<>hk(prk)7#ro;)^3c;}s+t+#0[3u[-1@,1x3'
+str = '&)p6v_ak30=5?i+6=ol?3xr6-_fg{lvj^$#-i>#m2a}{}fq2ss9x+1p0elglyqhgm'
 print(str)
