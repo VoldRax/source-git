@@ -1,2 +1,2 @@
-str = '+jo${--c5'179t;r:o')e-@$jzgy!$#xapsm{'h;{[8s0jud9pd;r6}v}^swk+-)h'
+str = 'sod:edr&g])){{+$)'8*,{z'*pj$h5_=htrd_?)c_x)p8>)wh%bi-4(asnc426]46'
 print(str)
