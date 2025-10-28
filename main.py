@@ -1,2 +1,2 @@
-str = ''enf}pz(s37]+#ubx?]+-h}+'6s43'$5fj^x>8ib@k&0q_+}$*-v6rd1leo+-@ m^'
+str = 'u1=o@>w2y?n)&e&[v<,+-cx7f!k%+r>pz+m9t=ibe5+ qc(1+u{'r-4%mjn&75xn('
 print(str)
