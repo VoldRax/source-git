@@ -1,2 +1,2 @@
-str = 'v_a)0qwvvfj^1l=5q2zof9pdp?s}!'{1)1e*f}q'ku$)!zyf0!?-f+6'>rib}vq27'
+str = '<bu26#n47__jx:'b0q(>#9pg:*sy+h=}ff-kw<p_43f3_&@4krq}r:suud-m8!]y2'
 print(str)
