@@ -1,2 +1,2 @@
-str = ':@u4,ud^=u4<tb;)7kl@@?o{)@-,nkvunoa5;+&n{aa+0?;r21u14^+av%z84,)]3'
+str = 'ohg5+;4z)!>}2mi 0{$<)a[)umg2p%{!y!0)p>#%(8t=%w]n),*[tq0:q{g]{]k#,'
 print(str)
