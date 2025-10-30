@@ -1,2 +1,2 @@
-str = 'd:q4*<^jhmbs$o?bn5fo2;%p},*+())vw]xz+nv*+4!99p0:pp=)7=@{<_}h)[<&s'
+str = ')0>fp (f;(-w(az-c!fy6oah[scc %j#e>e,2m84,1hc+_r7'#*n}^?h*'5]]ua?,'
 print(str)
