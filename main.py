@@ -1,2 +1,2 @@
-str = 'm' gqw2e^9ez0n38(>u8:#0% yg5+=dm}]%o$z>4m?<2<mp>[3<)^[{b8_fzctsb5'
+str = ':) %{)q<v?<]ijue,k?<p:e!<?[6w^8?-(eiodn}3t==vp{6;8+q-d#z^x-^+n6zj'
 print(str)
