@@ -1,2 +1,2 @@
-str = 'h%t5<,sg):-gu>+]j-f)-w8>92s@]{<6j@+-+&;*x(w(azi^b=e%<6u%x><gt@v:!'
+str = 'gmnswl2x@06d9j<n-&,xxy>w)q%)6n],o)r]l1@icv5)+c>[t&$jo@h$0-ry_5a^v'
 print(str)
