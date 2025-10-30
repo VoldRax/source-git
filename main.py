@@ -1,2 +1,2 @@
-str = 'z ad)2k@7h5;*hia^t!a5 -;26exbm<q{lj-c8)';]&v[z_n-;dbn@:*l1qh?{nxn'
+str = '+,k6p5j*+f][0<?v&#ymvbz^4-0o_*8^wlf2ya->#!t}078^{+lqu$fq:s[[[$['3'
 print(str)
