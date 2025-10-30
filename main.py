@@ -1,2 +1,2 @@
-str = ')<wd!c>{09dk}b1]<:#x,]=x?}pqc+y-ts+7]am*k>_8-9@ob %p_]{pdtt >o#?+'
+str = 'y&(q!x(hz=zl8kq-^#*,({^nr_s)_)xjtt)td$,{]rvj?fiav*z-8%9_)?&58(h:i'
 print(str)
