@@ -1,2 +1,2 @@
-str = 'm#;z;=j[yn6647v^8q4_qyn5pav])s]0t?=7vk*2zq6h -yrr<p}v,ce[?<3#11uk'
+str = '-ge1fgj<v_g?7cez5:7;xr-sh0-[c8m(+s}r?)n1o?byiei)w&3i5?he' k%<x-+;'
 print(str)
