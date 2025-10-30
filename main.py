@@ -1,2 +1,2 @@
-str = 'x8560?&->?a{id_6h%<uy-+<=tx8z{w,i=^t[3((-vf?l x2a*71v+!4,1oqb[6t0'
+str = '&nw{%,[2e7g_e2z1i=^y],{}}q[6--[g#dc0,8et1[j#):$c-7)&y!8+c+}zra%q4'
 print(str)
