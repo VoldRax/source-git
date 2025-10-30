@@ -1,2 +1,2 @@
-str = 'r=>:+f x-0! ac)j]4)x)b:&(tr%)]]x?<s{<(<*=v%{<2!qtm?,pt*f0r+'=qc)+'
+str = '#p-p))1t* 0:+wc7vt^*4x,8o0$>)t-y)6n]*,y>@&!d>:0wx)td071xl)]y70>92'
 print(str)
