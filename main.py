@@ -1,2 +1,2 @@
-str = 'k8^)?(-*#+*=vrqsoy%$+62_ysz?+:}220!di*+6+a7_*%)h& %>ih<1j=^cem(8{'
+str = '^z#+2+%^{  7(2{x:7nl]ua[++;2)o+ha@z3)u_wm)sf):-o)&[gzx4*1&m04ud$['
 print(str)
