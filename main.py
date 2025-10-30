@@ -1,2 +1,2 @@
-str = 't-iv]kplg<_lgld3#wa+>9lcp+-9*+%[)7%n+v]?+(=9'8;b^wd-wj@>0kmut[h!o'
+str = '_d$1#5k,u5mlbs2}{&lz<)c=;f]n#8+h%;?)>=vx4>168(-f}w[m='9v'+s4('%ao'
 print(str)
