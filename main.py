@@ -1,2 +1,2 @@
-str = '!-$)s&<ti:%ze)ej6z] [4ast 87 *-v5k+ 8lo;l)ae@8zmj%c2+${#:j-obsk+^'
+str = 'iv<b)c9g1)julic)u^'tk]c3*mx+;ld+>4-b$+fb&,7k:vrmq}sf?d,>u]z9[&)'u'
 print(str)
