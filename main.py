@@ -1,2 +1,2 @@
-str = 'p2?>imw,r#aml*27t$+s-gsm6jeha_k7@+10fl+tni>_0-z+-6-d&,p-l4xb[34 )'
+str = '7dc2#fc_w'cs)[4g_t&)-ih}fb))[u0_t:(i{3fv6i}k04m3r)%87pz+0xc_gg5p@'
 print(str)
