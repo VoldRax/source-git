@@ -1,2 +1,2 @@
-str = 'c%!i%[-7f9m!0gr^?383iynz<03^[6lr0#yghln'g*+spk}819e@v)d;[9d=}+t&5'
+str = '4;{<zt<3o-bu 9(xv9j%50a)w<hj?o*>*1)_1(fn:x_d^*8cv!cv4a!cwu@(&7zw}'
 print(str)
