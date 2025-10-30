@@ -1,2 +1,2 @@
-str = '1-y(eu^[>(57?od:pkn+{$^pg]zw$6ubt-)&g^ @p}%{wv'h'^6%0y_>7ahg}p-5u'
+str = 'c&,)*d+9g%o4*3{q9_p*$^3(i5de726v@y5ki32yk]=()_^ecw((- +83<]o&r+}i'
 print(str)
