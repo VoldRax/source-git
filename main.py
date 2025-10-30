@@ -1,2 +1,2 @@
-str = '%1l> ^qx&o$k,ks&x!1q]kb>7%<%z)1ak>&un^]3?{76z+)qwp)la5=1;%3a%6v2n'
+str = '^umba<5)9[}_lap,jwe ]h72{@45l-t$9f[p{]3o)t]mx=s^h!bj>]q&b%o:{*-5q'
 print(str)
