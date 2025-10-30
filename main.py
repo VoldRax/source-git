@@ -1,2 +1,2 @@
-str = '4]l}}@{r&^)#bu-#??>$+-$k8-zi@^83t;+=;%rhvnxhk;;q?h?,)56k72_%c)ea@'
+str = 'tqo!]:{<aw1!!30dx;9^jzt7jg-+hi{!&r+=;$;wiwtqc;q=u, (?b[7=ctan$jp-'
 print(str)
