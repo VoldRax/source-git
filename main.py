@@ -1,2 +1,2 @@
-str = 'q!%<@6 k!*zz*1>]g4]4v>q]+}n4a<0cb1qk8_5_&8)?lm;]$,nw<>5!+[c> ue#&'
+str = '^} >ei%t(r-1e(j-o_,!i!q7yw:1'8@}yk$%)e:102-u2@v_!_78sy$wrb#j@q'$1'
 print(str)
