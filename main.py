@@ -1,2 +1,2 @@
-str = 'i)z)w)}>;f!+}b+)y;gt[g_]k)%_+=^wljl[<_3 (vv%f*-v_-}kj}mw)oi0}%^-<'
+str = '=3[bqcx-*v'xu5$sw3g4% =d14*v(h^za24d(0 ^!%bx{#p!&'}i<+$*jt ,iq$=_'
 print(str)
