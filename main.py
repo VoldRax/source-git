@@ -1,2 +1,2 @@
-str = '+^a[<hi!jqez<e}op'dh)=ytq0{b*4h!ks{02o8cq=,<+pq:-k+:;(#?k>q+?bhg*'
+str = '-7nvo->t!$qiw406$]7?98,+>1-%ad}zfpan3)(!z-@o?akakf-oi&p]';]kl),#>'
 print(str)
