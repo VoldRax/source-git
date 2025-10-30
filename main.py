@@ -1,2 +1,2 @@
-str = '#$x,&{)!n1=la(#^a#':t=*}lg[h0527x1ff++uq,3?k01,9xo33,(5 7j+f>39}p'
+str = 'o@<+- 2h]x^54{th)d)}'_>q8e3js5dg+-!f59, =f%#uoy ,f3w3-a@6,2--c3e4'
 print(str)
