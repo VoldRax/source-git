@@ -1,2 +1,2 @@
-str = 'ohg5+;4z)!>}2mi 0{$<)a[)umg2p%{!y!0)p>#%(8t=%w]n),*[tq0:q{g]{]k#,'
+str = '!-$)s&<ti:%ze)ej6z] [4ast 87 *-v5k+ 8lo;l)ae@8zmj%c2+${#:j-obsk+^'
 print(str)
