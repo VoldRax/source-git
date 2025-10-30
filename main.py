@@ -1,2 +1,2 @@
-str = 'nizal<!),)!;>&&3p,d)xte20,xpp1}g;dd69$p-;2_k?+{2g37z#w# -^v)1c#*>'
+str = '' d)+}cf']q!>-i^3w3s,:+1y[6d2!u( p>(8&y&#+vad^9i74@4##:=f7:#!:&<b'
 print(str)
