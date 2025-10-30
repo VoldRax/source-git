@@ -1,2 +1,2 @@
-str = 'br>k@g}y)r]:n@*;-ufxn>u&{+=7*+l9+p:7!8gnv(#-:+3m5+2d(@<&xd72h8dg!'
+str = '5uhd)!s-4w;] ,d@bta;d:5pcapu-=bfd7w76gqm?vmoin{cx}n&-8+o{z7[$aimm'
 print(str)
