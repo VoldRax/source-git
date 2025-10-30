@@ -1,2 +1,2 @@
-str = '{*%!(;w+@yo2e={r]8]:y#=[%]>;4)vop)xm@[6d-9h>@$!)x@@q8i>w+5yc3d,t]'
+str = 'o{?$vur0 =4!&u8}5;+_3wif 6bo#+v}g20*${-j8q}1*f:*@<3]_mhb4d5+1wc)!'
 print(str)
