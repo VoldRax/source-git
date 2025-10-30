@@ -1,2 +1,2 @@
-str = '5uhd)!s-4w;] ,d@bta;d:5pcapu-=bfd7w76gqm?vmoin{cx}n&-8+o{z7[$aimm'
+str = '{*%!(;w+@yo2e={r]8]:y#=[%]>;4)vop)xm@[6d-9h>@$!)x@@q8i>w+5yc3d,t]'
 print(str)
