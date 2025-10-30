@@ -1,2 +1,2 @@
-str = '_c],[!_({ 5x*>cge=>430&g<#:-32=w)b*?-# -;bj5#:9#024@?<]-^d6d_sd+o'
+str = '<dfd $rekw9sjx$9fjr'u@'}{f',ip(?y6,,-3drrvj!kthg*f5@)oq-06l)%$)t*'
 print(str)
