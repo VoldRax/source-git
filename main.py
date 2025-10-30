@@ -1,2 +1,2 @@
-str = 'nvmgd_vur'9eq{9i*d3^&_{d{9xi+yc+),13vk<51s_hiz-tlu:]0'}p>e]g% '^m'
+str = '2{-]=,a[#20:g'ww:q)=bkjfkg%g9!>:3t?jez&#uk*)){po##h+5?}20:)u9'i=)'
 print(str)
