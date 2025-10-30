@@ -1,2 +1,2 @@
-str = '[z7]mzl[;$-%?=o4)80i&vn{v='vj&4w>t 4:3ht[+3qh[+;4c-s,fs09?-o)nf]p'
+str = 'nizal<!),)!;>&&3p,d)xte20,xpp1}g;dd69$p-;2_k?+{2g37z#w# -^v)1c#*>'
 print(str)
