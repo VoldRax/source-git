@@ -1,2 +1,2 @@
-str = '(93rt$<cms,+r[_2obs_ip!- 6%dw*? 11$0rx@]->2&mm_)w0f-_9 yyv:-!><m1'
+str = 'r=>:+f x-0! ac)j]4)x)b:&(tr%)]]x?<s{<(<*=v%{<2!qtm?,pt*f0r+'=qc)+'
 print(str)
