@@ -1,2 +1,2 @@
-str = '++3pru5-:lp^'j('03_-] o^5in}o_*cz-7o3+mo-(s5c(+$bs-:88s>!h))4%u}}'
+str = 'i@j n!?j:2f{f[e@n+<--5(j8f':6)+e+i-n,twvqgr8%ue!<:u_>74 }8'@7h44s'
 print(str)
