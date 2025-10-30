@@ -1,2 +1,2 @@
-str = 'q89z27x8<$-<#6os?_!dt8%3s-1x$7=-q%d#?a>o74q[q6h:k^<-=al(-z_+ udbj'
+str = 'x19s63&sj7o#k95@!0{->>^ng>%y}o8!i31x:m608)ob23pu^8{u-7#a@?6g?+-c!'
 print(str)
