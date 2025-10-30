@@ -1,2 +1,2 @@
-str = '^l;m@lvb@5&''dpe370o<*i5dyuf={ligl}3io^_==]=#w>_<,%+['k,i${()tvm2'
+str = '&q3)yr:+6q@d?b2!8'x]p7qd)]ph{vkv*my zya}%!k@7ape+&'$dm'=dk]?j@#;:'
 print(str)
