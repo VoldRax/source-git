@@ -1,2 +1,2 @@
-str = 'y&(q!x(hz=zl8kq-^#*,({^nr_s)_)xjtt)td$,{]rvj?fiav*z-8%9_)?&58(h:i'
+str = 'po6!-):zjqfikv-yf+1f*qn5379opz4k-6#sy#?+*@)+dc^-!(uz4tx,@>0!346<t'
 print(str)
