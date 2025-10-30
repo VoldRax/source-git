@@ -1,2 +1,2 @@
-str = '$()+8<y+!fo2'd8$60hzheon7($;j^z:mf-0b{63%ci1yo+b@m-w*}:g5-:(}r$37'
+str = 'q!%<@6 k!*zz*1>]g4]4v>q]+}n4a<0cb1qk8_5_&8)?lm;]$,nw<>5!+[c> ue#&'
 print(str)
