@@ -1,2 +1,2 @@
-str = 'po6!-):zjqfikv-yf+1f*qn5379opz4k-6#sy#?+*@)+dc^-!(uz4tx,@>0!346<t'
+str = 'j9j&q3h2lv%-ra'w?$<=+'!*7 36mg!6c(9qrzp_r})]+c6*-o^ot-drm>^<i<_97'
 print(str)
