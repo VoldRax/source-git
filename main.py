@@ -1,2 +1,2 @@
-str = '2{-]=,a[#20:g'ww:q)=bkjfkg%g9!>:3t?jez&#uk*)){po##h+5?}20:)u9'i=)'
+str = '^r=+d)'1z+?892!!_6+s'@afq7$*%3(2tsfa!^$q=x@,4^3b%e)xm'g0zm(3l}cax'
 print(str)
