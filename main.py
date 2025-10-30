@@ -1,2 +1,2 @@
-str = ')?b,'6ryit*dc h0h])3<lh*$7y$xv-23w^u-;*omv,1$,l!?bzngj jp}@w'o_9m'
+str = 'q89z27x8<$-<#6os?_!dt8%3s-1x$7=-q%d#?a>o74q[q6h:k^<-=al(-z_+ udbj'
 print(str)
