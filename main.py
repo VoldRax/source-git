@@ -1,2 +1,2 @@
-str = '}50@7j))m7egjq]+r{z$q-+ v_9@?7>c[ycv$>417g+c+{gmq6}>#-['6]zkb(76s'
+str = '#^-@nqs;esk(z2q[{nsx+y}qx*$5h]21-b1285fz%(hf9, b71oc$)4$}shcjtjj]'
 print(str)
