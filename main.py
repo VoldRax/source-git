@@ -1,2 +1,2 @@
-str = 'tqo!]:{<aw1!!30dx;9^jzt7jg-+hi{!&r+=;$;wiwtqc;q=u, (?b[7=ctan$jp-'
+str = 'k8^)?(-*#+*=vrqsoy%$+62_ysz?+:}220!di*+6+a7_*%)h& %>ih<1j=^cem(8{'
 print(str)
