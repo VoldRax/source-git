@@ -1,2 +1,2 @@
-str = '619+6-k>w]2{#!q)?6$'n$#a8n0%w']nf8]2(-2+'kr1pkdazb+vi*>:!--c3-+>='
+str = 'z ad)2k@7h5;*hia^t!a5 -;26exbm<q{lj-c8)';]&v[z_n-;dbn@:*l1qh?{nxn'
 print(str)
