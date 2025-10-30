@@ -1,2 +1,2 @@
-str = '5zdq>[7_m-xpx!=5hzdfk}> &dzz*-%8;-w pt(+']?a(nl#q)*fw]39*[+-wz&f*'
+str = 'xe>i!afr_5z{0jm0[#r1g$+3o{^u?e3-a-zr1wq#u&>rlp=ucv,!g!:n^&)p+#z(y'
 print(str)
