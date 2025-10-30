@@ -1,2 +1,2 @@
-str = 'o{?$vur0 =4!&u8}5;+_3wif 6bo#+v}g20*${-j8q}1*f:*@<3]_mhb4d5+1wc)!'
+str = 'he+5!9p_-($r:pg,)o+)5-i+h[e$[w0>ny)f)smfr^i7'mgz_+5z>w%[+sc4'z&$('
 print(str)
