@@ -1,2 +1,2 @@
-str = ' 7k=s^15y_  e'p6-o]y05_>,*qs=vd6ita#[obk'ju%1lnajkwmd&-!t_b,,%jhy'
+str = 'br>k@g}y)r]:n@*;-ufxn>u&{+=7*+l9+p:7!8gnv(#-:+3m5+2d(@<&xd72h8dg!'
 print(str)
