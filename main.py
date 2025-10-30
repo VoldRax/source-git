@@ -1,2 +1,2 @@
-str = '^} >ei%t(r-1e(j-o_,!i!q7yw:1'8@}yk$%)e:102-u2@v_!_78sy$wrb#j@q'$1'
+str = 'c%!i%[-7f9m!0gr^?383iynz<03^[6lr0#yghln'g*+spk}819e@v)d;[9d=}+t&5'
 print(str)
