@@ -1,2 +1,2 @@
-str = '2x$=$o(rz,1}m 4+0)722a2,jv&yiwbq{bc3)22&[k3hmm35sqi8x-a$*-s>adkzx'
+str = 'r,s)-8't]((@$!q+z:t3{-nx'%&l$nzf)l-bma=j6+<: )ze$(+v2q*;l6e,^d!?('
 print(str)
