@@ -1,2 +1,2 @@
-str = ');3b3qd!9m%{1&-+'2o1<i94?cw;y;ul!{,d)6(v0;nq=1h_v<+(%',xb<><>+:$q'
+str = '{k}?a^ g4}+xt$)>){'[8$,vi#a}eoah--r[kurnxjk0c'q-0xot6hi&(#&=c'm8w'
 print(str)
