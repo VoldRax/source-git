@@ -1,2 +1,2 @@
-str = ')0>fp (f;(-w(az-c!fy6oah[scc %j#e>e,2m84,1hc+_r7'#*n}^?h*'5]]ua?,'
+str = 'db?1@vq0@t)=:=+@t<v#00z-jy6 ;2)oa9?(j{4zh)o%ln*=l#}l['=x1d1v8?s{m'
 print(str)
