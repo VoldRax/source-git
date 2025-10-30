@@ -1,2 +1,2 @@
-str = '8[r6%=?=jj3%?6!p$8hc0h+1{=z3hn013-!4'lbd}ivdcl=s5v8<l0+3=fysk#7?m'
+str = ',*r9#!$ aux>ppx{%<)4ni7clsk>ck$n<-y3=wz0^^?b?%+r*&hej>jit4]yi_4]%'
 print(str)
