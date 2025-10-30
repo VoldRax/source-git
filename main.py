@@ -1,2 +1,2 @@
-str = '=usu)-4,xck>tra3_o3{e8=bvvh4k2&&sy0?$%[(q*<^,5su)m2+o0+vkyrp2eub>'
+str = '6?x_8bhix>sz_j<l,m,zx))r4j!d[+avi))}o0wct+x$c+d*?<p]&v2w=xv2t8{=+'
 print(str)
