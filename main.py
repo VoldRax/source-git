@@ -1,2 +1,2 @@
-str = '^)654='06})bvn>@e:jr]-z)=,)oio+)&_?]-s4>-?1h4z>>qhlma?85?'iwxd[$c'
+str = 'p2?>imw,r#aml*27t$+s-gsm6jeha_k7@+10fl+tni>_0-z+-6-d&,p-l4xb[34 )'
 print(str)
