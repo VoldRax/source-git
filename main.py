@@ -1,2 +1,2 @@
-str = '2zvu!)]gl@@d)4j@&s5'@g67%?]d9o+1-q)2+x<'3p'{n_x7<s'l^jrlj1=i%#bt)'
+str = '+w#i4o+)xe03vb0:hd3kdy9)q;6v0mh!g+,={>a#[^9dd<h=$q:j #:zuz9 ef_je'
 print(str)
