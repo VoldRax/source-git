@@ -1,2 +1,2 @@
-str = '-ge1fgj<v_g?7cez5:7;xr-sh0-[c8m(+s}r?)n1o?byiei)w&3i5?he' k%<x-+;'
+str = 'pqk>n6ie-c})v_'1yc+1<a[e+{<?1oukhaf=8-)x3$kxn{-;#a[03}g)i[#ll^:_<'
 print(str)
