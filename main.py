@@ -1,2 +1,2 @@
-str = '{k}?a^ g4}+xt$)>){'[8$,vi#a}eoah--r[kurnxjk0c'q-0xot6hi&(#&=c'm8w'
+str = 'z3;m+u'c%omt107>*q+3_q>>*l@zk,xo*'m$o->!_@1!byg$,]z,l@p5+['1? s2&'
 print(str)
