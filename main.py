@@ -1,2 +1,2 @@
-str = '=3[bqcx-*v'xu5$sw3g4% =d14*v(h^za24d(0 ^!%bx{#p!&'}i<+$*jt ,iq$=_'
+str = '4]l}}@{r&^)#bu-#??>$+-$k8-zi@^83t;+=;%rhvnxhk;;q?h?,)56k72_%c)ea@'
 print(str)
