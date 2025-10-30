@@ -1,2 +1,2 @@
-str = '@6{!'g;'+tk{r)<!{-+@n;nxni#+)tb7ye'ub5gfk3bi*8%=$s_xg+s6%^g* &%g3'
+str = '2x$=$o(rz,1}m 4+0)722a2,jv&yiwbq{bc3)22&[k3hmm35sqi8x-a$*-s>adkzx'
 print(str)
