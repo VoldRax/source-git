@@ -1,2 +1,2 @@
-str = ' ym,'}0:hx80>nrsg0>4&a6)^>,q#7[4vv,gz^23x2c]^z$)s1f&o@_k>b2m*%0ow'
+str = '619+6-k>w]2{#!q)?6$'n$#a8n0%w']nf8]2(-2+'kr1pkdazb+vi*>:!--c3-+>='
 print(str)
