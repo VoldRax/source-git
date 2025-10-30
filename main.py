@@ -1,2 +1,2 @@
-str = '?%=,6m1r-5m+3ki-lm%y2;ohq5g!x]i}rcj0]dq@zl$e[8{(ow#(<-6ub[j>2>je{'
+str = 'x^b;53e?jdn'- -f8-ux8=f(8]coq9cj=3ua;zg)%*7u1(pd'q)g2]$f;vgj$qryy'
 print(str)
