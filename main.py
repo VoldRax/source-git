@@ -1,2 +1,2 @@
-str = '}zh-+?63;l&ki]:$o9b'ou(fg'l)}5!!:6{'pyn^j-ap%l!d*4z65e%0%lr;e03)p'
+str = '07ie;}&n_=v({dny<w!?{u]m1wvrv5>tpfrb?vnjf):(>-l75f{1n-t$')nwm4,l)'
 print(str)
