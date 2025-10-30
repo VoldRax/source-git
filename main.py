@@ -1,2 +1,2 @@
-str = 'he+5!9p_-($r:pg,)o+)5-i+h[e$[w0>ny)f)smfr^i7'mgz_+5z>w%[+sc4'z&$('
+str = '_c],[!_({ 5x*>cge=>430&g<#:-32=w)b*?-# -;bj5#:9#024@?<]-^d6d_sd+o'
 print(str)
