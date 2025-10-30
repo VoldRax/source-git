@@ -1,2 +1,2 @@
-str = '_d$1#5k,u5mlbs2}{&lz<)c=;f]n#8+h%;?)>=vx4>168(-f}w[m='9v'+s4('%ao'
+str = 'qy({5,{8ad@ku^csff^dqp&=k^$>h:6]amn)'x6g5_)g,mo$ 7+me8[e^f#'^=5s#'
 print(str)
