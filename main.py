@@ -1,2 +1,2 @@
-str = 'c&,)*d+9g%o4*3{q9_p*$^3(i5de726v@y5ki32yk]=()_^ecw((- +83<]o&r+}i'
+str = '}50@7j))m7egjq]+r{z$q-+ v_9@?7>c[ycv$>417g+c+{gmq6}>#-['6]zkb(76s'
 print(str)
