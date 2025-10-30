@@ -1,2 +1,2 @@
-str = 'qy({5,{8ad@ku^csff^dqp&=k^$>h:6]amn)'x6g5_)g,mo$ 7+me8[e^f#'^=5s#'
+str = 'lc]({f^nxxyl,f147s$h,9*_+p]%=p)d+f);y@'yv{fex&x}yjyc> ]q$mlkpw{ox'
 print(str)
