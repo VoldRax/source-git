@@ -1,2 +1,2 @@
-str = 'o@<+- 2h]x^54{th)d)}'_>q8e3js5dg+-!f59, =f%#uoy ,f3w3-a@6,2--c3e4'
+str = 'd:q4*<^jhmbs$o?bn5fo2;%p},*+())vw]xz+nv*+4!99p0:pp=)7=@{<_}h)[<&s'
 print(str)
