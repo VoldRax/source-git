@@ -1,2 +1,2 @@
-str = 'ls5m2(jczd?2[)x-1g:ow@00,o(}}y-j}n',0u%@e[73sh<r+$lo<)auom#xcd2},'
+str = '@6{!'g;'+tk{r)<!{-+@n;nxni#+)tb7ye'ub5gfk3bi*8%=$s_xg+s6%^g* &%g3'
 print(str)
