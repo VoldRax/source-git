@@ -1,2 +1,2 @@
-str = 'x^b;53e?jdn'- -f8-ux8=f(8]coq9cj=3ua;zg)%*7u1(pd'q)g2]$f;vgj$qryy'
+str = ' ym,'}0:hx80>nrsg0>4&a6)^>,q#7[4vv,gz^23x2c]^z$)s1f&o@_k>b2m*%0ow'
 print(str)
