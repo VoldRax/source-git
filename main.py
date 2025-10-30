@@ -1,2 +1,2 @@
-str = '+t nhv5+wmi]0cp9zy_}}+,!eb;&mw@c@ub8ud$+f;$^v+2u,g%;gl[]?myl]:7a]'
+str = '$()+8<y+!fo2'd8$60hzheon7($;j^z:mf-0b{63%ci1yo+b@m-w*}:g5-:(}r$37'
 print(str)
