@@ -1,2 +1,2 @@
-str = '#[!m(<b4!w#'$#x%@)l6172giivz!1)_$(*3$xr x1m&i&ib7$>[3hcv4t[%)w7n^'
+str = 'bi@jv[x&5=y&#<=y;q)^-!&<o9{3zc6)yh?(z]2_#-i5+g?5-cdf,5%5==mjg5kb@'
 print(str)
