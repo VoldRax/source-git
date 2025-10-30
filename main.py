@@ -1,2 +1,2 @@
-str = '+w#i4o+)xe03vb0:hd3kdy9)q;6v0mh!g+,={>a#[^9dd<h=$q:j #:zuz9 ef_je'
+str = '+t nhv5+wmi]0cp9zy_}}+,!eb;&mw@c@ub8ud$+f;$^v+2u,g%;gl[]?myl]:7a]'
 print(str)
