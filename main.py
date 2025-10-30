@@ -1,2 +1,2 @@
-str = '+,k6p5j*+f][0<?v&#ymvbz^4-0o_*8^wlf2ya->#!t}078^{+lqu$fq:s[[[$['3'
+str = '^l;m@lvb@5&''dpe370o<*i5dyuf={ligl}3io^_==]=#w>_<,%+['k,i${()tvm2'
 print(str)
