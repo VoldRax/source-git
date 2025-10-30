@@ -1,2 +1,2 @@
-str = '07ie;}&n_=v({dny<w!?{u]m1wvrv5>tpfrb?vnjf):(>-l75f{1n-t$')nwm4,l)'
+str = 't-iv]kplg<_lgld3#wa+>9lcp+-9*+%[)7%n+v]?+(=9'8;b^wd-wj@>0kmut[h!o'
 print(str)
