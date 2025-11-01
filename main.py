@@ -1,2 +1,2 @@
-str = 'u4e1*ftrn_nw0mb+3)&=<r,mmm)>2i+u{-bv{k_')c5i;@;eg^wzdi]folur(@x4$'
+str = '^n(<g(xp+*e]lbzi@f'5 j_r g_e&{]q5m{:uk!gxlfk?7v*2f_ c*;ao?t?)6+)k'
 print(str)
