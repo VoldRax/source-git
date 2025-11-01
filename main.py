@@ -1,2 +1,2 @@
-str = '?i[o'o{jn{-y_s!@3}[ fc)er&lx:?wk6,{0#wv;0'-j=sv@-5{r ),{$74i{o$4h'
+str = ''rq r=3xa33hfgufco=%o)n*9d wy+5+i^-pmv}'q4<^{[-$}}f+?g+)xx*sp?)<#'
 print(str)
