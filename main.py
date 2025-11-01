@@ -1,2 +1,2 @@
-str = '6ul<^+#-g+^e><6+)[0' o20}z]7b(u4j+e)w]zz2-8n[7&f;_*d105:+)+zo^a!9'
+str = '+s[t%wyz]>#-{o?hbf-83+6 9m,'&r4lzj:q<$9+@-i3)etoo5m{ct*x{;9a,6?a]'
 print(str)
