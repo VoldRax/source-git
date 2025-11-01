@@ -1,2 +1,2 @@
-str = 'qp(v?@1,_l&-okez#pf$!val6b<_[f7+,@+xnl<86 &+w* q<;#zv]+7- )-;6}8$'
+str = '^s@1bv6v^>$}0g>6)-+p&vly)z2f:m4g9b?m0c%bv4y$k=s@>9<a&]%te%pqec+8t'
 print(str)
