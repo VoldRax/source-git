@@ -1,2 +1,2 @@
-str = '^n(<g(xp+*e]lbzi@f'5 j_r g_e&{]q5m{:uk!gxlfk?7v*2f_ c*;ao?t?)6+)k'
+str = '>s0+? 5+=rd8ua4h >o-nn$xel:x++u[yz$+^x&80d*c!2$h']t<*2h1;;52i7uzl'
 print(str)
