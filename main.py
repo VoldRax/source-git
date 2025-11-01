@@ -1,2 +1,2 @@
-str = '!i)py4+t+@&]<d$?f>j6i_+gwx+75g?}),g?*t 9%q6oi8j(o#n4qh} 7h6j):986'
+str = '&,xi3}3=a[3$g-y6jwjrsf:9j}?s9c9a3t[xow2<,-0ix36x}{qsn-e%0&+q$t0,j'
 print(str)
