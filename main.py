@@ -1,2 +1,2 @@
-str = 'iu2md= -#9y7&b5o>(qul^+)0ng!8:z<b{*]yg^:+!tn=u])$<@)+8at(+[^ypdea'
+str = ' 4(>46m3'93odp@k:?]+y;?f8+g'!?;7q7')evie)t,$m,i}-62$$u=u}qo+&rkwi'
 print(str)
