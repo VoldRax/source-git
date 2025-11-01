@@ -1,2 +1,2 @@
-str = 'f_=r=+*@?v:?^muw$y:-s5w![>9:-)oz!uabka+y*6-sun6z{}6-]27q99%n4s8gr'
+str = '4v1)m?8?4<=q1{$fno_:oz5+c!}-4*o_+zw)u,16[>lmhj!,=7;+) )e1?7&wj}iy'
 print(str)
