@@ -1,2 +1,2 @@
-str = ')p8-u>:9$$;9oz*q0ncac+19,4y1o7b*$w&g6+6sg:}ol6oma-axby-!<?q5rsxkv'
+str = '{=r [{sgpi>=*!yr-9c4(op=b,=vs[_+^>>7o++*83o3'!)9jh5pa!g8ulizh'(@4'
 print(str)
