@@ -1,2 +1,2 @@
-str = '0pqxg?7],v$qqxrn;g kz+_:5]6<({+jgpasi5g+^-s2z-8_*w<>q7'a7=b7??7}8'
+str = '+v9b6}d)=;i4-%u)ow3)*##u#!2,g-yf']9+ 7 8'yx4=v%)nvd0nkz_hb '?@2(l'
 print(str)
