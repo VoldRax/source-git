@@ -1,2 +1,2 @@
-str = 'gpf2fmy<bz$)[a%;1_t>2iu4?5b)i,+!sa+'z5-louet6+{j4gf2kv]4wfd)-)+@)'
+str = 'v)n)*)q:t+n]i'=lsh2-qa+ !mv=i6grp#?6{kf-t?7#7o^a',0u^v++wnz^5]q(f'
 print(str)
