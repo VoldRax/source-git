@@ -1,2 +1,2 @@
-str = '4v1)m?8?4<=q1{$fno_:oz5+c!}-4*o_+zw)u,16[>lmhj!,=7;+) )e1?7&wj}iy'
+str = '+bt70p^#+k6z#m-jo:(g7:@}k[ 4_94i0$m#pt6e8i-3fhiix7>6v:w1e%2gnpvq0'
 print(str)
