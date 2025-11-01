@@ -1,2 +1,2 @@
-str = '^+m(<&)+&_?,t);'^ok-+kw7j3l)n!snof7>*smlm-z=t-b()#'t-ci-es0dx+,&8'
+str = 'z+0x%mt;z^7o953bw<<s-$mr0g^&lvv1sad<8;p[iye>),_{@o,t-lrn2+s<6ejvq'
 print(str)
