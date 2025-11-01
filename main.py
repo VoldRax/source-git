@@ -1,2 +1,2 @@
-str = 'kf5@7h5t4^v!d3,^^7>-<z2+=!4&uip>qi-5f-o:^cerp[k]4}^<2 $_8czo#qbdg'
+str = '?i[o'o{jn{-y_s!@3}[ fc)er&lx:?wk6,{0#wv;0'-j=sv@-5{r ),{$74i{o$4h'
 print(str)
