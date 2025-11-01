@@ -1,2 +1,2 @@
-str = 'tu^}uc co{tu+y+<s##b'2ie$0ew}?s$8!i'3-l=:fw0p;m^98n@_47r8vrr)s<-$'
+str = '!i)py4+t+@&]<d$?f>j6i_+gwx+75g?}),g?*t 9%q6oi8j(o#n4qh} 7h6j):986'
 print(str)
