@@ -1,2 +1,2 @@
-str = 'd@)4?*'+r[p@) '-8p<4w46^-hb@s+[15h<u-$}}4^;v:[ v-<&y9+4c>,+f1ek{1'
+str = 'n{e5i+kz!0fus4u)j4#'c{#w@db{*,[rea@zgf,x95[o(cumr6^-?sprk+:l&-0z5'
 print(str)
