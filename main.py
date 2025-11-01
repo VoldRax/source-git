@@ -1,2 +1,2 @@
-str = ''rq r=3xa33hfgufco=%o)n*9d wy+5+i^-pmv}'q4<^{[-$}}f+?g+)xx*sp?)<#'
+str = ' 0#$l])hy1wwuo n,0sqmjeiv)};?9 []phk2 tm:?2tfp*>7cm* tk)8}s (smjf'
 print(str)
