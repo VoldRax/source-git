@@ -1,2 +1,2 @@
-str = '?sfh9n{^m9j!d#jb!^wn{^7]a*q7'(gudhb6$x}oi&l3,a5-+<8?!>}h,q4g'5(a+'
+str = '0q'p^&>+boq!]7&e!df?h*en-mv;s+c#b#i0)w3woh=e=bg}t-9it,f?p(h]>$$-e'
 print(str)
