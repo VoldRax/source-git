@@ -1,2 +1,2 @@
-str = 'z48vi^b008e 6@&%y_f-q_kd[q%ug*zs!h]-?c$nt's0w>_r;2k({25k':4gk=d9+'
+str = 'w_v6xb4+83>;)) zfr{2>+*&zauy-*-^rpsv+%+m?w?i1[(8>65o{)2698,6=*cy+'
 print(str)
