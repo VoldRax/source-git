@@ -1,2 +1,2 @@
-str = '%3!h{jk5uv-!-n?3mr-&cbucw@h@7-b5_&s'bs]([{cig{uu+ 4>}>f$27w51$ 7k'
+str = '9ivq? lb)i,9(zw* 2,%pj;fl5nu1^eqkku85a49w ce-8o6a*;c:i+dn1))y+[-g'
 print(str)
