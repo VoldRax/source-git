@@ -1,2 +1,2 @@
-str = 'g^}6o2g+g-*g2u> (_ [^rf(kvcpke)!+(:i=(tg[zlw-3180{f#r-{5}*sk1he_d'
+str = '%t0bbbd&%%z&w)xlo$bj;?(*v+h{,xt;?i+!owwk[!:lb-7v3lo3lot5-,+b8u60('
 print(str)
