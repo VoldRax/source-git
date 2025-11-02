@@ -1,2 +1,2 @@
-str = '%x#1:*t>h!g-4qcx])5[w++03+7d[l6:< -(5(sxs gi2'x6y}gm(+:*pa6n4<dy^'
+str = '%3!h{jk5uv-!-n?3mr-&cbucw@h@7-b5_&s'bs]([{cig{uu+ 4>}>f$27w51$ 7k'
 print(str)
