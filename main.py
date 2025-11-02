@@ -1,2 +1,2 @@
-str = '^yr4b#j[wo}9([1]?)uqx@n]n(4- 0'w1%b0@vm>${-+gx)+efm);$!y+5,@>{ctr'
+str = '?sfh9n{^m9j!d#jb!^wn{^7]a*q7'(gudhb6$x}oi&l3,a5-+<8?!>}h,q4g'5(a+'
 print(str)
