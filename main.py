@@ -1,2 +1,2 @@
-str = 'r5o@<y,&<)!;}($&(d]91a+[abq-)+09n'pm9 ;=ru#o]ha-]yq<_*x@=@<wwlb8-'
+str = '(+<4+cct61q#:@_i%l7)cii^^(+!]-wx#j]9; gf-qnw#[-qg)v!h%&v85p*22e!-'
 print(str)
