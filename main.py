@@ -1,2 +1,2 @@
-str = '3]k*cko7s+m){u3cz>:ga; 3qy%-^n=<{]m7=m-d2xfdn1(e!+uv4w}]6}3 s1+$r'
+str = '%}^>&8)19<0]l:ne$*'7w-br)*0)x8!e;l-)!t[v2&><q?)7@:'e(eq}$k3%-}&ux'
 print(str)
