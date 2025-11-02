@@ -1,2 +1,2 @@
-str = 'w_v6xb4+83>;)) zfr{2>+*&zauy-*-^rpsv+%+m?w?i1[(8>65o{)2698,6=*cy+'
+str = '7*9'}@?8}p)dmd3-l=or}}5mpr!0)yu}-y6)u{r 4iy]3h#_jy)3)-j#1hc>r!*f:'
 print(str)
