@@ -1,2 +1,2 @@
-str = 'f)lh,2d_o023<,yo:,ct;>'*x+l7i[a}yau$_s8(<a&hfd{no?2-?;b10o+-::;ok'
+str = 'q-8_n#t76g+8yv-[1 >a?m_ ]pfzi#@<{s1j+8+<8)+h^^5>[_-ea-;%t]383$^)8'
 print(str)
