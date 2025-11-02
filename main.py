@@ -1,2 +1,2 @@
-str = 'iy50v5i?w}!38n[g1lp?vdw+o1w}4=h d+_?9{w[zjtc?dl*n)63vl=_<?[,whi)y'
+str = '8a-3fvh-6v!^[p_ps]+c!_0)z0n,$v)]n+t9(9e>i[);gi='qdt7)z?{l1;p?zv(0'
 print(str)
