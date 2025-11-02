@@ -1,2 +1,2 @@
-str = '%}^>&8)19<0]l:ne$*'7w-br)*0)x8!e;l-)!t[v2&><q?)7@:'e(eq}$k3%-}&ux'
+str = '*6q)!l)41tb6d7;g})(wc2v_6ql'4s-'sy=>42f>wweqj?m}9^_le,y%(4+#vw>8w'
 print(str)
