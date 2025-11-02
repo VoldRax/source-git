@@ -1,2 +1,2 @@
-str = 'z+0x%mt;z^7o953bw<<s-$mr0g^&lvv1sad<8;p[iye>),_{@o,t-lrn2+s<6ejvq'
+str = '3fm9)@*s$xe5]r>t'i2d;?x'>a*9e('%z+*x^ac^e%1v!(#p1;g&x)h#'87z tq{8'
 print(str)
