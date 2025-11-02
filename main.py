@@ -1,2 +1,2 @@
-str = '+]%[joh!!b3?!ta0kyjr{2*qzsp<ou0-*l{fz*&vbc1-6il>-5*+=&>wgrf<zc);<'
+str = '^si9]yemf]py)ry_jy6xs+<k^g-x*21k-[49::%h10)552j@%+[9&}*,<++,<xp$f'
 print(str)
