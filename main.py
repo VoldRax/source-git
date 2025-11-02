@@ -1,2 +1,2 @@
-str = 'yb(%5y-d+q{uhf!8n(-wv^^,,;o}5q2f0h[a-h-*>2r7h0rvoodl^yx{nz%bxef8^'
+str = 'a9r@xw29-i-8g{k[^*]0gvq>@%}+udp]q6}th9ys#p-rfz!e+-b0@s?3*a73+}>[>'
 print(str)
