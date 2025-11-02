@@ -1,2 +1,2 @@
-str = '?-=d-4^$)b8^s_y:2yf1,n[-7g{;pz^e1,,b)5)&694+u6<we'cn_-&}3d!&#&-)t'
+str = 'ub 0>7b=6:%b0s,3+s^&=';59nv,6hdizyb}-ujl:z#(+l:!;;5;%+:=s+[3)7-21'
 print(str)
