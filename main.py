@@ -1,2 +1,2 @@
-str = '3^4y!;n0hq+f198bf+d-0gpl&,!*><&+whkzbhv-_red)u<zb4=?yg7a]8: q(3y,'
+str = 'r5o@<y,&<)!;}($&(d]91a+[abq-)+09n'pm9 ;=ru#o]ha-]yq<_*x@=@<wwlb8-'
 print(str)
