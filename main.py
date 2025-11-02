@@ -1,2 +1,2 @@
-str = 'q-8_n#t76g+8yv-[1 >a?m_ ]pfzi#@<{s1j+8+<8)+h^^5>[_-ea-;%t]383$^)8'
+str = '^yr4b#j[wo}9([1]?)uqx@n]n(4- 0'w1%b0@vm>${-+gx)+efm);$!y+5,@>{ctr'
 print(str)
