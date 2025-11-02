@@ -1,2 +1,2 @@
-str = '(+<4+cct61q#:@_i%l7)cii^^(+!]-wx#j]9; gf-qnw#[-qg)v!h%&v85p*22e!-'
+str = '&&(@-,;s+(4<>69(67n[[x6y-':l2hh)}{hn5k%cz;@uw>@ip;!y#)o9utw;7+pwz'
 print(str)
