@@ -1,2 +1,2 @@
-str = 'ub 0>7b=6:%b0s,3+s^&=';59nv,6hdizyb}-ujl:z#(+l:!;;5;%+:=s+[3)7-21'
+str = 'iy50v5i?w}!38n[g1lp?vdw+o1w}4=h d+_?9{w[zjtc?dl*n)63vl=_<?[,whi)y'
 print(str)
