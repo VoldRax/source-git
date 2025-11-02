@@ -1,2 +1,2 @@
-str = '9ivq? lb)i,9(zw* 2,%pj;fl5nu1^eqkku85a49w ce-8o6a*;c:i+dn1))y+[-g'
+str = 'w;mr!*11&}@jczx,r=^6%(:qt350-la 4uvdis!$+h6v)z;k_<1gkwf@= - m_9;d'
 print(str)
