@@ -1,2 +1,2 @@
-str = '3p:krme=&^+*;rh(@7m%p&>4u&0ddcci=_$c*+4,y4#g*l5@:hv9+0f:0n<jt !%5'
+str = ']k8+!g11,dt_)nd7e5:3xcxx?&47&h3x'lo&!w(tuiwt[+n2k[t$*(>}xc w:?iuw'
 print(str)
