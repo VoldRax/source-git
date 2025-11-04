@@ -1,2 +1,2 @@
-str = 'h[c?x:,)<'#;epd4'9!ry]m!;8&>k[)1_0+$tigkts+?s+=pv[<d'{83e[@bwak3i'
+str = 'x0(qo@29+nd7]n+]+j<p_f78#ev:]#-v]@ q(:x@kv!z}h#t;9fsqtl+d+}+mmtz-'
 print(str)
