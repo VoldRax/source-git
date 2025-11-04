@@ -1,2 +1,2 @@
-str = '_@o6+h^'**;u4w?[;)r]<n;hn@'--%c)6-&@r=*%zj&9ffiz>s5-%xkv4)^n9 aul'
+str = '-]:<)3_);> +9iwk=+2,g)3#z-1<+q]:m9)bg^u)u#%244@t+&7($z*tdqm3+5nw1'
 print(str)
