@@ -1,2 +1,2 @@
-str = 'hz4>&[0'3+_+2+mlj+x(sy9ts[7)nc7ia4,=-% npro{if5t0f+'#}sg-b_5d25!p'
+str = '0- )<f,sgkhrkb$v)(@,e=c#+<5^g;#$n; ,%}adzi@)pq<%#*_ycd?4[-'wo{-)z'
 print(str)
