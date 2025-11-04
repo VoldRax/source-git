@@ -1,2 +1,2 @@
-str = '-]:<)3_);> +9iwk=+2,g)3#z-1<+q]:m9)bg^u)u#%244@t+&7($z*tdqm3+5nw1'
+str = '480ky^db^<xcp{1{z$ y><,=<*0a;*-qie+ct&2_t4m^cq^+)5>{958j,t%m9bh!*'
 print(str)
