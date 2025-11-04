@@ -1,2 +1,2 @@
-str = '%'cvoke,(q:9[d^<%:^^,_mr);;l:'c91o}^it=>j50 #z:'qk}s8-))w(,cdd;s9'
+str = 'ue5-1,ara'wuy$m?#g%23aym9:9yb$_[ i,=[l#)]1s$h]j)_hk;ad)yx+oe7:=$-'
 print(str)
