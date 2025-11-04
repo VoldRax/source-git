@@ -1,2 +1,2 @@
-str = 'ok w^nde;$(wqy'@={p-)*8( h8:g=m:#m(sd v#j-:o20s},#bf_2bz&f_++f3t&'
+str = 'kj]{f,8)&%,$7@5) 5)&5-!f0z6+s4k6qj:05mr0$3h+${+v_y>,^ow13?{h(,l{k'
 print(str)
