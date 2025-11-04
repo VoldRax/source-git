@@ -1,2 +1,2 @@
-str = '@&ns8u-9d884ggcp-&<v3ijgx:ui =]r'wq'$u%cz63%w:n<v-6>m}&:yo*d3?hp_'
+str = '-fdgl}:6$0, l+[+}t)}#9v-+*mnvrs;7)<c[k7{x12;37{}==!d[{}*kb;8knta!'
 print(str)
