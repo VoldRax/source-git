@@ -1,2 +1,2 @@
-str = '-!%l;p[w*$a)]:bm@lr_:1e:h4 )t*)+;l!o)+}!)cy)0xg5='%pic{*q yz*p@-s'
+str = '%'cvoke,(q:9[d^<%:^^,_mr);;l:'c91o}^it=>j50 #z:'qk}s8-))w(,cdd;s9'
 print(str)
