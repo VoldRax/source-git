@@ -1,2 +1,2 @@
-str = 'g^grmks19zv_@a4l7g5md):p'b_=+eo&twi=f:n6>6njc2-*u#?80h]+g=)?o=?p '
+str = '(bj^*kuh,7f@#-'2^:ygz^=][--t<<;{e3>+-kv d_wt:8<flvqk<;o-t0;<b<(!:'
 print(str)
