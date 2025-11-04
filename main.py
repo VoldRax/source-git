@@ -1,2 +1,2 @@
-str = 'zj*s*!+hlj{o$!m)[5qo''xs-8!inz }3l)4,h37@zo >[%]?qj96--y',1x>-+ip'
+str = 'tl#tfl!rmvh{v)enm[-!i@b$]*<<8-'6(41j)9i4z)m6xx+)]c6ln32<vav[#g '6'
 print(str)
