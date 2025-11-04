@@ -1,2 +1,2 @@
-str = '_$i'ab-(h)d!64>d),sn =1jnbszt03,2[g?q=;}}'-98#5_=za)-u?{1kt1m+)u-'
+str = 'u_&9d<4zg@0mt+ilbj^c!7uok?q#j!,*ox%*)k-d]<bl]stj7k>0ml16#$<[di:0l'
 print(str)
