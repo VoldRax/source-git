@@ -1,2 +1,2 @@
-str = '0+x!@8(71u'@4{'fah%0^_?p+xxug4ib=+^:k*}9 1&bs0s-y^h5_81f,k{;v_q#s'
+str = '_$i'ab-(h)d!64>d),sn =1jnbszt03,2[g?q=;}}'-98#5_=za)-u?{1kt1m+)u-'
 print(str)
