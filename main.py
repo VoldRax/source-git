@@ -1,2 +1,2 @@
-str = '*?*[-(d@}l}')t9)@190#4[>'s$$4pe!u:+o[#=n:98{05dqu@t+?(+s-3wjx0)x4'
+str = ')m@#f@t? ){4_0i=o#bq2u}6l%#l)^&)?e$u#2o>,)uq8tc ?gl(vl*g!euf?})]b'
 print(str)
