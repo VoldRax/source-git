@@ -1,2 +1,2 @@
-str = 'd?e<3l{+yy!&8a=<9w_&0_3879)<e_<<ltz[5@=},-?:xh+#89b,!ygf) q!l%c+j'
+str = '^m4[8i1)gze}ha+l%x+h;q9%ic[b?42%!7}'8s>+:-@g^fnt^e[hb=h:93k&tihv_'
 print(str)
