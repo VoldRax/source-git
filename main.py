@@ -1,2 +1,2 @@
-str = 'hrvne);+8?+p)*-272_1?08#8nhdh_u-r[h$fhs%z+q}n,56@cua5e9sml(5(1(m>'
+str = 'f?8x7*wo=9;pw3av93{05=t{:}r&k?(?<&eg'q[# y1>+_)vbtn}<({xjev}ai:+j'
 print(str)
