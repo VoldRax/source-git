@@ -1,2 +1,2 @@
-str = ')*hw}fl5k 2h:z*7^<p-a1a:_yjor79)0ec(0ccp3(+0#5)i-<!*fb+z*6t(7j7;i'
+str = 'd?e<3l{+yy!&8a=<9w_&0_3879)<e_<<ltz[5@=},-?:xh+#89b,!ygf) q!l%c+j'
 print(str)
