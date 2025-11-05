@@ -1,2 +1,2 @@
-str = 'f?8x7*wo=9;pw3av93{05=t{:}r&k?(?<&eg'q[# y1>+_)vbtn}<({xjev}ai:+j'
+str = ']+;''a!vqn+^d(: }le[or$gl,&@?t-8#im>{$7yx0+hk^>@=j_-70fv]=-8+]0-p'
 print(str)
