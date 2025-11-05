@@ -1,2 +1,2 @@
-str = 'su[fe ,y>hw-4#+0)}:-7)1:2]z^(8&+?bn'><nizsn!]-a%k06+<&g-%(]e-+#;)'
+str = 'u;+i%<4;)^$ru4qh{f6g*(h=8_%3kuw*-gjlwoqp(}@77 1-'8-)o<$]y2+x]3);j'
 print(str)
