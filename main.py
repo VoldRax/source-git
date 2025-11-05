@@ -1,2 +1,2 @@
-str = ') g#w<5{ro:a}u-y-jj@%-o<+%_3%7!k5cyek*=2:[iu?;a4a+t:&sgqeidx:@j&0'
+str = '3(iq2i3]6-&3e!bymg4m(pe!;n'a,)p{p op7m5:$d(puf88)h] 1b@mbc9;}4p)&'
 print(str)
