@@ -1,2 +1,2 @@
-str = 'n)[,5zk=8lmyu7&bp1<pr2upt5$r5y:{m^-t<+9xl'p+}by1)32-bicaw>2_)=0m<'
+str = ''r{g*1+h^c15 #>+144%+%(wlga}_cn)tz8ugk&}-:^>two*)4$wqn+xr]uuk*016'
 print(str)
