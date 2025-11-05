@@ -1,2 +1,2 @@
-str = '315#huxp^tu]=y(2i:r0$!r%!y,!tn:@jls(*g9<g3k7(ngpc )0&5;%mn#ts @np'
+str = '*?*[-(d@}l}')t9)@190#4[>'s$$4pe!u:+o[#=n:98{05dqu@t+?(+s-3wjx0)x4'
 print(str)
