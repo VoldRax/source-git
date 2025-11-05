@@ -1,2 +1,2 @@
-str = '82[rqc3(]*[=)4{n>-06k{e,2)0+l<w2{(u6m- x-rs=81f)4*;=p'>+;9da{<g*_'
+str = ';gm5el(2p)5k8sqe9w)-<zbbk3i*%lip]5*0ir=3p{yl%$]}x>3h7bpuqw->,)]gp'
 print(str)
