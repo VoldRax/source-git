@@ -1,2 +1,2 @@
-str = 'uf?gv_)om[1b_9k9f;-u=y{}>i),okuf)xeffaf>c:-bdy<uh ^-kpf'%sy*^2ti6'
+str = 'n)[,5zk=8lmyu7&bp1<pr2upt5$r5y:{m^-t<+9xl'p+}by1)32-bicaw>2_)=0m<'
 print(str)
