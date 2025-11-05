@@ -1,2 +1,2 @@
-str = ']+;''a!vqn+^d(: }le[or$gl,&@?t-8#im>{$7yx0+hk^>@=j_-70fv]=-8+]0-p'
+str = 'm-d!y5@wbx&&<x(b6?63ed08:^'-zv_pk5kz%=w>345>no&?+]pd0rgt]d )u&9+u'
 print(str)
