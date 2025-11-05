@@ -1,2 +1,2 @@
-str = '5@,jq^-ag6a!,#1=094e*0>joi#mf}<'1%,,ddmy?(tu1mq^ha{ilbxe]e]a!8s9r'
+str = 'z[8*k<c-c+^$b0-_$8xmm&s5+=!m%u$*r=98^8;[en)nz+iyh'589op+'+:=k:4=y'
 print(str)
