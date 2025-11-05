@@ -1,2 +1,2 @@
-str = 'z[8*k<c-c+^$b0-_$8xmm&s5+=!m%u$*r=98^8;[en)nz+iyh'589op+'+:=k:4=y'
+str = 'y7)pg'muj{a!$yo$#r<fz#(k]hi><rj)0%q<-m;99+=^_+[?*!]+)hi(#c036y+[v'
 print(str)
