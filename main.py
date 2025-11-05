@@ -1,2 +1,2 @@
-str = '$5w+7_q_^4l;{7q[rup-5&7j]k%kzk2y^+3npwn[ '06=#0g{v,*m?q=dj{bav1,;'
+str = ') g#w<5{ro:a}u-y-jj@%-o<+%_3%7!k5cyek*=2:[iu?;a4a+t:&sgqeidx:@j&0'
 print(str)
