@@ -1,2 +1,2 @@
-str = ''cy2zhqw7e1fylflby2dylbb@$1=+#bb2=h@x834kh+]_<+[0a5ngu5]_>rg{+a=3'
+str = '82[rqc3(]*[=)4{n>-06k{e,2)0+l<w2{(u6m- x-rs=81f)4*;=p'>+;9da{<g*_'
 print(str)
