@@ -1,2 +1,2 @@
-str = ':;wg%+zwei'a2r7@vr%6k7p>@%7,!,oge:gs=+mf[8zp m8dcwxnn:^e69<n-#$6k'
+str = 'edz+4w4c8>_)@)d owvdup?j=d?)s:+fpmd-?8?:ldcn7e(=$u--<]!x1*f^brh!n'
 print(str)
