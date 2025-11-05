@@ -1,2 +1,2 @@
-str = 'w %!htbzs9*9()]h3[)nz}iu3)wfp2 ^q!s!%?aq$]=v65&<*s{1+oqy:g(d5,]+ '
+str = 'su[fe ,y>hw-4#+0)}:-7)1:2]z^(8&+?bn'><nizsn!]-a%k06+<&g-%(]e-+#;)'
 print(str)
