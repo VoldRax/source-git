@@ -1,2 +1,2 @@
-str = '7)?k(t3t>+%m2v^,>*)}<1!k%p0nl( *u>^,<o!]&+@p{;mh'md5:0)d,tx_ ]=#1'
+str = '*0w)#np)g$(6#o^;-(_cdp-:>)y&# k0kh#z=tqn(%qr37k5#$4rp;&92y,cl$9ea'
 print(str)
