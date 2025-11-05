@@ -1,2 +1,2 @@
-str = '8]gpog]+!-+;ec(ryb_^1{}* 09b}!{l))u-<q77u r4!]18{-29hwt;7vo98]-)c'
+str = '7)?k(t3t>+%m2v^,>*)}<1!k%p0nl( *u>^,<o!]&+@p{;mh'md5:0)d,tx_ ]=#1'
 print(str)
