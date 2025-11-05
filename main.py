@@ -1,2 +1,2 @@
-str = '=kin,'rx -)6-7^ uo)<35[9n]zlo%x4p)j2<?=b}&)7uni,p^096k>#f% wds0: '
+str = 'qqh8xv)76!&)dv$07$d&3mo[9,{c=xvb=@5ji59)<c+d'^3fa)[6v2{em?)lq[:+f'
 print(str)
