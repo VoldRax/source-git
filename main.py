@@ -1,2 +1,2 @@
-str = 'qqh8xv)76!&)dv$07$d&3mo[9,{c=xvb=@5ji59)<c+d'^3fa)[6v2{em?)lq[:+f'
+str = ''cy2zhqw7e1fylflby2dylbb@$1=+#bb2=h@x834kh+]_<+[0a5ngu5]_>rg{+a=3'
 print(str)
