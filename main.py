@@ -1,2 +1,2 @@
-str = ''f=kqk3^h9imqtd7{wnmjw9yxu193-y<_*(q]joyw[&6?5o8v<sa+)dq}y7$wb&ui'
+str = 'a)0%<)%-!7s,eva3;3#0+o--re*>3_o%$sp7p('d=+h3bs+n;[:=gtt{&x{tddz-)'
 print(str)
