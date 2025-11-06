@@ -1,2 +1,2 @@
-str = 'pw-6769^12f}&(q!v-v0003-q)_'vrk}g+d&)-ay3 m)d%q!@e(zn;6n>z(y0-9a@'
+str = ',bw<6vo$pt_p}8c88-3n6y'm<y# 4zd]&efu*;]*9:_vm6z(wb3>}lt:_ha[?tq?='
 print(str)
