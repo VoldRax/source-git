@@ -1,2 +1,2 @@
-str = ',bw<6vo$pt_p}8c88-3n6y'm<y# 4zd]&efu*;]*9:_vm6z(wb3>}lt:_ha[?tq?='
+str = 'v^t04ooug0n$u0cn'$-lvx55j+-x3]f37zsoy>e<u<)(rq)o_yh{-{t-8p)w4b: 0'
 print(str)
