@@ -1,2 +1,2 @@
-str = 'h) )!>ka7+s(q?+]xe7:gu@q[#]#b17}n)^mawg*-<g;0w)>6)p7x-6}td^za[9{c'
+str = '^$h4_{x],1eluj-cirf!3,k-i49h$$!-k)t &7zv8_8x[rx*r^}pvl*r]j#j1u8pi'
 print(str)
