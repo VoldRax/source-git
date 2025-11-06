@@ -1,2 +1,2 @@
-str = '<t4:*p=9)<2%wqs46t(p?q$f;601m$cx*x(=[n-t37-z)u'2g)y >)pj:pg{r'*(f'
+str = 'i-+p0x57s!n8^)(+;2 ,){ox#4y)dc'^7_t<ur>'36ynt^6%ud&%(q6j[wxlit)1_'
 print(str)
