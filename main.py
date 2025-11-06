@@ -1,2 +1,2 @@
-str = 'k*nxchohr<p8l[{y6f611n,jsr)9x+:_!t0@sl;@]6!37,,tqfv(}@dwe+=v1l>s8'
+str = '05v<]7ww_d 1&l9]2!>a)2ygc,plf+cp0zd+fnw,:,+$a(p&?ez}10fqp5!+;={+_'
 print(str)
