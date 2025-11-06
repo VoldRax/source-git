@@ -1,2 +1,2 @@
-str = '%z2k'?$=fi0x4ok%+=)4zi)2r=^'7]]5$5]=!fcs68b5%c16,lt6]}9#all0_-bv9'
+str = '4<{'{07=9z;!e)<jj-uv;1n&hvs))*;^,[)g>>hqym?'}2q-c,tn)$?'8!8&}d*od'
 print(str)
