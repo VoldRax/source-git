@@ -1,2 +1,2 @@
-str = '4<{'{07=9z;!e)<jj-uv;1n&hvs))*;^,[)g>>hqym?'}2q-c,tn)$?'8!8&}d*od'
+str = 'k*nxchohr<p8l[{y6f611n,jsr)9x+:_!t0@sl;@]6!37,,tqfv(}@dwe+=v1l>s8'
 print(str)
