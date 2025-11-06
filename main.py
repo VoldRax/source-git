@@ -1,2 +1,2 @@
-str = 'i-+p0x57s!n8^)(+;2 ,){ox#4y)dc'^7_t<ur>'36ynt^6%ud&%(q6j[wxlit)1_'
+str = '%z2k'?$=fi0x4ok%+=)4zi)2r=^'7]]5$5]=!fcs68b5%c16,lt6]}9#all0_-bv9'
 print(str)
