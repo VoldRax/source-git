@@ -1,2 +1,2 @@
-str = '>a*i(7p ^yh:yw,vb:!x5*zc@67bd_%2!x[;h0<qojo]qb5-j3>f*<te1sq>jl&)q'
+str = 'hjnh_b&+>0,}}3+{xj%^{ v?%[m-wz5+gh4x%t;#!iz[-q4,)4b)}h6l-1@3)}c7)'
 print(str)
