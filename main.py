@@ -1,2 +1,2 @@
-str = 'v^t04ooug0n$u0cn'$-lvx55j+-x3]f37zsoy>e<u<)(rq)o_yh{-{t-8p)w4b: 0'
+str = ',y,?< @5;{)&el%m+f?%'deh+(^f]-(2u,0i{u6&4(@zbqp2mmhw9]9-2hkhkh*=_'
 print(str)
