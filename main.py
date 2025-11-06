@@ -1,2 +1,2 @@
-str = 'hjnh_b&+>0,}}3+{xj%^{ v?%[m-wz5+gh4x%t;#!iz[-q4,)4b)}h6l-1@3)}c7)'
+str = 'kt@lg2 4{)8ny#qk]2&,un]<@+==rcj[6=;qml$8,dv&a(#o2!-))q=12,-$n^))1'
 print(str)
