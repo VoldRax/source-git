@@ -1,2 +1,2 @@
-str = 'v1y{bd#-6vc)lt1=@_{n2?,>)-#q+$*270[<0n5 *4l^gk @,i$,w!edbb3w#,^nu'
+str = 'u]i%b*3?#},8y3k=#3c)p;18j7n6&k><!n]#{k097qrk+d$<]2jm%^5o#nmn$vw57'
 print(str)
