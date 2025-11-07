@@ -1,2 +1,2 @@
-str = ' {am+al%jy,&h^iu+s38-9i_-bp]:bt2v?} ,a;udco)2}<_@z++la8>)6w}#fw'='
+str = '}z_u$l694b%!s2m:b>*=41<h)+<9%<2d&%rkfg6%_)@y#t*=#tc%)c>#*9a}n< >e'
 print(str)
