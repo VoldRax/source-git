@@ -1,2 +1,2 @@
-str = ';usi]^:(7i;ta5=sdua2> z+z)^1?!#d}}x]$j<9y$cwx6umk$-{gp[cq!)f>(+c['
+str = '*rtx9{xo+%+>;!6d(v2'1-_(lpo6*< 0)9tve<qiw(9}&te'%2o'[^bw0no 9*u!:'
 print(str)
