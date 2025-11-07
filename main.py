@@ -1,2 +1,2 @@
-str = ''e){f+v  o)y2iit+vjerj9giq}#22p'{s4!1du-)bv5*w7-@ya: &h,+!f5> 6h+'
+str = '9%z&{mf174%,r5'6xu%@,+r5x6;[%2u1'ixu6'6+ni?x0 s6en;iisib;6tk+}b  '
 print(str)
