@@ -1,2 +1,2 @@
-str = 'u]i%b*3?#},8y3k=#3c)p;18j7n6&k><!n]#{k097qrk+d$<]2jm%^5o#nmn$vw57'
+str = '-r>@gmq@f,t$6zqj5tw] 9z1szw@,{4^nb>>-6,d$s=jvgxp6pot:a7)6b[1#yv)9'
 print(str)
