@@ -1,2 +1,2 @@
-str = '+&asn<ww[cee[)2{4:zc!+$!?k%'oz$2$8',^]hakcb_vi-(7'wi7wo!-p!]azq9a'
+str = ',9osu;p!sq?^8,!! +[%+[p[9nsl6::9 h^%8dc-)%7kj(3-^qb161:ac&-@=t)!m'
 print(str)
