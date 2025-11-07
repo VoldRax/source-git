@@ -1,2 +1,2 @@
-str = '31tcte(=x@_tie-m6e5=:{uz&[<f+hb5el0*k{fd+^9141j+3nc}%07<@1==>-b=m'
+str = 'sl_7ufk1rhywcrc6)->^w? %)rfqov-8%+q-<>)48,&-f?n(^4^-!,w<^)%j=,0fp'
 print(str)
