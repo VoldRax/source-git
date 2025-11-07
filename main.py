@@ -1,2 +1,2 @@
-str = '[)w2'be(y=7xh8[l)+$)%:g}zm_; 5;7?m;+l[$3 ];[-*6o):+_p5n'^i@3++>q)'
+str = '?]3[ f,:ie^-mdlh)_{}:k!mp'zp#>p-+p^v48wqq%zg2!@}u{2bc(sz&o5!vi'+w'
 print(str)
