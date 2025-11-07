@@ -1,2 +1,2 @@
-str = '@t?pe6dw,;z5:hp n=<%+-+(hk8&y)vsm]%&nq>=6p?1,!n^'?3-6=lv-]ru-kv72'
+str = '$*&d6@h-h;,ry{&+&^}?0 jd)!+ 1wtuucxm)ue*)q]'))^hl+-^3b}xo -< g*+5'
 print(str)
