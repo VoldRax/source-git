@@ -1,2 +1,2 @@
-str = '}z_u$l694b%!s2m:b>*=41<h)+<9%<2d&%rkfg6%_)@y#t*=#tc%)c>#*9a}n< >e'
+str = '4f2_i;x-,h$r?(4_?)_g%czyap> -5=,lk=?:(+-ez [@:}0h'bokoz$$038z24x:'
 print(str)
