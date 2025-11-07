@@ -1,2 +1,2 @@
-str = 'e=(v]](!-<x}qs9?)*35)2to]9%e$pa!x7>_@#]-88*2t=u@{ wgm+}b7aws02(gb'
+str = '^k-shuzfhdjqm]8>3;&m-9,6&(,iopxh!lc=7i)&p'@3o]dccdb;;t!kmz8c,3p)%'
 print(str)
