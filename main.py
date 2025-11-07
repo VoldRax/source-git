@@ -1,2 +1,2 @@
-str = 'om2m:p0jf}^+8qq#@65bm#7jrrvbcf{=yo2!==nm20w<,4:e+n%e})#_6h_pxy>+_'
+str = '$c,9%&e_]{a69 ]^^xk-s &)$pu;s4)v%}k6g4fxo&^f8h{o'ec(b9 -9s)924zqn'
 print(str)
