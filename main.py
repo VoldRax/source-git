@@ -1,2 +1,2 @@
-str = '9%z&{mf174%,r5'6xu%@,+r5x6;[%2u1'ixu6'6+ni?x0 s6en;iisib;6tk+}b  '
+str = '6='t2#e8=io3!!a+*{#a)]y@j()i}$&y+e87kb}) 2]t%w_(zz?7< 8r{ gsx&g *'
 print(str)
