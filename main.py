@@ -1,2 +1,2 @@
-str = '-r>@gmq@f,t$6zqj5tw] 9z1szw@,{4^nb>>-6,d$s=jvgxp6pot:a7)6b[1#yv)9'
+str = 'pz-qth^8']{&'i2[wtp2n^*z!s2wq'{phx n})]+u[g>k{#djhift5o,z>pc)g(5!'
 print(str)
