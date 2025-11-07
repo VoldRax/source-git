@@ -1,2 +1,2 @@
-str = ' 05%'d%*{5tf!kj3;50}p?wqo=n*hj1es&giub#sn[[3be xjohz);[p#c8csl!-w'
+str = ';usi]^:(7i;ta5=sdua2> z+z)^1?!#d}}x]$j<9y$cwx6umk$-{gp[cq!)f>(+c['
 print(str)
