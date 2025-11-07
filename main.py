@@ -1,2 +1,2 @@
-str = '*rtx9{xo+%+>;!6d(v2'1-_(lpo6*< 0)9tve<qiw(9}&te'%2o'[^bw0no 9*u!:'
+str = ' {am+al%jy,&h^iu+s38-9i_-bp]:bt2v?} ,a;udco)2}<_@z++la8>)6w}#fw'='
 print(str)
