@@ -1,2 +1,2 @@
-str = 'sl_7ufk1rhywcrc6)->^w? %)rfqov-8%+q-<>)48,&-f?n(^4^-!,w<^)%j=,0fp'
+str = '><c;t%z vzug>bc'49;}i,!ib()zj$#4xph=<:6*8gk%?m(!7vr=8:fwo7nun!3r,'
 print(str)
