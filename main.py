@@ -1,2 +1,2 @@
-str = '<wu<u7+7<l$]pt4!ta@p+'s<$tp1')j81ir;!<rk%n8#+zbbwk&)^=g,#i1,+,qb_'
+str = 'c(b!<yl{5ys9g9ztb^-<{nqy{7+8?_,3>j=h_8= >^;=*6[k+am?t__,_8ik0+=d{'
 print(str)
