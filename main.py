@@ -1,2 +1,2 @@
-str = 'pz-qth^8']{&'i2[wtp2n^*z!s2wq'{phx n})]+u[g>k{#djhift5o,z>pc)g(5!'
+str = 'f34=yzud+-p:[o83h-lz+a+^%ea1#6,_+$q!& !=nx$i4{w_ec':t4rdk=ipu[=z2'
 print(str)
