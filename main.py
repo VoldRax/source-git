@@ -22,3 +22,9 @@ print(pairs_2)
 
 arr_3 = list(range(6))
 print(arr_3[1:5:2])
+
+def f1_4(x):
+    return x+1
+def f2_4(x):
+    return x*2
+print(f2_4(f1_4(3)))
