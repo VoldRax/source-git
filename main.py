@@ -68,3 +68,10 @@ print(X10().mix())
 lst10 = ["a","b"]
 d10 = {i:lst10[i] for i in range(len(lst10))}
 print(d10)
+
+def fib_10(limit):
+    a,b=0,1
+    while a<limit:
+        yield a
+        a,b=b,a+b
+print(list(fib_10(15)))
