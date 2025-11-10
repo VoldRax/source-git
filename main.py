@@ -1,2 +1,2 @@
-str = ''e=+b]55# 01s2])v^c94'yr90=[q<8a1,>-[i;pmff{0<f#bwnq;4m)0%)]_{v[v'
+str = '-k!8wt):f90q><^nx_pz }l>u](c*lx${}d8v8-)rrybir-t2[p)h));w)^)<i*(3'
 print(str)
