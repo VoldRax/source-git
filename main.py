@@ -1,2 +1,2 @@
-str = '-05r;;,?bivp%a{*$7=y!5>(f-wzh52,{nony1%tb_y}{?sgin^d?g$(=&0?*(070'
+str = 'yn#s07!&@-'-x;vy= zy<^+ *g>81aj=&4=<l%tv7-siqs')7)_?=)*y,#edq1n3<'
 print(str)
