@@ -57,3 +57,10 @@ print(s_8)
 d_9 = {'a':1,'b':2}
 for k,v in d_9.items():
     print(k, v)
+
+class M10:
+    def mix(self):
+        return "mixed"
+class X10(M10):
+    pass
+print(X10().mix())
