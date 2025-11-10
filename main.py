@@ -1,2 +1,2 @@
-str = ''5)44*v>;-_hl {62-t1nhj>)3$o$=%74g9#v+'_^r#rufq'x*f!2 &--b48:))p-'
+str = '-l!pd$j+sh j5?} ^)on<i0?mnt+7?:w(v9pq#v%m31b;'&@0*9(0%<j-zz-xkw+d'
 print(str)
