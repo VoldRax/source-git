@@ -37,3 +37,15 @@ lst2_6 = [1,2]
 lst2_6.extend([3,4])
 lst2_6.pop(0)
 print(lst2_6)
+
+def deco_7(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_7
+def targ_7():
+    print("target")
+targ_7()
