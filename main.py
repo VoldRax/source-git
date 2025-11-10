@@ -1,2 +1,2 @@
-str = '3p%{;n-rf34jidgfkz+[+qwj]&q1b-+v]4z$n0?u{(u =g4ptd:+pfj13)n-x)_h+'
+str = '1$9^)_sppp-]$ +@)l:-4**-do!>:*^l7m-{#<zcbcwd35:klp#dd=u)5m^^=-'4]'
 print(str)
