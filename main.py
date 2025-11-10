@@ -1,2 +1,2 @@
-str = 'yn#s07!&@-'-x;vy= zy<^+ *g>81aj=&4=<l%tv7-siqs')7)_?=)*y,#edq1n3<'
+str = 'gn7'=z!b#z+}529z0>*2bi)es*xf6e7$_:j]d(vhyo5leu*s'3^14]#sg3q4(,<#!'
 print(str)
