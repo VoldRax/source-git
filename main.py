@@ -16,3 +16,6 @@ class It2:
         self.i+=1
         return self.i-1
 print(list(It2(3)))
+
+pairs_2 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_2)
