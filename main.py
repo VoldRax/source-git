@@ -1,2 +1,2 @@
-str = '4]ws-b#8p!1'r)#p'l&+a2y#v_y3>00u^x9'n+z_>v@6p',%#,gci4{97-@:qwpdw'
+str = '-05r;;,?bivp%a{*$7=y!5>(f-wzh52,{nony1%tb_y}{?sgin^d?g$(=&0?*(070'
 print(str)
