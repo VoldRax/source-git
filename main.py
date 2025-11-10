@@ -80,3 +80,7 @@ class A11: pass
 class B11: pass
 class C11(A11, B11): pass
 print(C11.__mro__)
+
+lst_11 = [3,1,2]
+lst_11.sort()
+print(lst_11)
