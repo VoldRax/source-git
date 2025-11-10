@@ -88,3 +88,10 @@ print(lst_11)
 d_12 = {'a':1,'b':2}
 for k,v in d_12.items():
     print(k, v)
+
+def is_prime_13(x):
+    if x<2: return False
+    for i in range(2,int(x**0.5)+1):
+        if x%i==0: return False
+    return True
+print(is_prime_13(13))
