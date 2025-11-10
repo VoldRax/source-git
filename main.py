@@ -28,3 +28,7 @@ def f1_4(x):
 def f2_4(x):
     return x*2
 print(f2_4(f1_4(3)))
+
+nested_5 = [[1,2],[3,4]]
+flat_5 = [x for sub in nested_5 for x in sub]
+print(flat_5)
