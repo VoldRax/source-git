@@ -95,3 +95,6 @@ def is_prime_13(x):
         if x%i==0: return False
     return True
 print(is_prime_13(13))
+
+s14 = "radar"
+print(s14 == s14[::-1])
