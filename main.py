@@ -101,3 +101,8 @@ print(s14 == s14[::-1])
 
 ns_14 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_14)
+
+def make_adder_15(a):
+    return lambda x: x + a
+adder_15 = make_adder_15(5)
+print(adder_15(10))
