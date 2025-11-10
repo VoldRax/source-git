@@ -1,2 +1,2 @@
-str = '1$9^)_sppp-]$ +@)l:-4**-do!>:*^l7m-{#<zcbcwd35:klp#dd=u)5m^^=-'4]'
+str = 'q-'^, 5@5?c+(5h)7)6k9iz]t40_y{ym $!0fodc[_(<*>9_?#<-r5g}{-%w-k8;s'
 print(str)
