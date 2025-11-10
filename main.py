@@ -49,3 +49,7 @@ def deco_7(f):
 def targ_7():
     print("target")
 targ_7()
+
+s_8 = {1,2,3}
+s_8.add(8)
+print(s_8)
