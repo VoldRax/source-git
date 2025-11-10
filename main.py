@@ -4,3 +4,8 @@ print(str)
 unique_1 = {1, 2, 2, 3}
 unique_1.add(1)
 print(f"Generated set #1: {unique_1}")
+
+lst_1 = [1, 2, 3]
+lst_1.append(4)
+lst_1.reverse()
+print(f"Modified list_1: {lst_1}")
