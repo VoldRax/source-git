@@ -106,3 +106,16 @@ def make_adder_15(a):
     return lambda x: x + a
 adder_15 = make_adder_15(5)
 print(adder_15(10))
+
+class P16:
+    def __init__(self):
+        self._v=0
+    @property
+    def v(self):
+        return self._v
+    @v.setter
+    def v(self, x):
+        self._v = x
+p16=P16()
+p16.v=5
+print(p16.v)
