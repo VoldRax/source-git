@@ -75,3 +75,8 @@ def fib_10(limit):
         yield a
         a,b=b,a+b
 print(list(fib_10(15)))
+
+class A11: pass
+class B11: pass
+class C11(A11, B11): pass
+print(C11.__mro__)
