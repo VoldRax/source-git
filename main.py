@@ -32,3 +32,8 @@ print(f2_4(f1_4(3)))
 nested_5 = [[1,2],[3,4]]
 flat_5 = [x for sub in nested_5 for x in sub]
 print(flat_5)
+
+lst2_6 = [1,2]
+lst2_6.extend([3,4])
+lst2_6.pop(0)
+print(lst2_6)
