@@ -19,3 +19,6 @@ print(list(It2(3)))
 
 pairs_2 = [(i, j) for i in range(3) for j in range(2)]
 print(pairs_2)
+
+arr_3 = list(range(6))
+print(arr_3[1:5:2])
