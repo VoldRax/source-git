@@ -64,3 +64,7 @@ class M10:
 class X10(M10):
     pass
 print(X10().mix())
+
+lst10 = ["a","b"]
+d10 = {i:lst10[i] for i in range(len(lst10))}
+print(d10)
