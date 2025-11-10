@@ -1,2 +1,2 @@
-str = '-2,'{j<73(mj;97zrls[wd?nig+>=o$v;l)41o7]'}&9 5m@+i +%5t-m%=k((an;'
+str = ')+2_:'}[gd2>-+%bq,-ujgzs1y1!02%?r)?1hu4!_m ),((#s)!<?z-u:g_g$q}'o'
 print(str)
