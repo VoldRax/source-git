@@ -1,2 +1,2 @@
-str = '-l!pd$j+sh j5?} ^)on<i0?mnt+7?:w(v9pq#v%m31b;'&@0*9(0%<j-zz-xkw+d'
+str = '0hx-+1-o %bz$uug#;(h-19gyli)sm+i)y(vf(-$0_t)(n0o!k$j59-4o#4,:js-3'
 print(str)
