@@ -1,2 +1,2 @@
-str = '&wc@u'5gm8'[7[y3_vx&qm+o[md(8s<38':i%2$bg5!^h$cce!;}<rj$**+*xrfev'
+str = 'j[:l)4#=l-7 *t3<&=ut:1x ]g_q(1;2*]zc186r1p7g:z6i_=[<9)7hgn]jtq<jz'
 print(str)
