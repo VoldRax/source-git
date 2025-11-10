@@ -98,3 +98,6 @@ print(is_prime_13(13))
 
 s14 = "radar"
 print(s14 == s14[::-1])
+
+ns_14 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_14)
