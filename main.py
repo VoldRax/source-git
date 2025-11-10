@@ -84,3 +84,7 @@ print(C11.__mro__)
 lst_11 = [3,1,2]
 lst_11.sort()
 print(lst_11)
+
+d_12 = {'a':1,'b':2}
+for k,v in d_12.items():
+    print(k, v)
