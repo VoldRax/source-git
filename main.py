@@ -1,2 +1,2 @@
-str = ')#${!=<91e5n5{c1?>ga 0+5+8gyg+i c79(2:-m@&k)'[151n%9%)z7- 5ly#fd^'
+str = '4]ws-b#8p!1'r)#p'l&+a2y#v_y3>00u^x9'n+z_>v@6p',%#,gci4{97-@:qwpdw'
 print(str)
