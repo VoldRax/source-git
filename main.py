@@ -1,2 +1,2 @@
-str = 'j[:l)4#=l-7 *t3<&=ut:1x ]g_q(1;2*]zc186r1p7g:z6i_=[<9)7hgn]jtq<jz'
+str = '2j&3v39_2+1*ss4d6[sda^at_r:,8z't$)q?$y^-@?)t{'=<+ky@!#vp$6;6<1lf7'
 print(str)
