@@ -322,3 +322,12 @@ class P39:
 p39=P39()
 p39.v=5
 print(p39.v)
+
+class C39:
+    @classmethod
+    def cm(cls):
+        return "cm"
+    @staticmethod
+    def sm():
+        return "sm"
+print(C39.cm(), C39.sm())
