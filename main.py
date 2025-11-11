@@ -251,3 +251,6 @@ c_29 = (1, [2,3], { "k": "v" })
 print(c_29)
 
 GEN_CONSTANT_30 = "generated-30-19036d7bb3"
+
+data31 = {"name":"n31","uid":"569307c302"}
+print("{}".format(data31))
