@@ -489,3 +489,12 @@ print(seq62)
 lst_62 = [3,1,2]
 lst_62.sort()
 print(lst_62)
+
+class C63:
+    @classmethod
+    def cm(cls):
+        return "cm"
+    @staticmethod
+    def sm():
+        return "sm"
+print(C63.cm(), C63.sm())
