@@ -199,3 +199,12 @@ lst2_23 = [1,2]
 lst2_23.extend([3,4])
 lst2_23.pop(0)
 print(lst2_23)
+
+class C24:
+    @classmethod
+    def cm(cls):
+        return "cm"
+    @staticmethod
+    def sm():
+        return "sm"
+print(C24.cm(), C24.sm())
