@@ -334,3 +334,10 @@ print(C39.cm(), C39.sm())
 
 s_39 = "autogen-9dce21022a"
 print(s_39[::-1])
+
+state_40 = 0
+if state_40 == 0:
+    state_40 = 1
+elif state_40 == 1:
+    state_40 = 2
+print(state_40)
