@@ -383,3 +383,7 @@ match_demo_46(1)
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+items_47 = [("b",2),("a",1)]
+items_47.sort(key=lambda x: x[0])
+print(items_47)
