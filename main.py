@@ -449,3 +449,12 @@ flat_57 = [x for sub in nested_57 for x in sub]
 print(flat_57)
 
 print("Generated statement #58 uid=ddcf3f4f96 ts=2025-11-11T23:40:59.705048+00:00")
+
+class CM58:
+    def __enter__(self):
+        print("enter")
+        return self
+    def __exit__(self, exc, val, tb):
+        print("exit")
+with CM58():
+    print("inside context")
