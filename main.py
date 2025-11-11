@@ -458,3 +458,6 @@ class CM58:
         print("exit")
 with CM58():
     print("inside context")
+
+d_58 = {str(i): i*i for i in range(4)}
+print(d_58)
