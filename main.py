@@ -356,3 +356,6 @@ print(s_42)
 
 mul_43 = lambda x: x*2
 print(mul_43(3))
+
+d_44 = {str(i): i*i for i in range(4)}
+print(d_44)
