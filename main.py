@@ -418,3 +418,9 @@ print(raw52.strip())
 
 evens_52 = [i for i in range(10) if i%2==0]
 print(evens_52)
+
+def f1_53(x):
+    return x+1
+def f2_53(x):
+    return x*2
+print(f2_53(f1_53(3)))
