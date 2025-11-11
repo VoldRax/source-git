@@ -262,3 +262,5 @@ for idx, val in enumerate([10,20,30]):
 
 name_32 = "user32"
 print(f"Hello {name_32}, uid={{name_32}} - e8f38a8b60")
+
+print([0]*33)
