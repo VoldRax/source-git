@@ -269,3 +269,7 @@ def make_adder_33(a):
     return lambda x: x + a
 adder_33 = make_adder_33(5)
 print(adder_33(10))
+
+items_34 = [("b",2),("a",1)]
+items_34.sort(key=lambda x: x[0])
+print(items_34)
