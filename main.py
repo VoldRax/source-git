@@ -309,3 +309,16 @@ def gen_38():
     for i in range(3):
         yield i*i
 print(list(gen_38()))
+
+class P39:
+    def __init__(self):
+        self._v=0
+    @property
+    def v(self):
+        return self._v
+    @v.setter
+    def v(self, x):
+        self._v = x
+p39=P39()
+p39.v=5
+print(p39.v)
