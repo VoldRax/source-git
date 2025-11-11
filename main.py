@@ -438,3 +438,8 @@ adder_56 = make_adder_56(5)
 print(adder_56(10))
 
 print("Generated statement #57 uid=ee23edbbbc ts=2025-11-11T23:40:54.235050+00:00")
+
+class A57: pass
+class B57: pass
+class C57(A57, B57): pass
+print(C57.__mro__)
