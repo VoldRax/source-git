@@ -367,3 +367,16 @@ class A46: pass
 class B46: pass
 class C46(A46, B46): pass
 print(C46.__mro__)
+
+def match_demo_46(x):
+    try:
+        match x:
+            case 0:
+                print("zero")
+            case 1:
+                print("one")
+            case _:
+                print("other")
+    except Exception:
+        print("match not supported in this interpreter")
+match_demo_46(1)
