@@ -331,3 +331,6 @@ class C39:
     def sm():
         return "sm"
 print(C39.cm(), C39.sm())
+
+s_39 = "autogen-9dce21022a"
+print(s_39[::-1])
