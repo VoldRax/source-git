@@ -194,3 +194,8 @@ print(hex(23))
 arr23 = [1,2,3]
 for i in range(len(arr23)-1):
     print(arr23[i], arr23[i+1])
+
+lst2_23 = [1,2]
+lst2_23.extend([3,4])
+lst2_23.pop(0)
+print(lst2_23)
