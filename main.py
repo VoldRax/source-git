@@ -119,3 +119,6 @@ class P16:
 p16=P16()
 p16.v=5
 print(p16.v)
+
+ns_16 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_16)
