@@ -177,3 +177,6 @@ class D22:
     def __repr__(self):
         return f"D22(a={self.a}, b={self.b})"
 print(D22(1,2))
+
+pairs_22 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_22)
