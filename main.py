@@ -443,3 +443,7 @@ class A57: pass
 class B57: pass
 class C57(A57, B57): pass
 print(C57.__mro__)
+
+nested_57 = [[1,2],[3,4]]
+flat_57 = [x for sub in nested_57 for x in sub]
+print(flat_57)
