@@ -406,3 +406,6 @@ print(Sub50().who())
 
 s_50 = "autogen-0dcde8cffb"
 print(s_50[::-1])
+
+pairs_51 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_51)
