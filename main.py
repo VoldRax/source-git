@@ -162,3 +162,10 @@ items_20.sort(key=lambda x: x[0])
 print(items_20)
 
 print("percent style: %s" % ("ok",))
+
+def fib_21(limit):
+    a,b=0,1
+    while a<limit:
+        yield a
+        a,b=b,a+b
+print(list(fib_21(15)))
