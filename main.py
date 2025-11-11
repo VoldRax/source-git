@@ -249,3 +249,5 @@ print(templ_28.format(n=28, uid="a090eb7a6f"))
 
 c_29 = (1, [2,3], { "k": "v" })
 print(c_29)
+
+GEN_CONSTANT_30 = "generated-30-19036d7bb3"
