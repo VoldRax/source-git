@@ -284,3 +284,12 @@ def match_seq_35(x):
     except Exception:
         print("match not supported")
 match_seq_35([1,2])
+
+class C36:
+    @classmethod
+    def cm(cls):
+        return "cm"
+    @staticmethod
+    def sm():
+        return "sm"
+print(C36.cm(), C36.sm())
