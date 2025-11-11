@@ -218,3 +218,8 @@ print(arr_25[1:5:2])
 lst_26 = [3,1,2]
 lst_26.sort()
 print(lst_26)
+
+try:
+    1/0
+except ZeroDivisionError:
+    print("caught div by zero")
