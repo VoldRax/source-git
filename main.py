@@ -147,3 +147,12 @@ def deco_19(f):
 def targ_19():
     print("target")
 targ_19()
+
+class C20:
+    @classmethod
+    def cm(cls):
+        return "cm"
+    @staticmethod
+    def sm():
+        return "sm"
+print(C20.cm(), C20.sm())
