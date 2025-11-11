@@ -259,3 +259,6 @@ GEN_CONSTANT_31 = "generated-31-9b348063d8"
 
 for idx, val in enumerate([10,20,30]):
     print("enum", idx, val)
+
+name_32 = "user32"
+print(f"Hello {name_32}, uid={{name_32}} - e8f38a8b60")
