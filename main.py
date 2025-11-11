@@ -395,3 +395,11 @@ print(adder_48(10))
 
 STAMP_49 = ("2d56172829", "2025-11-11T23:40:33.283016+00:00")
 print(STAMP_49)
+
+class Base50:
+    def who(self):
+        return "base"
+class Sub50(Base50):
+    def who(self):
+        return "sub"
+print(Sub50().who())
