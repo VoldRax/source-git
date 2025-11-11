@@ -467,3 +467,15 @@ print("-".join(parts_59))
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+def deco_60(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_60
+def targ_60():
+    print("target")
+targ_60()
