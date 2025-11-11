@@ -180,3 +180,11 @@ print(D22(1,2))
 
 pairs_22 = [(i, j) for i in range(3) for j in range(2)]
 print(pairs_22)
+
+class D23:
+    def __init__(self, a, b):
+        self.a = a
+        self.b = b
+    def __repr__(self):
+        return f"D23(a={self.a}, b={self.b})"
+print(D23(1,2))
