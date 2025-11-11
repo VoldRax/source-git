@@ -296,3 +296,6 @@ print(C36.cm(), C36.sm())
 
 s_36 = sum([1,2,3,4])
 print("sum", s_36)
+
+arr_37 = list(range(6))
+print(arr_37[1:5:2])
