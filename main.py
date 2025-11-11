@@ -424,3 +424,7 @@ def f1_53(x):
 def f2_53(x):
     return x*2
 print(f2_53(f1_53(3)))
+
+items_54 = [("b",2),("a",1)]
+items_54.sort(key=lambda x: x[0])
+print(items_54)
