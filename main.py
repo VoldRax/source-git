@@ -160,3 +160,5 @@ print(C20.cm(), C20.sm())
 items_20 = [("b",2),("a",1)]
 items_20.sort(key=lambda x: x[0])
 print(items_20)
+
+print("percent style: %s" % ("ok",))
