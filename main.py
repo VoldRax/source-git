@@ -169,3 +169,11 @@ def fib_21(limit):
         yield a
         a,b=b,a+b
 print(list(fib_21(15)))
+
+class D22:
+    def __init__(self, a, b):
+        self.a = a
+        self.b = b
+    def __repr__(self):
+        return f"D22(a={self.a}, b={self.b})"
+print(D22(1,2))
