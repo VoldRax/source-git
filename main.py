@@ -387,3 +387,8 @@ for a,b in zip([1,2,3], ["x","y","z"]):
 items_47 = [("b",2),("a",1)]
 items_47.sort(key=lambda x: x[0])
 print(items_47)
+
+def make_adder_48(a):
+    return lambda x: x + a
+adder_48 = make_adder_48(5)
+print(adder_48(10))
