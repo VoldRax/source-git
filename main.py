@@ -359,3 +359,6 @@ print(mul_43(3))
 
 d_44 = {str(i): i*i for i in range(4)}
 print(d_44)
+
+arr_45=[3,5,7,9]
+print(7 in arr_45)
