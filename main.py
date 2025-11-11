@@ -211,3 +211,6 @@ print(C24.cm(), C24.sm())
 
 name_24 = "user24"
 print(f"Hello {name_24}, uid={{name_24}} - 5ee1607290")
+
+arr_25 = list(range(6))
+print(arr_25[1:5:2])
