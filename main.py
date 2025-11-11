@@ -353,3 +353,6 @@ print(raw42.strip())
 s_42 = {1,2,3}
 s_42.add(42)
 print(s_42)
+
+mul_43 = lambda x: x*2
+print(mul_43(3))
