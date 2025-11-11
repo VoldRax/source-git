@@ -485,3 +485,7 @@ print("-".join(parts_61))
 
 seq62 = [(62 + i) for i in range(4)]
 print(seq62)
+
+lst_62 = [3,1,2]
+lst_62.sort()
+print(lst_62)
