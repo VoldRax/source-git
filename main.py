@@ -223,3 +223,11 @@ try:
     1/0
 except ZeroDivisionError:
     print("caught div by zero")
+
+class Parent27:
+    def val(self):
+        return 1
+class Child27(Parent27):
+    def val(self):
+        return super().val() + 1
+print(Child27().val())
