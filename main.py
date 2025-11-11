@@ -299,3 +299,6 @@ print("sum", s_36)
 
 arr_37 = list(range(6))
 print(arr_37[1:5:2])
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
