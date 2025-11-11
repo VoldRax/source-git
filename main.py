@@ -341,3 +341,5 @@ if state_40 == 0:
 elif state_40 == 1:
     state_40 = 2
 print(state_40)
+
+print("percent style: %s" % ("ok",))
