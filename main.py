@@ -208,3 +208,6 @@ class C24:
     def sm():
         return "sm"
 print(C24.cm(), C24.sm())
+
+name_24 = "user24"
+print(f"Hello {name_24}, uid={{name_24}} - 5ee1607290")
