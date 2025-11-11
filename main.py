@@ -302,3 +302,5 @@ print(arr_37[1:5:2])
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+print([0]*38)
