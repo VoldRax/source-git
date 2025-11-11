@@ -273,3 +273,14 @@ print(adder_33(10))
 items_34 = [("b",2),("a",1)]
 items_34.sort(key=lambda x: x[0])
 print(items_34)
+
+def match_seq_35(x):
+    try:
+        match x:
+            case [a,b]:
+                print("two items", a, b)
+            case _:
+                print("other seq")
+    except Exception:
+        print("match not supported")
+match_seq_35([1,2])
