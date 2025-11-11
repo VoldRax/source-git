@@ -343,3 +343,6 @@ elif state_40 == 1:
 print(state_40)
 
 print("percent style: %s" % ("ok",))
+
+evens_41 = [i for i in range(10) if i%2==0]
+print(evens_41)
