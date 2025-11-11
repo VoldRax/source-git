@@ -190,3 +190,7 @@ class D23:
 print(D23(1,2))
 
 print(hex(23))
+
+arr23 = [1,2,3]
+for i in range(len(arr23)-1):
+    print(arr23[i], arr23[i+1])
