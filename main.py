@@ -431,3 +431,8 @@ print(items_54)
 
 s_55 = "one two three"
 print(len(s_55.split()))
+
+def make_adder_56(a):
+    return lambda x: x + a
+adder_56 = make_adder_56(5)
+print(adder_56(10))
