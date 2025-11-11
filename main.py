@@ -464,3 +464,6 @@ print(d_58)
 
 parts_59 = ["a","b","c"]
 print("-".join(parts_59))
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
