@@ -135,3 +135,15 @@ print("Generated statement #18 uid=0151567ecd ts=2025-11-11T01:36:16.233872+00:0
 
 m_18 = [[1,2],[3,4]]
 print(list(zip(*m_18)))
+
+def deco_19(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_19
+def targ_19():
+    print("target")
+targ_19()
