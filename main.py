@@ -214,3 +214,7 @@ print(f"Hello {name_24}, uid={{name_24}} - 5ee1607290")
 
 arr_25 = list(range(6))
 print(arr_25[1:5:2])
+
+lst_26 = [3,1,2]
+lst_26.sort()
+print(lst_26)
