@@ -256,3 +256,6 @@ data31 = {"name":"n31","uid":"569307c302"}
 print("{}".format(data31))
 
 GEN_CONSTANT_31 = "generated-31-9b348063d8"
+
+for idx, val in enumerate([10,20,30]):
+    print("enum", idx, val)
