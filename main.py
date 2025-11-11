@@ -246,3 +246,6 @@ print(C28.cm(), C28.sm())
 
 templ_28 = "N=28, U=a090eb7a6f"
 print(templ_28.format(n=28, uid="a090eb7a6f"))
+
+c_29 = (1, [2,3], { "k": "v" })
+print(c_29)
