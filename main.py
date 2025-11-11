@@ -188,3 +188,5 @@ class D23:
     def __repr__(self):
         return f"D23(a={self.a}, b={self.b})"
 print(D23(1,2))
+
+print(hex(23))
