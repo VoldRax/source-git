@@ -412,3 +412,6 @@ print(pairs_51)
 
 t52 = "a-b-c"
 print(t52.replace("-", "|"))
+
+raw52 = "  hello  "
+print(raw52.strip())
