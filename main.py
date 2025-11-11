@@ -380,3 +380,6 @@ def match_demo_46(x):
     except Exception:
         print("match not supported in this interpreter")
 match_demo_46(1)
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
