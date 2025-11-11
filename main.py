@@ -304,3 +304,8 @@ for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
 
 print([0]*38)
+
+def gen_38():
+    for i in range(3):
+        yield i*i
+print(list(gen_38()))
