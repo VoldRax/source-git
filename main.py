@@ -409,3 +409,6 @@ print(s_50[::-1])
 
 pairs_51 = [(i, j) for i in range(3) for j in range(2)]
 print(pairs_51)
+
+t52 = "a-b-c"
+print(t52.replace("-", "|"))
