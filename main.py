@@ -264,3 +264,8 @@ name_32 = "user32"
 print(f"Hello {name_32}, uid={{name_32}} - e8f38a8b60")
 
 print([0]*33)
+
+def make_adder_33(a):
+    return lambda x: x + a
+adder_33 = make_adder_33(5)
+print(adder_33(10))
