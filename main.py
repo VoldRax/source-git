@@ -415,3 +415,6 @@ print(t52.replace("-", "|"))
 
 raw52 = "  hello  "
 print(raw52.strip())
+
+evens_52 = [i for i in range(10) if i%2==0]
+print(evens_52)
