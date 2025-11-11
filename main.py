@@ -122,3 +122,11 @@ print(p16.v)
 
 ns_16 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_16)
+
+class GenClass17:
+    def __init__(self):
+        self.id = "01d73f3a85"
+    def show(self):
+        print("GenClass17 id:", self.id)
+obj_17 = GenClass17()
+obj_17.show()
