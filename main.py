@@ -362,3 +362,8 @@ print(d_44)
 
 arr_45=[3,5,7,9]
 print(7 in arr_45)
+
+class A46: pass
+class B46: pass
+class C46(A46, B46): pass
+print(C46.__mro__)
