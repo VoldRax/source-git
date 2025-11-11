@@ -349,3 +349,7 @@ print(evens_41)
 
 raw42 = "  hello  "
 print(raw42.strip())
+
+s_42 = {1,2,3}
+s_42.add(42)
+print(s_42)
