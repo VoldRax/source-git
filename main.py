@@ -482,3 +482,6 @@ targ_60()
 
 parts_61 = ["a","b","c"]
 print("-".join(parts_61))
+
+seq62 = [(62 + i) for i in range(4)]
+print(seq62)
