@@ -132,3 +132,6 @@ obj_17 = GenClass17()
 obj_17.show()
 
 print("Generated statement #18 uid=0151567ecd ts=2025-11-11T01:36:16.233872+00:00")
+
+m_18 = [[1,2],[3,4]]
+print(list(zip(*m_18)))
