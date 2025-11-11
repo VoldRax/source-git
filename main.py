@@ -479,3 +479,6 @@ def deco_60(f):
 def targ_60():
     print("target")
 targ_60()
+
+parts_61 = ["a","b","c"]
+print("-".join(parts_61))
