@@ -293,3 +293,6 @@ class C36:
     def sm():
         return "sm"
 print(C36.cm(), C36.sm())
+
+s_36 = sum([1,2,3,4])
+print("sum", s_36)
