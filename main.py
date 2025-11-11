@@ -461,3 +461,6 @@ with CM58():
 
 d_58 = {str(i): i*i for i in range(4)}
 print(d_58)
+
+parts_59 = ["a","b","c"]
+print("-".join(parts_59))
