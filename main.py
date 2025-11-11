@@ -346,3 +346,6 @@ print("percent style: %s" % ("ok",))
 
 evens_41 = [i for i in range(10) if i%2==0]
 print(evens_41)
+
+raw42 = "  hello  "
+print(raw42.strip())
