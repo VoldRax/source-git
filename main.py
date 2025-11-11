@@ -403,3 +403,6 @@ class Sub50(Base50):
     def who(self):
         return "sub"
 print(Sub50().who())
+
+s_50 = "autogen-0dcde8cffb"
+print(s_50[::-1])
