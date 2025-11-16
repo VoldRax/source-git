@@ -622,3 +622,16 @@ print(s80 == s80[::-1])
 
 raw80 = "  hello  "
 print(raw80.strip())
+
+class P80:
+    def __init__(self):
+        self._v=0
+    @property
+    def v(self):
+        return self._v
+    @v.setter
+    def v(self, x):
+        self._v = x
+p80=P80()
+p80.v=5
+print(p80.v)
