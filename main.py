@@ -570,3 +570,6 @@ print(list(It71(3)))
 nested_71 = [[1,2],[3,4]]
 flat_71 = [x for sub in nested_71 for x in sub]
 print(flat_71)
+
+evens_72 = [i for i in range(10) if i%2==0]
+print(evens_72)
