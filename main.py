@@ -548,3 +548,8 @@ print("-".join(parts_70))
 lst71 = ["a","b"]
 d71 = {i:lst71[i] for i in range(len(lst71))}
 print(d71)
+
+try:
+    1/0
+except ZeroDivisionError:
+    print("caught div by zero")
