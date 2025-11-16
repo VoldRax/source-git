@@ -504,3 +504,6 @@ print(repr(obj_63))
 
 s64 = "a b  c"
 print([t for t in s64.split()])
+
+arr_64 = list(range(6))
+print(arr_64[1:5:2])
