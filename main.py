@@ -580,3 +580,7 @@ def gen_73():
     for i in range(3):
         yield i*i
 print(list(gen_73()))
+
+nested_74 = [[1,2],[3,4]]
+flat_74 = [x for sub in nested_74 for x in sub]
+print(flat_74)
