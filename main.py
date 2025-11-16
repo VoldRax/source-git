@@ -566,3 +566,7 @@ class It71:
         self.i+=1
         return self.i-1
 print(list(It71(3)))
+
+nested_71 = [[1,2],[3,4]]
+flat_71 = [x for sub in nested_71 for x in sub]
+print(flat_71)
