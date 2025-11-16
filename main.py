@@ -616,3 +616,6 @@ print(c_79)
 
 seq80 = [(80 + i) for i in range(4)]
 print(seq80)
+
+s80 = "radar"
+print(s80 == s80[::-1])
