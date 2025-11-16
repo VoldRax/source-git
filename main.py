@@ -519,3 +519,11 @@ def gen_66():
     for i in range(3):
         yield i*i
 print(list(gen_66()))
+
+class GenClass67:
+    def __init__(self):
+        self.id = "a3f66602d8"
+    def show(self):
+        print("GenClass67 id:", self.id)
+obj_67 = GenClass67()
+obj_67.show()
