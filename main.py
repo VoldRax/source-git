@@ -665,3 +665,6 @@ print(noop_85())
 
 c_86 = (1, [2,3], { "k": "v" })
 print(c_86)
+
+for idx, val in enumerate([10,20,30]):
+    print("enum", idx, val)
