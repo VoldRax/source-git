@@ -662,3 +662,6 @@ print(items_84)
 
 noop_85 = lambda: None
 print(noop_85())
+
+c_86 = (1, [2,3], { "k": "v" })
+print(c_86)
