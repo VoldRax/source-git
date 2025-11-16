@@ -575,3 +575,8 @@ evens_72 = [i for i in range(10) if i%2==0]
 print(evens_72)
 
 print("percent style: %s" % ("ok",))
+
+def gen_73():
+    for i in range(3):
+        yield i*i
+print(list(gen_73()))
