@@ -643,3 +643,5 @@ print(adder_80(10))
 
 evens_81 = [i for i in range(10) if i%2==0]
 print(evens_81)
+
+print([0]*82)
