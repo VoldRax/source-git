@@ -613,3 +613,6 @@ targ_78()
 
 c_79 = (1, [2,3], { "k": "v" })
 print(c_79)
+
+seq80 = [(80 + i) for i in range(4)]
+print(seq80)
