@@ -671,3 +671,6 @@ for idx, val in enumerate([10,20,30]):
 
 expr_87 = "[1,2,3]"
 print(eval(expr_87))
+
+ns_88 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_88)
