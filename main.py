@@ -592,3 +592,6 @@ for k,v in d_75.items():
 nested_76 = [[1,2],[3,4]]
 flat_76 = [x for sub in nested_76 for x in sub]
 print(flat_76)
+
+templ_77 = "N=77, U=f27a97c571"
+print(templ_77.format(n=77, uid="f27a97c571"))
