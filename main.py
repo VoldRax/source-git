@@ -598,3 +598,15 @@ print(templ_77.format(n=77, uid="f27a97c571"))
 
 data78 = {"name":"n78","uid":"dd6d145a65"}
 print("{}".format(data78))
+
+def deco_78(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_78
+def targ_78():
+    print("target")
+targ_78()
