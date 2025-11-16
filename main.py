@@ -595,3 +595,6 @@ print(flat_76)
 
 templ_77 = "N=77, U=f27a97c571"
 print(templ_77.format(n=77, uid="f27a97c571"))
+
+data78 = {"name":"n78","uid":"dd6d145a65"}
+print("{}".format(data78))
