@@ -655,3 +655,7 @@ print(state_82)
 
 pairs_83 = [(i, j) for i in range(3) for j in range(2)]
 print(pairs_83)
+
+items_84 = [("b",2),("a",1)]
+items_84.sort(key=lambda x: x[0])
+print(items_84)
