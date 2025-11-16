@@ -588,3 +588,7 @@ print(flat_74)
 d_75 = {'a':1,'b':2}
 for k,v in d_75.items():
     print(k, v)
+
+nested_76 = [[1,2],[3,4]]
+flat_76 = [x for sub in nested_76 for x in sub]
+print(flat_76)
