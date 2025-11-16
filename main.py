@@ -645,3 +645,10 @@ evens_81 = [i for i in range(10) if i%2==0]
 print(evens_81)
 
 print([0]*82)
+
+state_82 = 0
+if state_82 == 0:
+    state_82 = 1
+elif state_82 == 1:
+    state_82 = 2
+print(state_82)
