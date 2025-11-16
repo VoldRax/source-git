@@ -652,3 +652,6 @@ if state_82 == 0:
 elif state_82 == 1:
     state_82 = 2
 print(state_82)
+
+pairs_83 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_83)
