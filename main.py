@@ -507,3 +507,10 @@ print([t for t in s64.split()])
 
 arr_64 = list(range(6))
 print(arr_64[1:5:2])
+
+state_65 = 0
+if state_65 == 0:
+    state_65 = 1
+elif state_65 == 1:
+    state_65 = 2
+print(state_65)
