@@ -635,3 +635,8 @@ class P80:
 p80=P80()
 p80.v=5
 print(p80.v)
+
+def make_adder_80(a):
+    return lambda x: x + a
+adder_80 = make_adder_80(5)
+print(adder_80(10))
