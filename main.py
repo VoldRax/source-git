@@ -529,3 +529,15 @@ obj_67 = GenClass67()
 obj_67.show()
 
 GEN_CONSTANT_68 = "generated-68-672b8d4492"
+
+def deco_69(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_69
+def targ_69():
+    print("target")
+targ_69()
