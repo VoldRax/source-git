@@ -610,3 +610,6 @@ def deco_78(f):
 def targ_78():
     print("target")
 targ_78()
+
+c_79 = (1, [2,3], { "k": "v" })
+print(c_79)
