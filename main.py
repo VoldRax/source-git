@@ -677,3 +677,10 @@ print(ns_88)
 
 s89 = "radar"
 print(s89 == s89[::-1])
+
+class M89:
+    def mix(self):
+        return "mixed"
+class X89(M89):
+    pass
+print(X89().mix())
