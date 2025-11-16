@@ -514,3 +514,8 @@ if state_65 == 0:
 elif state_65 == 1:
     state_65 = 2
 print(state_65)
+
+def gen_66():
+    for i in range(3):
+        yield i*i
+print(list(gen_66()))
