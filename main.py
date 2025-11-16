@@ -619,3 +619,6 @@ print(seq80)
 
 s80 = "radar"
 print(s80 == s80[::-1])
+
+raw80 = "  hello  "
+print(raw80.strip())
