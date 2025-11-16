@@ -544,3 +544,7 @@ targ_69()
 
 parts_70 = ["a","b","c"]
 print("-".join(parts_70))
+
+lst71 = ["a","b"]
+d71 = {i:lst71[i] for i in range(len(lst71))}
+print(d71)
