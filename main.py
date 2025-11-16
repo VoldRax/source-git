@@ -668,3 +668,6 @@ print(c_86)
 
 for idx, val in enumerate([10,20,30]):
     print("enum", idx, val)
+
+expr_87 = "[1,2,3]"
+print(eval(expr_87))
