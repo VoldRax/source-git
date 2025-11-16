@@ -640,3 +640,6 @@ def make_adder_80(a):
     return lambda x: x + a
 adder_80 = make_adder_80(5)
 print(adder_80(10))
+
+evens_81 = [i for i in range(10) if i%2==0]
+print(evens_81)
