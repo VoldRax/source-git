@@ -744,3 +744,6 @@ print(lst2_95)
 arr96 = [1,2,3]
 for i in range(len(arr96)-1):
     print(arr96[i], arr96[i+1])
+
+u96 = "\u00fc\u00f1\u00ee"
+print(len(u96))
