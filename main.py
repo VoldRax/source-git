@@ -717,3 +717,7 @@ class D91:
     def __repr__(self):
         return f"D91(a={self.a}, b={self.b})"
 print(D91(1,2))
+
+lst_91 = [3,1,2]
+lst_91.sort()
+print(lst_91)
