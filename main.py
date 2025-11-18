@@ -740,3 +740,7 @@ lst2_95 = [1,2]
 lst2_95.extend([3,4])
 lst2_95.pop(0)
 print(lst2_95)
+
+arr96 = [1,2,3]
+for i in range(len(arr96)-1):
+    print(arr96[i], arr96[i+1])
