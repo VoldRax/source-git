@@ -696,3 +696,7 @@ def is_prime_90(x):
 print(is_prime_90(13))
 
 print("percent style: %s" % ("ok",))
+
+lst91 = ["a","b"]
+d91 = {i:lst91[i] for i in range(len(lst91))}
+print(d91)
