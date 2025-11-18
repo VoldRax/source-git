@@ -812,3 +812,6 @@ try:
     print(g.send(10))
 except StopIteration:
     pass
+
+raw107 = "  hello  "
+print(raw107.strip())
