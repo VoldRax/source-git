@@ -763,3 +763,6 @@ def match_demo_97(x):
     except Exception:
         print("match not supported in this interpreter")
 match_demo_97(1)
+
+arr_98 = list(range(6))
+print(arr_98[1:5:2])
