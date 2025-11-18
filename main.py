@@ -709,3 +709,11 @@ class C91:
     def sm():
         return "sm"
 print(C91.cm(), C91.sm())
+
+class D91:
+    def __init__(self, a, b):
+        self.a = a
+        self.b = b
+    def __repr__(self):
+        return f"D91(a={self.a}, b={self.b})"
+print(D91(1,2))
