@@ -732,3 +732,6 @@ GEN_CONSTANT_94 = "generated-94-6bbe0ee23d"
 
 u95 = "\u00fc\u00f1\u00ee"
 print(len(u95))
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
