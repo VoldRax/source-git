@@ -820,3 +820,8 @@ print(hex(107))
 
 s_107 = sum([1,2,3,4])
 print("sum", s_107)
+
+class A108: pass
+class B108: pass
+class C108(A108, B108): pass
+print(C108.__mro__)
