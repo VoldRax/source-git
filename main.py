@@ -766,3 +766,6 @@ match_demo_97(1)
 
 arr_98 = list(range(6))
 print(arr_98[1:5:2])
+
+templ_99 = "N=99, U=20dd5e08fe"
+print(templ_99.format(n=99, uid="20dd5e08fe"))
