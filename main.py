@@ -850,3 +850,6 @@ def is_prime_112(x):
         if x%i==0: return False
     return True
 print(is_prime_112(13))
+
+numbers_113 = [i * 2 for i in range(5)]
+print(numbers_113)
