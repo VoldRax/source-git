@@ -747,3 +747,6 @@ for i in range(len(arr96)-1):
 
 u96 = "\u00fc\u00f1\u00ee"
 print(len(u96))
+
+evens_96 = [i for i in range(10) if i%2==0]
+print(evens_96)
