@@ -830,3 +830,6 @@ lst2_108 = [1,2]
 lst2_108.extend([3,4])
 lst2_108.pop(0)
 print(lst2_108)
+
+s_109 = "one two three"
+print(len(s_109.split()))
