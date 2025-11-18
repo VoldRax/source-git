@@ -802,3 +802,13 @@ print(raw106.strip())
 
 seq106 = [(106 + i) for i in range(4)]
 print(seq106)
+
+def gen_send_106():
+    v = yield "start"
+    yield v
+g = gen_send_106()
+try:
+    print(next(g))
+    print(g.send(10))
+except StopIteration:
+    pass
