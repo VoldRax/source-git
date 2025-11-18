@@ -843,3 +843,10 @@ print("add:", add_110(2,3))
 
 pairs_111 = [(i, j) for i in range(3) for j in range(2)]
 print(pairs_111)
+
+def is_prime_112(x):
+    if x<2: return False
+    for i in range(2,int(x**0.5)+1):
+        if x%i==0: return False
+    return True
+print(is_prime_112(13))
