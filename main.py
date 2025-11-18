@@ -825,3 +825,8 @@ class A108: pass
 class B108: pass
 class C108(A108, B108): pass
 print(C108.__mro__)
+
+lst2_108 = [1,2]
+lst2_108.extend([3,4])
+lst2_108.pop(0)
+print(lst2_108)
