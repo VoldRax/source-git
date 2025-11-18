@@ -781,3 +781,7 @@ print(f2_101(f1_101(3)))
 
 pairs_102 = [(i, j) for i in range(3) for j in range(2)]
 print(pairs_102)
+
+def gen_fn_103():
+    return "fn-103-48373e3ffc"
+print(gen_fn_103())
