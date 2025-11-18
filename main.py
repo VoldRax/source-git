@@ -789,3 +789,10 @@ print(gen_fn_103())
 def fact_104(x):
     return 1 if x<=1 else x * fact_104(x-1)
 print("fact", fact_104(5))
+
+def fib_105(limit):
+    a,b=0,1
+    while a<limit:
+        yield a
+        a,b=b,a+b
+print(list(fib_105(15)))
