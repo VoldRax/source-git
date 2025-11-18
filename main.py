@@ -833,3 +833,6 @@ print(lst2_108)
 
 s_109 = "one two three"
 print(len(s_109.split()))
+
+for idx, val in enumerate([10,20,30]):
+    print("enum", idx, val)
