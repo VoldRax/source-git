@@ -750,3 +750,16 @@ print(len(u96))
 
 evens_96 = [i for i in range(10) if i%2==0]
 print(evens_96)
+
+def match_demo_97(x):
+    try:
+        match x:
+            case 0:
+                print("zero")
+            case 1:
+                print("one")
+            case _:
+                print("other")
+    except Exception:
+        print("match not supported in this interpreter")
+match_demo_97(1)
