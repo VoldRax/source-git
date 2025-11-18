@@ -840,3 +840,6 @@ for idx, val in enumerate([10,20,30]):
 def add_110(a,b):
     return a+b
 print("add:", add_110(2,3))
+
+pairs_111 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_111)
