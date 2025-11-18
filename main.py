@@ -724,3 +724,6 @@ print(lst_91)
 
 arr_92=[3,5,7,9]
 print(7 in arr_92)
+
+mul_93 = lambda x: x*2
+print(mul_93(3))
