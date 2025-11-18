@@ -778,3 +778,6 @@ def f1_101(x):
 def f2_101(x):
     return x*2
 print(f2_101(f1_101(3)))
+
+pairs_102 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_102)
