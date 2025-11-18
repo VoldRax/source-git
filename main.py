@@ -817,3 +817,6 @@ raw107 = "  hello  "
 print(raw107.strip())
 
 print(hex(107))
+
+s_107 = sum([1,2,3,4])
+print("sum", s_107)
