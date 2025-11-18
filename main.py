@@ -815,3 +815,5 @@ except StopIteration:
 
 raw107 = "  hello  "
 print(raw107.strip())
+
+print(hex(107))
