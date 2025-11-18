@@ -796,3 +796,6 @@ def fib_105(limit):
         yield a
         a,b=b,a+b
 print(list(fib_105(15)))
+
+raw106 = "  hello  "
+print(raw106.strip())
