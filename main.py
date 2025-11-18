@@ -785,3 +785,7 @@ print(pairs_102)
 def gen_fn_103():
     return "fn-103-48373e3ffc"
 print(gen_fn_103())
+
+def fact_104(x):
+    return 1 if x<=1 else x * fact_104(x-1)
+print("fact", fact_104(5))
