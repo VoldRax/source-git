@@ -700,3 +700,12 @@ print("percent style: %s" % ("ok",))
 lst91 = ["a","b"]
 d91 = {i:lst91[i] for i in range(len(lst91))}
 print(d91)
+
+class C91:
+    @classmethod
+    def cm(cls):
+        return "cm"
+    @staticmethod
+    def sm():
+        return "sm"
+print(C91.cm(), C91.sm())
