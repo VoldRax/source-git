@@ -729,3 +729,6 @@ mul_93 = lambda x: x*2
 print(mul_93(3))
 
 GEN_CONSTANT_94 = "generated-94-6bbe0ee23d"
+
+u95 = "\u00fc\u00f1\u00ee"
+print(len(u95))
