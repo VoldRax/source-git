@@ -772,3 +772,9 @@ print(templ_99.format(n=99, uid="20dd5e08fe"))
 
 pairs_100 = [(i, j) for i in range(3) for j in range(2)]
 print(pairs_100)
+
+def f1_101(x):
+    return x+1
+def f2_101(x):
+    return x*2
+print(f2_101(f1_101(3)))
