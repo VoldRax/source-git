@@ -684,3 +684,6 @@ class M89:
 class X89(M89):
     pass
 print(X89().mix())
+
+arr_89=[3,5,7,9]
+print(7 in arr_89)
