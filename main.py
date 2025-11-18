@@ -694,3 +694,5 @@ def is_prime_90(x):
         if x%i==0: return False
     return True
 print(is_prime_90(13))
+
+print("percent style: %s" % ("ok",))
