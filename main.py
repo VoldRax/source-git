@@ -721,3 +721,6 @@ print(D91(1,2))
 lst_91 = [3,1,2]
 lst_91.sort()
 print(lst_91)
+
+arr_92=[3,5,7,9]
+print(7 in arr_92)
