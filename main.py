@@ -799,3 +799,6 @@ print(list(fib_105(15)))
 
 raw106 = "  hello  "
 print(raw106.strip())
+
+seq106 = [(106 + i) for i in range(4)]
+print(seq106)
