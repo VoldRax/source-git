@@ -769,3 +769,6 @@ print(arr_98[1:5:2])
 
 templ_99 = "N=99, U=20dd5e08fe"
 print(templ_99.format(n=99, uid="20dd5e08fe"))
+
+pairs_100 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_100)
