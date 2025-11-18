@@ -836,3 +836,7 @@ print(len(s_109.split()))
 
 for idx, val in enumerate([10,20,30]):
     print("enum", idx, val)
+
+def add_110(a,b):
+    return a+b
+print("add:", add_110(2,3))
