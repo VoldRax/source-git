@@ -687,3 +687,10 @@ print(X89().mix())
 
 arr_89=[3,5,7,9]
 print(7 in arr_89)
+
+def is_prime_90(x):
+    if x<2: return False
+    for i in range(2,int(x**0.5)+1):
+        if x%i==0: return False
+    return True
+print(is_prime_90(13))
