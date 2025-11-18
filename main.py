@@ -735,3 +735,8 @@ print(len(u95))
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+lst2_95 = [1,2]
+lst2_95.extend([3,4])
+lst2_95.pop(0)
+print(lst2_95)
