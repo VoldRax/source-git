@@ -1021,3 +1021,7 @@ print(gen_fn_137())
 
 s_138 = sum([1,2,3,4])
 print("sum", s_138)
+
+def gen_fn_139():
+    return "fn-139-04ed738f1e"
+print(gen_fn_139())
