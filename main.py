@@ -1025,3 +1025,6 @@ print("sum", s_138)
 def gen_fn_139():
     return "fn-139-04ed738f1e"
 print(gen_fn_139())
+
+dkeys_140 = list({'x':9,'y':8}.keys())
+print(dkeys_140)
