@@ -890,3 +890,6 @@ def deco_116(f):
 def targ_116():
     print("target")
 targ_116()
+
+a117 = list(range(10))
+print(a117[::2])
