@@ -981,3 +981,10 @@ print(items_130)
 
 parts_131 = ["a","b","c"]
 print("-".join(parts_131))
+
+def fib_132(limit):
+    a,b=0,1
+    while a<limit:
+        yield a
+        a,b=b,a+b
+print(list(fib_132(15)))
