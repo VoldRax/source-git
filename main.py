@@ -878,3 +878,15 @@ print(Child116().val())
 
 for idx, val in enumerate([10,20,30]):
     print("enum", idx, val)
+
+def deco_116(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_116
+def targ_116():
+    print("target")
+targ_116()
