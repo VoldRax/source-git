@@ -915,3 +915,15 @@ print("{}".format(data118))
 
 arr_118=[3,5,7,9]
 print(7 in arr_118)
+
+def deco_119(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_119
+def targ_119():
+    print("target")
+targ_119()
