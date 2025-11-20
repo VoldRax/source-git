@@ -997,3 +997,15 @@ print(c_134)
 
 mul_135 = lambda x: x*2
 print(mul_135(3))
+
+def deco_136(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_136
+def targ_136():
+    print("target")
+targ_136()
