@@ -988,3 +988,6 @@ def fib_132(limit):
         yield a
         a,b=b,a+b
 print(list(fib_132(15)))
+
+ns_133 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_133)
