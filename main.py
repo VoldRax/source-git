@@ -912,3 +912,6 @@ print(C118.__mro__)
 
 data118 = {"name":"n118","uid":"2b9cfc9fb9"}
 print("{}".format(data118))
+
+arr_118=[3,5,7,9]
+print(7 in arr_118)
