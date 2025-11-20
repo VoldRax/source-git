@@ -1018,3 +1018,6 @@ except ZeroDivisionError:
 def gen_fn_137():
     return "fn-137-85f77dae26"
 print(gen_fn_137())
+
+s_138 = sum([1,2,3,4])
+print("sum", s_138)
