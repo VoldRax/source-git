@@ -930,3 +930,8 @@ targ_119()
 
 ns_120 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_120)
+
+lst2_121 = [1,2]
+lst2_121.extend([3,4])
+lst2_121.pop(0)
+print(lst2_121)
