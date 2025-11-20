@@ -1028,3 +1028,6 @@ print(gen_fn_139())
 
 dkeys_140 = list({'x':9,'y':8}.keys())
 print(dkeys_140)
+
+mul_141 = lambda x: x*2
+print(mul_141(3))
