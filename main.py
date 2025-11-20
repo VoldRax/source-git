@@ -935,3 +935,6 @@ lst2_121 = [1,2]
 lst2_121.extend([3,4])
 lst2_121.pop(0)
 print(lst2_121)
+
+arr_122 = list(range(6))
+print(arr_122[1:5:2])
