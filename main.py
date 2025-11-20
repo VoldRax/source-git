@@ -954,3 +954,6 @@ parts_126 = ["a","b","c"]
 print("-".join(parts_126))
 
 print(True and False, True or False, not False)
+
+seq127 = [(127 + i) for i in range(4)]
+print(seq127)
