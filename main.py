@@ -1009,3 +1009,8 @@ def deco_136(f):
 def targ_136():
     print("target")
 targ_136()
+
+try:
+    1/0
+except ZeroDivisionError:
+    print("caught div by zero")
