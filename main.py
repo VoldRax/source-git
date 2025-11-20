@@ -875,3 +875,6 @@ class Child116(Parent116):
     def val(self):
         return super().val() + 1
 print(Child116().val())
+
+for idx, val in enumerate([10,20,30]):
+    print("enum", idx, val)
