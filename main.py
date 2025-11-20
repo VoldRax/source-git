@@ -1014,3 +1014,7 @@ try:
     1/0
 except ZeroDivisionError:
     print("caught div by zero")
+
+def gen_fn_137():
+    return "fn-137-85f77dae26"
+print(gen_fn_137())
