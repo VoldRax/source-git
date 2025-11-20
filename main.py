@@ -957,3 +957,8 @@ print(True and False, True or False, not False)
 
 seq127 = [(127 + i) for i in range(4)]
 print(seq127)
+
+lst2_127 = [1,2]
+lst2_127.extend([3,4])
+lst2_127.pop(0)
+print(lst2_127)
