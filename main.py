@@ -898,3 +898,6 @@ try:
     1/0
 except ZeroDivisionError:
     print("caught div by zero")
+
+templ_117 = "N=117, U=5598d2e790"
+print(templ_117.format(n=117, uid="5598d2e790"))
