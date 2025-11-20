@@ -994,3 +994,6 @@ print(ns_133)
 
 c_134 = (1, [2,3], { "k": "v" })
 print(c_134)
+
+mul_135 = lambda x: x*2
+print(mul_135(3))
