@@ -941,3 +941,7 @@ print(arr_122[1:5:2])
 
 ns_123 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_123)
+
+s_124 = {1,2,3}
+s_124.add(124)
+print(s_124)
