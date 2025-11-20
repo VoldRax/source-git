@@ -927,3 +927,6 @@ def deco_119(f):
 def targ_119():
     print("target")
 targ_119()
+
+ns_120 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_120)
