@@ -962,3 +962,11 @@ lst2_127 = [1,2]
 lst2_127.extend([3,4])
 lst2_127.pop(0)
 print(lst2_127)
+
+class GenClass128:
+    def __init__(self):
+        self.id = "c7ba3cb825"
+    def show(self):
+        print("GenClass128 id:", self.id)
+obj_128 = GenClass128()
+obj_128.show()
