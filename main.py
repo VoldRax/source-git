@@ -949,3 +949,6 @@ print(s_124)
 s_125 = {1,2,3}
 s_125.add(125)
 print(s_125)
+
+parts_126 = ["a","b","c"]
+print("-".join(parts_126))
