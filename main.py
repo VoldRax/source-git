@@ -970,3 +970,7 @@ class GenClass128:
         print("GenClass128 id:", self.id)
 obj_128 = GenClass128()
 obj_128.show()
+
+def fact_129(x):
+    return 1 if x<=1 else x * fact_129(x-1)
+print("fact", fact_129(5))
