@@ -938,3 +938,6 @@ print(lst2_121)
 
 arr_122 = list(range(6))
 print(arr_122[1:5:2])
+
+ns_123 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_123)
