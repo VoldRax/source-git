@@ -904,3 +904,8 @@ print(templ_117.format(n=117, uid="5598d2e790"))
 
 s118 = "radar"
 print(s118 == s118[::-1])
+
+class A118: pass
+class B118: pass
+class C118(A118, B118): pass
+print(C118.__mro__)
