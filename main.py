@@ -952,3 +952,5 @@ print(s_125)
 
 parts_126 = ["a","b","c"]
 print("-".join(parts_126))
+
+print(True and False, True or False, not False)
