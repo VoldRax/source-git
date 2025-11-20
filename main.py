@@ -893,3 +893,8 @@ targ_116()
 
 a117 = list(range(10))
 print(a117[::2])
+
+try:
+    1/0
+except ZeroDivisionError:
+    print("caught div by zero")
