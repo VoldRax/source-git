@@ -974,3 +974,7 @@ obj_128.show()
 def fact_129(x):
     return 1 if x<=1 else x * fact_129(x-1)
 print("fact", fact_129(5))
+
+items_130 = [("b",2),("a",1)]
+items_130.sort(key=lambda x: x[0])
+print(items_130)
