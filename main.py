@@ -867,3 +867,11 @@ print(f"Hello {name_115}, uid={{name_115}} - 2e42386b30")
 
 a116 = list(range(10))
 print(a116[::2])
+
+class Parent116:
+    def val(self):
+        return 1
+class Child116(Parent116):
+    def val(self):
+        return super().val() + 1
+print(Child116().val())
