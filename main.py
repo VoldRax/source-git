@@ -864,3 +864,6 @@ obj_114.show()
 
 name_115 = "user115"
 print(f"Hello {name_115}, uid={{name_115}} - 2e42386b30")
+
+a116 = list(range(10))
+print(a116[::2])
