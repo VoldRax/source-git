@@ -991,3 +991,6 @@ print(list(fib_132(15)))
 
 ns_133 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_133)
+
+c_134 = (1, [2,3], { "k": "v" })
+print(c_134)
