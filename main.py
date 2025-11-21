@@ -1178,3 +1178,6 @@ class C162:
     def sm():
         return "sm"
 print(C162.cm(), C162.sm())
+
+d_162 = {str(i): i*i for i in range(4)}
+print(d_162)
