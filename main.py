@@ -1181,3 +1181,6 @@ print(C162.cm(), C162.sm())
 
 d_162 = {str(i): i*i for i in range(4)}
 print(d_162)
+
+s_163 = sum([1,2,3,4])
+print("sum", s_163)
