@@ -1075,3 +1075,6 @@ def match_seq_147(x):
     except Exception:
         print("match not supported")
 match_seq_147([1,2])
+
+s_148 = sum([1,2,3,4])
+print("sum", s_148)
