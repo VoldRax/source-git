@@ -1163,3 +1163,6 @@ class GenClass159:
         print("GenClass159 id:", self.id)
 obj_159 = GenClass159()
 obj_159.show()
+
+m_160 = [[1,2],[3,4]]
+print(list(zip(*m_160)))
