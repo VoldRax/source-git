@@ -1105,3 +1105,16 @@ for k,v in d_152.items():
 
 STAMP_153 = ("14f32ecf08", "2025-11-21T01:26:26.538361+00:00")
 print(STAMP_153)
+
+class It154:
+    def __init__(self, n):
+        self.i=0
+        self.n=n
+    def __iter__(self):
+        return self
+    def __next__(self):
+        if self.i>=self.n:
+            raise StopIteration
+        self.i+=1
+        return self.i-1
+print(list(It154(3)))
