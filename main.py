@@ -1201,3 +1201,8 @@ print("{}".format(data166))
 
 evens_166 = [i for i in range(10) if i%2==0]
 print(evens_166)
+
+lst2_167 = [1,2]
+lst2_167.extend([3,4])
+lst2_167.pop(0)
+print(lst2_167)
