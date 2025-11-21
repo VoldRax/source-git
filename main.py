@@ -1206,3 +1206,6 @@ lst2_167 = [1,2]
 lst2_167.extend([3,4])
 lst2_167.pop(0)
 print(lst2_167)
+
+s168 = "a b  c"
+print([t for t in s168.split()])
