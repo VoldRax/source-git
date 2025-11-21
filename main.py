@@ -1118,3 +1118,5 @@ class It154:
         self.i+=1
         return self.i-1
 print(list(It154(3)))
+
+print([0]*154)
