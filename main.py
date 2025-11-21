@@ -1043,3 +1043,8 @@ print(s_143)
 
 arr_144 = list(range(6))
 print(arr_144[1:5:2])
+
+try:
+    1/0
+except ZeroDivisionError:
+    print("caught div by zero")
