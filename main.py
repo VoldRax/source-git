@@ -1137,3 +1137,15 @@ print(noop_156())
 
 name_157 = "user157"
 print(f"Hello {name_157}, uid={{name_157}} - 209bad35c5")
+
+def deco_158(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_158
+def targ_158():
+    print("target")
+targ_158()
