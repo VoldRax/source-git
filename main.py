@@ -1064,3 +1064,14 @@ targ_145()
 nested_146 = [[1,2],[3,4]]
 flat_146 = [x for sub in nested_146 for x in sub]
 print(flat_146)
+
+def match_seq_147(x):
+    try:
+        match x:
+            case [a,b]:
+                print("two items", a, b)
+            case _:
+                print("other seq")
+    except Exception:
+        print("match not supported")
+match_seq_147([1,2])
