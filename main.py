@@ -1152,3 +1152,6 @@ targ_158()
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+d159 = {}
+print(d159.get('missing', 'def'))
