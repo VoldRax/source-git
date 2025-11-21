@@ -1131,3 +1131,6 @@ print(c_155)
 print(156 << 1, 156 >> 1)
 
 print([0]*156)
+
+noop_156 = lambda: None
+print(noop_156())
