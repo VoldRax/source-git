@@ -1188,3 +1188,10 @@ print("sum", s_163)
 d_164 = {'a':1,'b':2}
 for k,v in d_164.items():
     print(k, v)
+
+def is_prime_165(x):
+    if x<2: return False
+    for i in range(2,int(x**0.5)+1):
+        if x%i==0: return False
+    return True
+print(is_prime_165(13))
