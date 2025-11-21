@@ -1084,3 +1084,10 @@ print(s149 == s149[::-1])
 
 vals_149 = list(map(lambda x: x*2, [1,2,3]))
 print(vals_149)
+
+def is_prime_150(x):
+    if x<2: return False
+    for i in range(2,int(x**0.5)+1):
+        if x%i==0: return False
+    return True
+print(is_prime_150(13))
