@@ -1169,3 +1169,12 @@ print(list(zip(*m_160)))
 
 obj_161 = { "id": "612d3417c8", "ts":"2025-11-21T01:26:55.389904+00:00" }
 print(repr(obj_161))
+
+class C162:
+    @classmethod
+    def cm(cls):
+        return "cm"
+    @staticmethod
+    def sm():
+        return "sm"
+print(C162.cm(), C162.sm())
