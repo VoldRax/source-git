@@ -1209,3 +1209,10 @@ print(lst2_167)
 
 s168 = "a b  c"
 print([t for t in s168.split()])
+
+def is_prime_168(x):
+    if x<2: return False
+    for i in range(2,int(x**0.5)+1):
+        if x%i==0: return False
+    return True
+print(is_prime_168(13))
