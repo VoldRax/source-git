@@ -1195,3 +1195,6 @@ def is_prime_165(x):
         if x%i==0: return False
     return True
 print(is_prime_165(13))
+
+data166 = {"name":"n166","uid":"b4e85dbe17"}
+print("{}".format(data166))
