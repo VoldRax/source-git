@@ -1216,3 +1216,6 @@ def is_prime_168(x):
         if x%i==0: return False
     return True
 print(is_prime_168(13))
+
+a169 = list(range(10))
+print(a169[::2])
