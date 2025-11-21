@@ -1081,3 +1081,6 @@ print("sum", s_148)
 
 s149 = "radar"
 print(s149 == s149[::-1])
+
+vals_149 = list(map(lambda x: x*2, [1,2,3]))
+print(vals_149)
