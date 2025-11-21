@@ -1120,3 +1120,7 @@ class It154:
 print(list(It154(3)))
 
 print([0]*154)
+
+lst_154 = [3,1,2]
+lst_154.sort()
+print(lst_154)
