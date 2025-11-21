@@ -1098,3 +1098,7 @@ if state_151 == 0:
 elif state_151 == 1:
     state_151 = 2
 print(state_151)
+
+d_152 = {'a':1,'b':2}
+for k,v in d_152.items():
+    print(k, v)
