@@ -1184,3 +1184,7 @@ print(d_162)
 
 s_163 = sum([1,2,3,4])
 print("sum", s_163)
+
+d_164 = {'a':1,'b':2}
+for k,v in d_164.items():
+    print(k, v)
