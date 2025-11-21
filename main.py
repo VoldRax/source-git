@@ -1222,3 +1222,6 @@ print(a169[::2])
 
 templ_169 = "N=169, U=7058c6d696"
 print(templ_169.format(n=169, uid="7058c6d696"))
+
+mul_170 = lambda x: x*2
+print(mul_170(3))
