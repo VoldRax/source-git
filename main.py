@@ -1060,3 +1060,7 @@ def deco_145(f):
 def targ_145():
     print("target")
 targ_145()
+
+nested_146 = [[1,2],[3,4]]
+flat_146 = [x for sub in nested_146 for x in sub]
+print(flat_146)
