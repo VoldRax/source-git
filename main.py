@@ -1149,3 +1149,6 @@ def deco_158(f):
 def targ_158():
     print("target")
 targ_158()
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
