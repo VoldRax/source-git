@@ -1091,3 +1091,10 @@ def is_prime_150(x):
         if x%i==0: return False
     return True
 print(is_prime_150(13))
+
+state_151 = 0
+if state_151 == 0:
+    state_151 = 1
+elif state_151 == 1:
+    state_151 = 2
+print(state_151)
