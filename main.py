@@ -1198,3 +1198,6 @@ print(is_prime_165(13))
 
 data166 = {"name":"n166","uid":"b4e85dbe17"}
 print("{}".format(data166))
+
+evens_166 = [i for i in range(10) if i%2==0]
+print(evens_166)
