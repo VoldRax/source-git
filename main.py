@@ -1048,3 +1048,15 @@ try:
     1/0
 except ZeroDivisionError:
     print("caught div by zero")
+
+def deco_145(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_145
+def targ_145():
+    print("target")
+targ_145()
