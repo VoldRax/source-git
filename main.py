@@ -1155,3 +1155,11 @@ for a,b in zip([1,2,3], ["x","y","z"]):
 
 d159 = {}
 print(d159.get('missing', 'def'))
+
+class GenClass159:
+    def __init__(self):
+        self.id = "cc6a7c72fb"
+    def show(self):
+        print("GenClass159 id:", self.id)
+obj_159 = GenClass159()
+obj_159.show()
