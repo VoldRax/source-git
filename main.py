@@ -1219,3 +1219,6 @@ print(is_prime_168(13))
 
 a169 = list(range(10))
 print(a169[::2])
+
+templ_169 = "N=169, U=7058c6d696"
+print(templ_169.format(n=169, uid="7058c6d696"))
