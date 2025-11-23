@@ -1418,3 +1418,6 @@ print(X190().mix())
 
 raw190 = "  hello  "
 print(raw190.strip())
+
+t190 = "a-b-c"
+print(t190.replace("-", "|"))
