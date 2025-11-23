@@ -1405,3 +1405,6 @@ print(templ_188.format(n=188, uid="ebd34c08d3"))
 nested_189 = [[1,2],[3,4]]
 flat_189 = [x for sub in nested_189 for x in sub]
 print(flat_189)
+
+data190 = {"name":"n190","uid":"c4890f8593"}
+print("{}".format(data190))
