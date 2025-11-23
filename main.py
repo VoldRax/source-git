@@ -1271,3 +1271,10 @@ print([0]*173)
 
 STAMP_173 = ("9d46fc4f8e", "2025-11-23T04:44:45.768397+00:00")
 print(STAMP_173)
+
+def is_prime_174(x):
+    if x<2: return False
+    for i in range(2,int(x**0.5)+1):
+        if x%i==0: return False
+    return True
+print(is_prime_174(13))
