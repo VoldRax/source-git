@@ -1258,3 +1258,11 @@ def match_demo_172(x):
     except Exception:
         print("match not supported in this interpreter")
 match_demo_172(1)
+
+class Base173:
+    def who(self):
+        return "base"
+class Sub173(Base173):
+    def who(self):
+        return "sub"
+print(Sub173().who())
