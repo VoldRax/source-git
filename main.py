@@ -1291,3 +1291,10 @@ print("fact", fact_176(5))
 
 s177 = "a b  c"
 print([t for t in s177.split()])
+
+def fib_177(limit):
+    a,b=0,1
+    while a<limit:
+        yield a
+        a,b=b,a+b
+print(list(fib_177(15)))
