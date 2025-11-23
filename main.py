@@ -1298,3 +1298,16 @@ def fib_177(limit):
         yield a
         a,b=b,a+b
 print(list(fib_177(15)))
+
+class P178:
+    def __init__(self):
+        self._v=0
+    @property
+    def v(self):
+        return self._v
+    @v.setter
+    def v(self, x):
+        self._v = x
+p178=P178()
+p178.v=5
+print(p178.v)
