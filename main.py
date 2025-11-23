@@ -1242,3 +1242,6 @@ class C172:
     def sm():
         return "sm"
 print(C172.cm(), C172.sm())
+
+u172 = "\u00fc\u00f1\u00ee"
+print(len(u172))
