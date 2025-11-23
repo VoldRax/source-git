@@ -1395,3 +1395,6 @@ obj_186 = GenClass186()
 obj_186.show()
 
 GEN_CONSTANT_187 = "generated-187-345e8ddd23"
+
+s188 = "radar"
+print(s188 == s188[::-1])
