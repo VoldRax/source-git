@@ -1284,3 +1284,7 @@ print(ns_175)
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+def fact_176(x):
+    return 1 if x<=1 else x * fact_176(x-1)
+print("fact", fact_176(5))
