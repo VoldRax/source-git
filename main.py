@@ -1415,3 +1415,6 @@ class M190:
 class X190(M190):
     pass
 print(X190().mix())
+
+raw190 = "  hello  "
+print(raw190.strip())
