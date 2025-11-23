@@ -1225,3 +1225,6 @@ print(templ_169.format(n=169, uid="7058c6d696"))
 
 mul_170 = lambda x: x*2
 print(mul_170(3))
+
+expr_171 = "[1,2,3]"
+print(eval(expr_171))
