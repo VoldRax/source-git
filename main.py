@@ -1228,3 +1228,8 @@ print(mul_170(3))
 
 expr_171 = "[1,2,3]"
 print(eval(expr_171))
+
+try:
+    1/0
+except ZeroDivisionError:
+    print("caught div by zero")
