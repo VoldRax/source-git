@@ -1437,3 +1437,7 @@ print(list(It190(3)))
 
 numbers_190 = [i * 2 for i in range(5)]
 print(numbers_190)
+
+def fact_191(x):
+    return 1 if x<=1 else x * fact_191(x-1)
+print("fact", fact_191(5))
