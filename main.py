@@ -1434,3 +1434,6 @@ class It190:
         self.i+=1
         return self.i-1
 print(list(It190(3)))
+
+numbers_190 = [i * 2 for i in range(5)]
+print(numbers_190)
