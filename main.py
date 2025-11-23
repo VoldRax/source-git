@@ -1398,3 +1398,6 @@ GEN_CONSTANT_187 = "generated-187-345e8ddd23"
 
 s188 = "radar"
 print(s188 == s188[::-1])
+
+templ_188 = "N=188, U=ebd34c08d3"
+print(templ_188.format(n=188, uid="ebd34c08d3"))
