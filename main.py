@@ -1385,3 +1385,11 @@ class It186:
         self.i+=1
         return self.i-1
 print(list(It186(3)))
+
+class GenClass186:
+    def __init__(self):
+        self.id = "0134f29876"
+    def show(self):
+        print("GenClass186 id:", self.id)
+obj_186 = GenClass186()
+obj_186.show()
