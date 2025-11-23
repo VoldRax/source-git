@@ -1311,3 +1311,6 @@ class P178:
 p178=P178()
 p178.v=5
 print(p178.v)
+
+parts_178 = ["a","b","c"]
+print("-".join(parts_178))
