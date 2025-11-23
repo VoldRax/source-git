@@ -1281,3 +1281,6 @@ print(is_prime_174(13))
 
 ns_175 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_175)
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
