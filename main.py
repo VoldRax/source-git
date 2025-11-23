@@ -1333,3 +1333,6 @@ class It181:
         self.i+=1
         return self.i-1
 print(list(It181(3)))
+
+arr_181 = list(range(6))
+print(arr_181[1:5:2])
