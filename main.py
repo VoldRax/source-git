@@ -1278,3 +1278,6 @@ def is_prime_174(x):
         if x%i==0: return False
     return True
 print(is_prime_174(13))
+
+ns_175 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_175)
