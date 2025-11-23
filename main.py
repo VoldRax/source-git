@@ -1359,3 +1359,16 @@ class Sub186(Base186):
     def who(self):
         return "sub"
 print(Sub186().who())
+
+class It186:
+    def __init__(self, n):
+        self.i=0
+        self.n=n
+    def __iter__(self):
+        return self
+    def __next__(self):
+        if self.i>=self.n:
+            raise StopIteration
+        self.i+=1
+        return self.i-1
+print(list(It186(3)))
