@@ -1348,3 +1348,6 @@ print(ns_183)
 
 s_184 = sum([1,2,3,4])
 print("sum", s_184)
+
+numbers_185 = [i * 2 for i in range(5)]
+print(numbers_185)
