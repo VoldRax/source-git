@@ -1266,3 +1266,5 @@ class Sub173(Base173):
     def who(self):
         return "sub"
 print(Sub173().who())
+
+print([0]*173)
