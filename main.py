@@ -1233,3 +1233,12 @@ try:
     1/0
 except ZeroDivisionError:
     print("caught div by zero")
+
+class C172:
+    @classmethod
+    def cm(cls):
+        return "cm"
+    @staticmethod
+    def sm():
+        return "sm"
+print(C172.cm(), C172.sm())
