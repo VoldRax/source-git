@@ -1345,3 +1345,6 @@ print(raw183.strip())
 
 ns_183 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_183)
+
+s_184 = sum([1,2,3,4])
+print("sum", s_184)
