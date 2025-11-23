@@ -1314,3 +1314,6 @@ print(p178.v)
 
 parts_178 = ["a","b","c"]
 print("-".join(parts_178))
+
+evens_179 = [i for i in range(10) if i%2==0]
+print(evens_179)
