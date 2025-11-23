@@ -1245,3 +1245,16 @@ print(C172.cm(), C172.sm())
 
 u172 = "\u00fc\u00f1\u00ee"
 print(len(u172))
+
+def match_demo_172(x):
+    try:
+        match x:
+            case 0:
+                print("zero")
+            case 1:
+                print("one")
+            case _:
+                print("other")
+    except Exception:
+        print("match not supported in this interpreter")
+match_demo_172(1)
