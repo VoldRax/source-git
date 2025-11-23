@@ -1421,3 +1421,16 @@ print(raw190.strip())
 
 t190 = "a-b-c"
 print(t190.replace("-", "|"))
+
+class It190:
+    def __init__(self, n):
+        self.i=0
+        self.n=n
+    def __iter__(self):
+        return self
+    def __next__(self):
+        if self.i>=self.n:
+            raise StopIteration
+        self.i+=1
+        return self.i-1
+print(list(It190(3)))
