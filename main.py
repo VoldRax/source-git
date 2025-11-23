@@ -1351,3 +1351,11 @@ print("sum", s_184)
 
 numbers_185 = [i * 2 for i in range(5)]
 print(numbers_185)
+
+class Base186:
+    def who(self):
+        return "base"
+class Sub186(Base186):
+    def who(self):
+        return "sub"
+print(Sub186().who())
