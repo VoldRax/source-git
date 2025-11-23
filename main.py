@@ -1320,3 +1320,16 @@ print(evens_179)
 
 obj_180 = { "id": "8ec10ed7c9", "ts":"2025-11-23T04:45:08.980119+00:00" }
 print(repr(obj_180))
+
+class It181:
+    def __init__(self, n):
+        self.i=0
+        self.n=n
+    def __iter__(self):
+        return self
+    def __next__(self):
+        if self.i>=self.n:
+            raise StopIteration
+        self.i+=1
+        return self.i-1
+print(list(It181(3)))
