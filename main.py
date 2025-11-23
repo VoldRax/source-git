@@ -1408,3 +1408,10 @@ print(flat_189)
 
 data190 = {"name":"n190","uid":"c4890f8593"}
 print("{}".format(data190))
+
+class M190:
+    def mix(self):
+        return "mixed"
+class X190(M190):
+    pass
+print(X190().mix())
