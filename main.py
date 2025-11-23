@@ -1342,3 +1342,6 @@ print(repr(obj_182))
 
 raw183 = "  hello  "
 print(raw183.strip())
+
+ns_183 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_183)
