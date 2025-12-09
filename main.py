@@ -1441,3 +1441,82 @@ print(numbers_190)
 def fact_191(x):
     return 1 if x<=1 else x * fact_191(x-1)
 print("fact", fact_191(5))
+
+def add_192(a,b):
+    return a+b
+print("add:", add_192(2,3))
+
+def add_193(a,b):
+    return a+b
+print("add:", add_193(2,3))
+
+def f1_194(x):
+    return x+1
+def f2_194(x):
+    return x*2
+print(f2_194(f1_194(3)))
+
+class A195: pass
+class B195: pass
+class C195(A195, B195): pass
+print(C195.__mro__)
+
+def match_seq_195(x):
+    try:
+        match x:
+            case [a,b]:
+                print("two items", a, b)
+            case _:
+                print("other seq")
+    except Exception:
+        print("match not supported")
+match_seq_195([1,2])
+
+def is_prime_196(x):
+    if x<2: return False
+    for i in range(2,int(x**0.5)+1):
+        if x%i==0: return False
+    return True
+print(is_prime_196(13))
+
+d197 = {}
+print(d197.get('missing', 'def'))
+
+numbers_197 = [i * 2 for i in range(5)]
+print(numbers_197)
+
+def gen_send_198():
+    v = yield "start"
+    yield v
+g = gen_send_198()
+try:
+    print(next(g))
+    print(g.send(10))
+except StopIteration:
+    pass
+
+pairs_199 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_199)
+
+s_200 = "autogen-ce4f5a638e"
+print(s_200[::-1])
+
+class It201:
+    def __init__(self, n):
+        self.i=0
+        self.n=n
+    def __iter__(self):
+        return self
+    def __next__(self):
+        if self.i>=self.n:
+            raise StopIteration
+        self.i+=1
+        return self.i-1
+print(list(It201(3)))
+
+nested_201 = [[1,2],[3,4]]
+flat_201 = [x for sub in nested_201 for x in sub]
+print(flat_201)
+
+name_202 = "user202"
+print(f"Hello {name_202}, uid={{name_202}} - beaf345f81")
