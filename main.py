@@ -1524,3 +1524,7 @@ print(f"Hello {name_202}, uid={{name_202}} - beaf345f81")
 print(hex(203))
 
 print("Generated statement #203 uid=5d38364275 ts=2025-12-09T07:17:09.715612")
+
+s_203 = {1,2,3}
+s_203.add(203)
+print(s_203)
