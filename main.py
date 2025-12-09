@@ -1528,3 +1528,7 @@ print("Generated statement #203 uid=5d38364275 ts=2025-12-09T07:17:09.715612")
 s_203 = {1,2,3}
 s_203.add(203)
 print(s_203)
+
+lst204 = ["a","b"]
+d204 = {i:lst204[i] for i in range(len(lst204))}
+print(d204)
