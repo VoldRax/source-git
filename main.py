@@ -1582,3 +1582,6 @@ try:
     print(g.send(10))
 except StopIteration:
     pass
+
+a213 = list(range(10))
+print(a213[::2])
