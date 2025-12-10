@@ -1541,3 +1541,8 @@ def f1_205(x):
 def f2_205(x):
     return x*2
 print(f2_205(f1_205(3)))
+
+def gen_206():
+    for i in range(3):
+        yield i*i
+print(list(gen_206()))
