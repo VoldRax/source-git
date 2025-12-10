@@ -1652,3 +1652,5 @@ class Child223(Parent223):
     def val(self):
         return super().val() + 1
 print(Child223().val())
+
+print([0]*223)
