@@ -1679,3 +1679,6 @@ print(raw225.strip())
 
 name_225 = "user225"
 print(f"Hello {name_225}, uid={{name_225}} - ed8a358404")
+
+dkeys_226 = list({'x':9,'y':8}.keys())
+print(dkeys_226)
