@@ -1654,3 +1654,6 @@ class Child223(Parent223):
 print(Child223().val())
 
 print([0]*223)
+
+s_223 = "one two three"
+print(len(s_223.split()))
