@@ -1640,3 +1640,5 @@ print(dkeys_221)
 
 dkeys_222 = list({'x':9,'y':8}.keys())
 print(dkeys_222)
+
+print(223 << 1, 223 >> 1)
