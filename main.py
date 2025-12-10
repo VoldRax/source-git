@@ -1667,3 +1667,6 @@ class GenClass224:
         print("GenClass224 id:", self.id)
 obj_224 = GenClass224()
 obj_224.show()
+
+a225 = list(range(10))
+print(a225[::2])
