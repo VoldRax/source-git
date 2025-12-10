@@ -1572,3 +1572,13 @@ print(lst2_210)
 
 c_211 = (1, [2,3], { "k": "v" })
 print(c_211)
+
+def gen_send_212():
+    v = yield "start"
+    yield v
+g = gen_send_212()
+try:
+    print(next(g))
+    print(g.send(10))
+except StopIteration:
+    pass
