@@ -1634,3 +1634,6 @@ print(state_219)
 
 evens_220 = [i for i in range(10) if i%2==0]
 print(evens_220)
+
+dkeys_221 = list({'x':9,'y':8}.keys())
+print(dkeys_221)
