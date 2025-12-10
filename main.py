@@ -1588,3 +1588,7 @@ print(a213[::2])
 
 for idx, val in enumerate([10,20,30]):
     print("enum", idx, val)
+
+nested_213 = [[1,2],[3,4]]
+flat_213 = [x for sub in nested_213 for x in sub]
+print(flat_213)
