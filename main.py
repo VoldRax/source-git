@@ -1619,3 +1619,8 @@ print(s_216[::-1])
 
 m_217 = [[1,2],[3,4]]
 print(list(zip(*m_217)))
+
+lst2_218 = [1,2]
+lst2_218.extend([3,4])
+lst2_218.pop(0)
+print(lst2_218)
