@@ -1557,3 +1557,10 @@ except ZeroDivisionError:
 
 evens_208 = [i for i in range(10) if i%2==0]
 print(evens_208)
+
+state_209 = 0
+if state_209 == 0:
+    state_209 = 1
+elif state_209 == 1:
+    state_209 = 2
+print(state_209)
