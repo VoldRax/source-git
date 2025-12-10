@@ -1673,3 +1673,6 @@ print(a225[::2])
 
 d225 = {}
 print(d225.get('missing', 'def'))
+
+raw225 = "  hello  "
+print(raw225.strip())
