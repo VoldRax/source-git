@@ -1585,3 +1585,6 @@ except StopIteration:
 
 a213 = list(range(10))
 print(a213[::2])
+
+for idx, val in enumerate([10,20,30]):
+    print("enum", idx, val)
