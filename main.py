@@ -1692,3 +1692,16 @@ try:
     print(g.send(10))
 except StopIteration:
     pass
+
+class It228:
+    def __init__(self, n):
+        self.i=0
+        self.n=n
+    def __iter__(self):
+        return self
+    def __next__(self):
+        if self.i>=self.n:
+            raise StopIteration
+        self.i+=1
+        return self.i-1
+print(list(It228(3)))
