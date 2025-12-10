@@ -1601,3 +1601,6 @@ class CM214:
         print("exit")
 with CM214():
     print("inside context")
+
+expr_214 = "[1,2,3]"
+print(eval(expr_214))
