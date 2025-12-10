@@ -1670,3 +1670,6 @@ obj_224.show()
 
 a225 = list(range(10))
 print(a225[::2])
+
+d225 = {}
+print(d225.get('missing', 'def'))
