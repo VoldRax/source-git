@@ -1535,3 +1535,9 @@ print(d204)
 
 STAMP_204 = ("67b756684e", "2025-12-09T07:17:14.428790")
 print(STAMP_204)
+
+def f1_205(x):
+    return x+1
+def f2_205(x):
+    return x*2
+print(f2_205(f1_205(3)))
