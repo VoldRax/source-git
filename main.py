@@ -1616,3 +1616,6 @@ print(len(u216))
 
 s_216 = "autogen-05e1c42b38"
 print(s_216[::-1])
+
+m_217 = [[1,2],[3,4]]
+print(list(zip(*m_217)))
