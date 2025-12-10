@@ -1631,3 +1631,6 @@ if state_219 == 0:
 elif state_219 == 1:
     state_219 = 2
 print(state_219)
+
+evens_220 = [i for i in range(10) if i%2==0]
+print(evens_220)
