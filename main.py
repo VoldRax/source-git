@@ -1708,3 +1708,6 @@ print(list(It228(3)))
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+for idx, val in enumerate([10,20,30]):
+    print("enum", idx, val)
