@@ -1705,3 +1705,6 @@ class It228:
         self.i+=1
         return self.i-1
 print(list(It228(3)))
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
