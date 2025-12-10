@@ -1644,3 +1644,11 @@ print(dkeys_222)
 print(223 << 1, 223 >> 1)
 
 print(True and False, True or False, not False)
+
+class Parent223:
+    def val(self):
+        return 1
+class Child223(Parent223):
+    def val(self):
+        return super().val() + 1
+print(Child223().val())
