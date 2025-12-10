@@ -1613,3 +1613,6 @@ for a,b in zip([1,2,3], ["x","y","z"]):
 
 u216 = "\u00fc\u00f1\u00ee"
 print(len(u216))
+
+s_216 = "autogen-05e1c42b38"
+print(s_216[::-1])
