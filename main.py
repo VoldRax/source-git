@@ -1642,3 +1642,5 @@ dkeys_222 = list({'x':9,'y':8}.keys())
 print(dkeys_222)
 
 print(223 << 1, 223 >> 1)
+
+print(True and False, True or False, not False)
