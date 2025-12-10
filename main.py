@@ -1564,3 +1564,8 @@ if state_209 == 0:
 elif state_209 == 1:
     state_209 = 2
 print(state_209)
+
+lst2_210 = [1,2]
+lst2_210.extend([3,4])
+lst2_210.pop(0)
+print(lst2_210)
