@@ -1610,3 +1610,6 @@ print("-".join(parts_215))
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+u216 = "\u00fc\u00f1\u00ee"
+print(len(u216))
