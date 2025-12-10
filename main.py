@@ -1607,3 +1607,6 @@ print(eval(expr_214))
 
 parts_215 = ["a","b","c"]
 print("-".join(parts_215))
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
