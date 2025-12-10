@@ -1546,3 +1546,6 @@ def gen_206():
     for i in range(3):
         yield i*i
 print(list(gen_206()))
+
+dkeys_207 = list({'x':9,'y':8}.keys())
+print(dkeys_207)
