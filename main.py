@@ -1659,3 +1659,11 @@ s_223 = "one two three"
 print(len(s_223.split()))
 
 print(hex(224))
+
+class GenClass224:
+    def __init__(self):
+        self.id = "b4ade582fd"
+    def show(self):
+        print("GenClass224 id:", self.id)
+obj_224 = GenClass224()
+obj_224.show()
