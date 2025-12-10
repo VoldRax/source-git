@@ -1554,3 +1554,6 @@ try:
     1/0
 except ZeroDivisionError:
     print("caught div by zero")
+
+evens_208 = [i for i in range(10) if i%2==0]
+print(evens_208)
