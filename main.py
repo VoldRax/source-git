@@ -1624,3 +1624,10 @@ lst2_218 = [1,2]
 lst2_218.extend([3,4])
 lst2_218.pop(0)
 print(lst2_218)
+
+state_219 = 0
+if state_219 == 0:
+    state_219 = 1
+elif state_219 == 1:
+    state_219 = 2
+print(state_219)
