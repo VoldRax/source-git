@@ -1549,3 +1549,8 @@ print(list(gen_206()))
 
 dkeys_207 = list({'x':9,'y':8}.keys())
 print(dkeys_207)
+
+try:
+    1/0
+except ZeroDivisionError:
+    print("caught div by zero")
