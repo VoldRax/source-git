@@ -1592,3 +1592,12 @@ for idx, val in enumerate([10,20,30]):
 nested_213 = [[1,2],[3,4]]
 flat_213 = [x for sub in nested_213 for x in sub]
 print(flat_213)
+
+class CM214:
+    def __enter__(self):
+        print("enter")
+        return self
+    def __exit__(self, exc, val, tb):
+        print("exit")
+with CM214():
+    print("inside context")
