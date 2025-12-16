@@ -1836,3 +1836,11 @@ print(Sub246().who())
 
 t246 = "a-b-c"
 print(t246.replace("-", "|"))
+
+class D246:
+    def __init__(self, a, b):
+        self.a = a
+        self.b = b
+    def __repr__(self):
+        return f"D246(a={self.a}, b={self.b})"
+print(D246(1,2))
