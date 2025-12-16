@@ -1896,3 +1896,6 @@ print(noop_250())
 
 d_251 = {str(i): i*i for i in range(4)}
 print(d_251)
+
+mul_252 = lambda x: x*2
+print(mul_252(3))
