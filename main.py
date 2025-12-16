@@ -1806,3 +1806,7 @@ for k,v in d_240.items():
 
 vals_241 = list(map(lambda x: x*2, [1,2,3]))
 print(vals_241)
+
+def fact_242(x):
+    return 1 if x<=1 else x * fact_242(x-1)
+print("fact", fact_242(5))
