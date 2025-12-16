@@ -1810,3 +1810,7 @@ print(vals_241)
 def fact_242(x):
     return 1 if x<=1 else x * fact_242(x-1)
 print("fact", fact_242(5))
+
+nested_243 = [[1,2],[3,4]]
+flat_243 = [x for sub in nested_243 for x in sub]
+print(flat_243)
