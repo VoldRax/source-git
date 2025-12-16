@@ -1814,3 +1814,8 @@ print("fact", fact_242(5))
 nested_243 = [[1,2],[3,4]]
 flat_243 = [x for sub in nested_243 for x in sub]
 print(flat_243)
+
+def gen_244():
+    for i in range(3):
+        yield i*i
+print(list(gen_244()))
