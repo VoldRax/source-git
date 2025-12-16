@@ -1785,3 +1785,13 @@ print(t237.replace("-", "|"))
 
 ns_237 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_237)
+
+def gen_send_238():
+    v = yield "start"
+    yield v
+g = gen_send_238()
+try:
+    print(next(g))
+    print(g.send(10))
+except StopIteration:
+    pass
