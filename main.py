@@ -1860,3 +1860,8 @@ def match_demo_246(x):
     except Exception:
         print("match not supported in this interpreter")
 match_demo_246(1)
+
+def make_adder_247(a):
+    return lambda x: x + a
+adder_247 = make_adder_247(5)
+print(adder_247(10))
