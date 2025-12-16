@@ -1833,3 +1833,6 @@ class Sub246(Base246):
     def who(self):
         return "sub"
 print(Sub246().who())
+
+t246 = "a-b-c"
+print(t246.replace("-", "|"))
