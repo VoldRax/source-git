@@ -1718,3 +1718,6 @@ for k,v in d_228.items():
 
 d229 = {}
 print(d229.get('missing', 'def'))
+
+for a,b in zip([1,2,3], ["x","y","z"]):
+    print(a, b)
