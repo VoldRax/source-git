@@ -1744,3 +1744,7 @@ print(adder_231(10))
 
 expr_232 = "[1,2,3]"
 print(eval(expr_232))
+
+d_233 = {'a':1,'b':2}
+for k,v in d_233.items():
+    print(k, v)
