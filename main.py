@@ -1880,3 +1880,7 @@ def make_adder_248(a):
     return lambda x: x + a
 adder_248 = make_adder_248(5)
 print(adder_248(10))
+
+arr249 = [1,2,3]
+for i in range(len(arr249)-1):
+    print(arr249[i], arr249[i+1])
