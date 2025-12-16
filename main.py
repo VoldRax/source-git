@@ -1736,3 +1736,8 @@ print(STAMP_230)
 
 s231 = "a b  c"
 print([t for t in s231.split()])
+
+def make_adder_231(a):
+    return lambda x: x + a
+adder_231 = make_adder_231(5)
+print(adder_231(10))
