@@ -1875,3 +1875,8 @@ print(X248().mix())
 
 u248 = "\u00fc\u00f1\u00ee"
 print(len(u248))
+
+def make_adder_248(a):
+    return lambda x: x + a
+adder_248 = make_adder_248(5)
+print(adder_248(10))
