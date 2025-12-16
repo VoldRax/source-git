@@ -1822,3 +1822,6 @@ print(list(gen_244()))
 
 pairs_245 = [(i, j) for i in range(3) for j in range(2)]
 print(pairs_245)
+
+a246 = list(range(10))
+print(a246[::2])
