@@ -1825,3 +1825,11 @@ print(pairs_245)
 
 a246 = list(range(10))
 print(a246[::2])
+
+class Base246:
+    def who(self):
+        return "base"
+class Sub246(Base246):
+    def who(self):
+        return "sub"
+print(Sub246().who())
