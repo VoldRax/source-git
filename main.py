@@ -1847,3 +1847,16 @@ print(D246(1,2))
 
 data246 = {"name":"n246","uid":"4c92a41798"}
 print("{}".format(data246))
+
+def match_demo_246(x):
+    try:
+        match x:
+            case 0:
+                print("zero")
+            case 1:
+                print("one")
+            case _:
+                print("other")
+    except Exception:
+        print("match not supported in this interpreter")
+match_demo_246(1)
