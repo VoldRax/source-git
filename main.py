@@ -1872,3 +1872,6 @@ class M248:
 class X248(M248):
     pass
 print(X248().mix())
+
+u248 = "\u00fc\u00f1\u00ee"
+print(len(u248))
