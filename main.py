@@ -1757,3 +1757,11 @@ print(7 in arr_234)
 d_235 = {'a':1,'b':2}
 for k,v in d_235.items():
     print(k, v)
+
+class Base236:
+    def who(self):
+        return "base"
+class Sub236(Base236):
+    def who(self):
+        return "sub"
+print(Sub236().who())
