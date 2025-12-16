@@ -1799,3 +1799,7 @@ except StopIteration:
 def add_239(a,b):
     return a+b
 print("add:", add_239(2,3))
+
+d_240 = {'a':1,'b':2}
+for k,v in d_240.items():
+    print(k, v)
