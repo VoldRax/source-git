@@ -1721,3 +1721,6 @@ print(d229.get('missing', 'def'))
 
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
+
+vals_229 = list(map(lambda x: x*2, [1,2,3]))
+print(vals_229)
