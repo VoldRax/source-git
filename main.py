@@ -1711,3 +1711,7 @@ for a,b in zip([1,2,3], ["x","y","z"]):
 
 for idx, val in enumerate([10,20,30]):
     print("enum", idx, val)
+
+d_228 = {'a':1,'b':2}
+for k,v in d_228.items():
+    print(k, v)
