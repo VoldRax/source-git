@@ -1715,3 +1715,6 @@ for idx, val in enumerate([10,20,30]):
 d_228 = {'a':1,'b':2}
 for k,v in d_228.items():
     print(k, v)
+
+d229 = {}
+print(d229.get('missing', 'def'))
