@@ -1844,3 +1844,6 @@ class D246:
     def __repr__(self):
         return f"D246(a={self.a}, b={self.b})"
 print(D246(1,2))
+
+data246 = {"name":"n246","uid":"4c92a41798"}
+print("{}".format(data246))
