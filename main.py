@@ -1779,3 +1779,6 @@ def deco_236(f):
 def targ_236():
     print("target")
 targ_236()
+
+t237 = "a-b-c"
+print(t237.replace("-", "|"))
