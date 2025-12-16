@@ -1765,3 +1765,5 @@ class Sub236(Base236):
     def who(self):
         return "sub"
 print(Sub236().who())
+
+print(True and False, True or False, not False)
