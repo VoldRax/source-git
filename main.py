@@ -1865,3 +1865,10 @@ def make_adder_247(a):
     return lambda x: x + a
 adder_247 = make_adder_247(5)
 print(adder_247(10))
+
+class M248:
+    def mix(self):
+        return "mixed"
+class X248(M248):
+    pass
+print(X248().mix())
