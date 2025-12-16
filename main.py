@@ -1733,3 +1733,6 @@ print("{}".format(data230))
 
 STAMP_230 = ("738bfa0586", "2025-12-16T08:02:16.317505")
 print(STAMP_230)
+
+s231 = "a b  c"
+print([t for t in s231.split()])
