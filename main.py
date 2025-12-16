@@ -1803,3 +1803,6 @@ print("add:", add_239(2,3))
 d_240 = {'a':1,'b':2}
 for k,v in d_240.items():
     print(k, v)
+
+vals_241 = list(map(lambda x: x*2, [1,2,3]))
+print(vals_241)
