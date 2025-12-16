@@ -1741,3 +1741,6 @@ def make_adder_231(a):
     return lambda x: x + a
 adder_231 = make_adder_231(5)
 print(adder_231(10))
+
+expr_232 = "[1,2,3]"
+print(eval(expr_232))
