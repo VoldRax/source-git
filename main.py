@@ -1819,3 +1819,6 @@ def gen_244():
     for i in range(3):
         yield i*i
 print(list(gen_244()))
+
+pairs_245 = [(i, j) for i in range(3) for j in range(2)]
+print(pairs_245)
