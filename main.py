@@ -1767,3 +1767,15 @@ class Sub236(Base236):
 print(Sub236().who())
 
 print(True and False, True or False, not False)
+
+def deco_236(f):
+    def wrapper(*a, **k):
+        print("before")
+        r=f(*a, **k)
+        print("after")
+        return r
+    return wrapper
+@deco_236
+def targ_236():
+    print("target")
+targ_236()
