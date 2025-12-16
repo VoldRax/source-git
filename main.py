@@ -1887,3 +1887,6 @@ for i in range(len(arr249)-1):
 
 arr_249=[3,5,7,9]
 print(7 in arr_249)
+
+u250 = "\u00fc\u00f1\u00ee"
+print(len(u250))
