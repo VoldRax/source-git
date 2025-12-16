@@ -1899,3 +1899,7 @@ print(d_251)
 
 mul_252 = lambda x: x*2
 print(mul_252(3))
+
+lst253 = ["a","b"]
+d253 = {i:lst253[i] for i in range(len(lst253))}
+print(d253)
