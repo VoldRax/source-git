@@ -1893,3 +1893,6 @@ print(len(u250))
 
 noop_250 = lambda: None
 print(noop_250())
+
+d_251 = {str(i): i*i for i in range(4)}
+print(d_251)
