@@ -1724,3 +1724,6 @@ for a,b in zip([1,2,3], ["x","y","z"]):
 
 vals_229 = list(map(lambda x: x*2, [1,2,3]))
 print(vals_229)
+
+for idx, val in enumerate([10,20,30]):
+    print("enum", idx, val)
