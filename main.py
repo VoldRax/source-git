@@ -1782,3 +1782,6 @@ targ_236()
 
 t237 = "a-b-c"
 print(t237.replace("-", "|"))
+
+ns_237 = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_237)
