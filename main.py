@@ -1890,3 +1890,6 @@ print(7 in arr_249)
 
 u250 = "\u00fc\u00f1\u00ee"
 print(len(u250))
+
+noop_250 = lambda: None
+print(noop_250())
