@@ -1884,3 +1884,6 @@ print(adder_248(10))
 arr249 = [1,2,3]
 for i in range(len(arr249)-1):
     print(arr249[i], arr249[i+1])
+
+arr_249=[3,5,7,9]
+print(7 in arr_249)
