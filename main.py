@@ -1727,3 +1727,6 @@ print(vals_229)
 
 for idx, val in enumerate([10,20,30]):
     print("enum", idx, val)
+
+data230 = {"name":"n230","uid":"3d6b2d36ee"}
+print("{}".format(data230))
