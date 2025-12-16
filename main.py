@@ -1750,3 +1750,6 @@ for k,v in d_233.items():
     print(k, v)
 
 print("Generated statement #234 uid=fe6844b7c5 ts=2025-12-16T08:02:24.422013")
+
+arr_234=[3,5,7,9]
+print(7 in arr_234)
