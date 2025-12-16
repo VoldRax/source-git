@@ -1903,3 +1903,6 @@ print(mul_252(3))
 lst253 = ["a","b"]
 d253 = {i:lst253[i] for i in range(len(lst253))}
 print(d253)
+
+dkeys_253 = list({'x':9,'y':8}.keys())
+print(dkeys_253)
