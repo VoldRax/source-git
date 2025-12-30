@@ -1906,3 +1906,13 @@ print(d253)
 
 dkeys_253 = list({'x':9,'y':8}.keys())
 print(dkeys_253)
+
+# ---- AUTO GENERATED ----
+class CM254:
+    def __enter__(self):
+        print("enter")
+        return self
+    def __exit__(self, exc, val, tb):
+        print("exit")
+with CM254():
+    print("inside context")
