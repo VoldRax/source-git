@@ -126,3 +126,4 @@ class Sub{n}(Base{n}):
     def who(self):
         return "sub"
 print(Sub{n}().who())
+print(True and False, True or False, not False)
