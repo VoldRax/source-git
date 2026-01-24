@@ -103,3 +103,6 @@ obj_{n} = { "id": "{uid}", "ts":"{ts}" }
 print(repr(obj_{n}))
 for idx, val in enumerate([10,20,30]):
     print("enum", idx, val)
+items_{n} = [("b",2),("a",1)]
+items_{n}.sort(key=lambda x: x[0])
+print(items_{n})
