@@ -71,3 +71,11 @@ def is_prime_{n}(x):
 print(is_prime_{n}(13))
 arr_{n}=[3,5,7,9]
 print(7 in arr_{n})
+class CM{n}:
+    def __enter__(self):
+        print("enter")
+        return self
+    def __exit__(self, exc, val, tb):
+        print("exit")
+with CM{n}():
+    print("inside context")
