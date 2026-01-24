@@ -129,3 +129,5 @@ print(Sub{n}().who())
 print(True and False, True or False, not False)
 ns_{n} = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_{n})
+s_{n} = sum([1,2,3,4])
+print("sum", s_{n})
