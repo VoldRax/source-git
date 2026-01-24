@@ -116,3 +116,5 @@ print(Child{n}().val())
 d_{n} = {'a':1,'b':2}
 for k,v in d_{n}.items():
     print(k, v)
+d{n} = {}
+print(d{n}.get('missing', 'def'))
