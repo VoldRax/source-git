@@ -94,3 +94,5 @@ class P{n}:
 p{n}=P{n}()
 p{n}.v=5
 print(p{n}.v)
+arr_{n}=[3,5,7,9]
+print(7 in arr_{n})
