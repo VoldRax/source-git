@@ -119,3 +119,10 @@ for k,v in d_{n}.items():
 d{n} = {}
 print(d{n}.get('missing', 'def'))
 print({n} << 1, {n} >> 1)
+class Base{n}:
+    def who(self):
+        return "base"
+class Sub{n}(Base{n}):
+    def who(self):
+        return "sub"
+print(Sub{n}().who())
