@@ -127,3 +127,5 @@ class Sub{n}(Base{n}):
         return "sub"
 print(Sub{n}().who())
 print(True and False, True or False, not False)
+ns_{n} = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
+print(ns_{n})
