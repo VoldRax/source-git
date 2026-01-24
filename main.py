@@ -131,3 +131,7 @@ ns_{n} = [{"i":i, "s":[j for j in range(i)]} for i in range(3)]
 print(ns_{n})
 s_{n} = sum([1,2,3,4])
 print("sum", s_{n})
+lst2_{n} = [1,2]
+lst2_{n}.extend([3,4])
+lst2_{n}.pop(0)
+print(lst2_{n})
