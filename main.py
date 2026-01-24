@@ -106,3 +106,10 @@ for idx, val in enumerate([10,20,30]):
 items_{n} = [("b",2),("a",1)]
 items_{n}.sort(key=lambda x: x[0])
 print(items_{n})
+class Parent{n}:
+    def val(self):
+        return 1
+class Child{n}(Parent{n}):
+    def val(self):
+        return super().val() + 1
+print(Child{n}().val())
