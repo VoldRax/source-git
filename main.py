@@ -80,3 +80,5 @@ class CM{n}:
 with CM{n}():
     print("inside context")
 print({n} << 1, {n} >> 1)
+d_{n} = {str(i): i*i for i in range(4)}
+print(d_{n})
