@@ -99,3 +99,5 @@ print(7 in arr_{n})
 for a,b in zip([1,2,3], ["x","y","z"]):
     print(a, b)
 print("Generated statement #{n} uid={uid} ts={ts}")
+obj_{n} = { "id": "{uid}", "ts":"{ts}" }
+print(repr(obj_{n}))
