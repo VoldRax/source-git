@@ -82,3 +82,15 @@ with CM{n}():
 print({n} << 1, {n} >> 1)
 d_{n} = {str(i): i*i for i in range(4)}
 print(d_{n})
+class P{n}:
+    def __init__(self):
+        self._v=0
+    @property
+    def v(self):
+        return self._v
+    @v.setter
+    def v(self, x):
+        self._v = x
+p{n}=P{n}()
+p{n}.v=5
+print(p{n}.v)
