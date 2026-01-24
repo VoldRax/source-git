@@ -118,3 +118,4 @@ for k,v in d_{n}.items():
     print(k, v)
 d{n} = {}
 print(d{n}.get('missing', 'def'))
+print({n} << 1, {n} >> 1)
