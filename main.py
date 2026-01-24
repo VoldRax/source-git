@@ -79,3 +79,4 @@ class CM{n}:
         print("exit")
 with CM{n}():
     print("inside context")
+print({n} << 1, {n} >> 1)
