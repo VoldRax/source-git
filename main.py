@@ -210,3 +210,9 @@ lst2_{n} = [1, 2]
 lst2_{n}.extend([3, 4])
 lst2_{n}.pop(0)
 print(lst2_{n})
+
+
+class Base{n}:
+    def who(self):
+        return "base"
+
