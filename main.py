@@ -216,3 +216,5 @@ class Base{n}:
     def who(self):
         return "base"
 
+s_1 = sum([1,2,3,4])
+print("sum", s_1)
